@@ -1,0 +1,124 @@
+php artisan migrate:refresh --seed
+php artisan storage:link
+php artisan tinker
+ProviderLevel::factory()->count(5)->create()
+
+ ProviderType::factory()->has(ProviderService::factory()->count(4))->count(10)->create();
+
+glpat-rbhiMMSdHrWR8Xmdzyax
+
+
+ssh-keygen -o -t rsa -C "most22491@gmail.com"
+$7)z)TQz(qbepw4D
+
+php artisan migrate:generate
+
+php artisan migrate:generate --tables="table1,table2,table3,table4,table5"
+php artisan migrate:generate --tables="admin_changes_logs,icd10_index,medicines_data,icd10_tabular,medicine_prices,icd10_diagnosis,effective_materials,cpt_cat_file,admin_logs,icd10_information,cpt_services_file,icd10_detail"
+php artisan migrate:generate --tables="our_price_lists_service_medical_name_explodes,our_price_lists_service_name_en_explodes,mappings_name_explodes,our_price_list_service_medical_name_mapping_matches,our_price_list_service_name_en_mapping_matches,our_price_lists_service_name_ar_explodes,our_price_list_service_name_ar_mapping_matches"
+
+
+php artisan migrate:generate --ignore="table3,table4,table5"
+php artisan migrate:generate --tables="icd10,medicines"
+
+php artisan migrate:generate --tables="our_price_lists_types,our_price_lists,our_price_lists_prices"
+
+
+php artisan iseed icd10,medicines
+
+php -d memory_limit=512M artisan iseed icd10,medicines
+
+php artisan iseed my_table
+
+php artisan iseed my_table,another_table
+
+
+php artisan iseed my_table --classnameprefix=Customized
+
+
+php artisan iseed cpt_categories,cpt_services
+
+
+
+gtmetrix -p 8000 -fn
+
+
+UPDATE icd10_tabular SET code= substring_index(substring_index(description, '(', -1),')', 1)
+
+
+
+
+INSERT INTO `icd10` (type,code,`order`,description) SELECT 'tabular_code' AS type,code,`order`,description FROM icd10_tabular
+
+
+
+
+UPDATE icd10_index SET index_code= substring_index(substring_index(description, '(', -1),')', 1)
+
+SELECT CONCAT("UPDATE icd10_index SET tabular_code='",icd10.code,"' WHERE `tabular_order`='",icd10.order,"';") FROM `icd10_index` INNER JOIN icd10 ON icd10_index.tabular_order=icd10.order AND icd10.type='tabular_code'
+
+
+
+INSERT INTO `icd10` (parent_id,type,code,`order`,description,status) SELECT icd10.id AS parent_id,'index_code' AS type,icd10_index.index_code AS code,icd10_index.index_order AS `order`,icd10_index.description,icd10_index.status FROM `icd10_index` INNER JOIN icd10 ON icd10.code=icd10_index.tabular_code AND icd10.type='tabular_code'
+
+
+
+
+SELECT CONCAT("UPDATE icd10_diagnosis SET tabular_code='",tabular_code,"' WHERE tabular_order='",tabular_order,"';") FROM (SELECT DISTINCT tabular_order AS tabular_order,icd10_tabular.code AS tabular_code FROM `icd10_diagnosis` INNER JOIN icd10_tabular ON icd10_tabular.order=icd10_diagnosis.tabular_order) as dd
+
+
+
+SELECT CONCAT("UPDATE icd10_diagnosis SET index_code='",icd10_index.index_code,"' WHERE tabular_code='",dd.tabular_code,"' AND index_order='",dd.index_order,"';") FROM (SELECT DISTINCT tabular_code,index_order,index_code FROM `icd10_diagnosis` )AS dd
+INNER JOIN  icd10_index  ON icd10_index.tabular_code=dd.tabular_code AND icd10_index.index_order=dd.index_order
+
+
+
+INSERT INTO `icd10` (parent_id,type,code,description,status,waiting_period,gender,marital_status,from_age,to_age) SELECT icd10.id AS parent_id,'diagnosis_code' AS type,icd10_diagnosis.diganosis_code AS code,icd10_diagnosis.description,icd10_diagnosis.status,icd10_diagnosis.waiting_period,icd10_diagnosis.gender,icd10_diagnosis.marital_status,icd10_diagnosis.from_age,icd10_diagnosis.to_age FROM `icd10_diagnosis` INNER JOIN icd10 ON icd10.code=index_code AND icd10.type='index_code'
+
+
+
+INSERT INTO `icd10` (parent_id,type,code,description) SELECT icd10.id AS parent_id,'detail_code' AS type,icd10_detail.detail_code AS code,icd10_detail.description FROM `icd10_detail` INNER JOIN icd10 ON icd10.code=icd10_detail.diganosis_code AND icd10.type='diagnosis_code'
+
+
+
+
+INSERT INTO `icd10` (parent_id,type,code,description) SELECT icd10.id AS parent_id,'information_code' AS type,icd10_information.information_code AS code,icd10_information.description FROM `icd10_information` INNER JOIN icd10 ON icd10.code=icd10_information.detail_code AND icd10.type='detail_code'
+//
+
+
+
+INSERT INTO medicines (`med_id`, `name`, `article_description`, `use`, `company`, `discount_status_type`, `origin_status`, `created`, `base_unit_of_measure`, `no_of_units`, `smallest_unit`, `effective_date`, `sales_price`, `language`, `external_merchandise_category`, `merchandise_category`, `day_left`)SELECT `med_id`, `name`, `article_description`, `use`, `company`, `discount_status_type`, `origin_status`, `created`, `base_unit_of_measure`, `no_of_units`, `smallest_unit`, `effective_date`, `sales_price`, `language`, `external_merchandise_category`, `merchandise_category`, `day_left` FROM `medicines_data`
+
+
+
+
+
+
+
+
+/////////////
+
+INSERT INTO `our_price_lists_types`(`provider_type_id`, `name`) SELECT provider_types.id+1,title FROM provider_types;
+
+
+
+INSERT INTO our_price_lists ( `provider_type_id`, `our_price_lists_type_id`, `code`, `service_name`, `service_name_ar`, `service_name_en`, `service_medical_name`, `department`, `services_note`, `services_level`, `type`, `services_description`, `status`, `updated_by`, `created_by`, `deleted_by`, `created_at`, `updated_at`, `deleted_at`) SELECT provider_types.id,provider_types.id+1,`code`, `service_name`, `service_name_ar`, `service_name_en`, `service_medical_name`, `department`, `services_note`, `services_level`, `type`, `services_description`, `status`, our_price_lists.`updated_by`, our_price_lists.`created_by`, our_price_lists.`deleted_by`, our_price_lists.`created_at`, our_price_lists.`updated_at`, our_price_lists.`deleted_at` FROM provider_types JOIN our_price_lists;
+
+
+INSERT INTO our_price_lists_prices ( `provider_type_id`, `our_price_lists_type_id`, `our_price_list_id`, `price`, `start_date`, `end_date`, `status`) SELECT our_price_lists.provider_type_id,our_price_lists.our_price_lists_type_id,our_price_lists.id, `price`, `start_date`, `end_date`, our_price_lists.`status` FROM our_price_lists JOIN our_price_lists_prices;
+
+
+php artisan migrate:generate --tables="mappings_name_explodes,our_price_lists_service_medical_name_explodes,our_price_lists_service_name_ar_explodes,our_price_lists_service_name_en_explodes"
+
+php artisan migrate:generate --tables="our_price_list_service_medical_name_mapping_matches,our_price_list_service_name_ar_mapping_matches,our_price_list_service_name_en_mapping_matches"
+
+
+
+ php artisan make:migration create_mappings_name_explodes_table
+ php artisan make:migration create_our_price_lists_service_medical_name_explodes_table
+ php artisan make:migration create_our_price_lists_service_name_ar_explodes_table
+ php artisan make:migration create_our_price_lists_service_name_en_explodes_table
+ php artisan make:migration create_our_price_list_service_medical_name_mapping_matches_table
+ php artisan make:migration create_our_price_list_service_name_ar_mapping_matches_table
+ php artisan make:migration create_our_price_list_service_name_en_mapping_matches_table
+

@@ -1,0 +1,12 @@
+{
+    "type": "service_account",
+    "project_id": "care-lite-2f3f9",
+    "private_key_id": "78751975110",
+    "private_key": "AAAAElX7xsY:APA91bGtiKonwQWE_yBVdCuXiz6QYHark7aL7XoV9Aj7SJo5HqCeZm4sZjWF3ncxXP7QaDWg5iH-A9tuD5kFUIvwVncbCyURULCpcD9R6dbHJ6vq8libjgRI_-nXhDMn0_qYvIaRDueW",
+    "client_email": "your-client-email@your-project-id.iam.gserviceaccount.com",
+    "client_id": "78751975110-4aapu0b3hsbqd92jfp3gas6ot7v1d8c6.apps.googleusercontent.com",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://accounts.google.com/o/oauth2/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/your-client-email%40your-project-id.iam.gserviceaccount.com"
+}

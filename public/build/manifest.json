@@ -1,0 +1,2151 @@
+{
+  "resources/assets/fonts/LineIcons.eot": {
+    "file": "assets/LineIcons.a26b73bc.eot",
+    "src": "resources/assets/fonts/LineIcons.eot"
+  },
+  "resources/assets/fonts/boxicons.eot": {
+    "file": "assets/boxicons.2d8213f1.eot",
+    "src": "resources/assets/fonts/boxicons.eot"
+  },
+  "resources/assets/flags/4x3/ae.svg": {
+    "file": "assets/ae.327bf467.svg",
+    "src": "resources/assets/flags/4x3/ae.svg"
+  },
+  "resources/assets/flags/1x1/ae.svg": {
+    "file": "assets/ae.3e8c73fb.svg",
+    "src": "resources/assets/flags/1x1/ae.svg"
+  },
+  "resources/assets/flags/1x1/ad.svg": {
+    "file": "assets/ad.037f17e6.svg",
+    "src": "resources/assets/flags/1x1/ad.svg"
+  },
+  "resources/assets/flags/4x3/ad.svg": {
+    "file": "assets/ad.b8f66c80.svg",
+    "src": "resources/assets/flags/4x3/ad.svg"
+  },
+  "resources/assets/flags/4x3/af.svg": {
+    "file": "assets/af.0f4a6a68.svg",
+    "src": "resources/assets/flags/4x3/af.svg"
+  },
+  "resources/assets/flags/1x1/af.svg": {
+    "file": "assets/af.e53a7f80.svg",
+    "src": "resources/assets/flags/1x1/af.svg"
+  },
+  "resources/assets/flags/4x3/ag.svg": {
+    "file": "assets/ag.d62d9cb5.svg",
+    "src": "resources/assets/flags/4x3/ag.svg"
+  },
+  "resources/assets/flags/1x1/ag.svg": {
+    "file": "assets/ag.adfeff68.svg",
+    "src": "resources/assets/flags/1x1/ag.svg"
+  },
+  "resources/assets/flags/4x3/ai.svg": {
+    "file": "assets/ai.619d2b6f.svg",
+    "src": "resources/assets/flags/4x3/ai.svg"
+  },
+  "resources/assets/flags/1x1/al.svg": {
+    "file": "assets/al.dcf3ead3.svg",
+    "src": "resources/assets/flags/1x1/al.svg"
+  },
+  "resources/assets/flags/1x1/ai.svg": {
+    "file": "assets/ai.2b72d6a4.svg",
+    "src": "resources/assets/flags/1x1/ai.svg"
+  },
+  "resources/assets/flags/4x3/am.svg": {
+    "file": "assets/am.50743f38.svg",
+    "src": "resources/assets/flags/4x3/am.svg"
+  },
+  "resources/assets/flags/4x3/ao.svg": {
+    "file": "assets/ao.348830a9.svg",
+    "src": "resources/assets/flags/4x3/ao.svg"
+  },
+  "resources/assets/flags/1x1/am.svg": {
+    "file": "assets/am.8211a8ec.svg",
+    "src": "resources/assets/flags/1x1/am.svg"
+  },
+  "resources/assets/flags/4x3/al.svg": {
+    "file": "assets/al.3bc41f68.svg",
+    "src": "resources/assets/flags/4x3/al.svg"
+  },
+  "resources/assets/flags/1x1/aq.svg": {
+    "file": "assets/aq.a693ffbd.svg",
+    "src": "resources/assets/flags/1x1/aq.svg"
+  },
+  "resources/assets/flags/4x3/aq.svg": {
+    "file": "assets/aq.34de96f7.svg",
+    "src": "resources/assets/flags/4x3/aq.svg"
+  },
+  "resources/assets/flags/1x1/ao.svg": {
+    "file": "assets/ao.c42f57bd.svg",
+    "src": "resources/assets/flags/1x1/ao.svg"
+  },
+  "resources/assets/flags/4x3/ar.svg": {
+    "file": "assets/ar.741809e1.svg",
+    "src": "resources/assets/flags/4x3/ar.svg"
+  },
+  "resources/assets/flags/1x1/ar.svg": {
+    "file": "assets/ar.5b3e2bf5.svg",
+    "src": "resources/assets/flags/1x1/ar.svg"
+  },
+  "resources/assets/flags/4x3/at.svg": {
+    "file": "assets/at.a0af7b25.svg",
+    "src": "resources/assets/flags/4x3/at.svg"
+  },
+  "resources/assets/flags/4x3/as.svg": {
+    "file": "assets/as.8ff61247.svg",
+    "src": "resources/assets/flags/4x3/as.svg"
+  },
+  "resources/assets/flags/1x1/as.svg": {
+    "file": "assets/as.2e373f9e.svg",
+    "src": "resources/assets/flags/1x1/as.svg"
+  },
+  "resources/assets/flags/4x3/au.svg": {
+    "file": "assets/au.1b50a800.svg",
+    "src": "resources/assets/flags/4x3/au.svg"
+  },
+  "resources/assets/flags/1x1/at.svg": {
+    "file": "assets/at.53430d4e.svg",
+    "src": "resources/assets/flags/1x1/at.svg"
+  },
+  "resources/assets/flags/4x3/aw.svg": {
+    "file": "assets/aw.94f33e5c.svg",
+    "src": "resources/assets/flags/4x3/aw.svg"
+  },
+  "resources/assets/flags/4x3/ax.svg": {
+    "file": "assets/ax.a0a803ff.svg",
+    "src": "resources/assets/flags/4x3/ax.svg"
+  },
+  "resources/assets/flags/1x1/aw.svg": {
+    "file": "assets/aw.ab7111cf.svg",
+    "src": "resources/assets/flags/1x1/aw.svg"
+  },
+  "resources/assets/flags/1x1/au.svg": {
+    "file": "assets/au.405b91a9.svg",
+    "src": "resources/assets/flags/1x1/au.svg"
+  },
+  "resources/assets/flags/4x3/az.svg": {
+    "file": "assets/az.647e6236.svg",
+    "src": "resources/assets/flags/4x3/az.svg"
+  },
+  "resources/assets/flags/4x3/ba.svg": {
+    "file": "assets/ba.cf0cd8cd.svg",
+    "src": "resources/assets/flags/4x3/ba.svg"
+  },
+  "resources/assets/flags/1x1/ba.svg": {
+    "file": "assets/ba.3621059a.svg",
+    "src": "resources/assets/flags/1x1/ba.svg"
+  },
+  "resources/assets/flags/1x1/az.svg": {
+    "file": "assets/az.a8c2d1e3.svg",
+    "src": "resources/assets/flags/1x1/az.svg"
+  },
+  "resources/assets/flags/1x1/ax.svg": {
+    "file": "assets/ax.7055d27e.svg",
+    "src": "resources/assets/flags/1x1/ax.svg"
+  },
+  "resources/assets/flags/1x1/bd.svg": {
+    "file": "assets/bd.b0778c40.svg",
+    "src": "resources/assets/flags/1x1/bd.svg"
+  },
+  "resources/assets/flags/1x1/bb.svg": {
+    "file": "assets/bb.bdb4dc3e.svg",
+    "src": "resources/assets/flags/1x1/bb.svg"
+  },
+  "resources/assets/flags/1x1/be.svg": {
+    "file": "assets/be.90f8d135.svg",
+    "src": "resources/assets/flags/1x1/be.svg"
+  },
+  "resources/assets/flags/4x3/bd.svg": {
+    "file": "assets/bd.c97a362f.svg",
+    "src": "resources/assets/flags/4x3/bd.svg"
+  },
+  "resources/assets/flags/4x3/bb.svg": {
+    "file": "assets/bb.aa11235b.svg",
+    "src": "resources/assets/flags/4x3/bb.svg"
+  },
+  "resources/assets/flags/4x3/bf.svg": {
+    "file": "assets/bf.239c939c.svg",
+    "src": "resources/assets/flags/4x3/bf.svg"
+  },
+  "resources/assets/flags/4x3/be.svg": {
+    "file": "assets/be.d1b8dae6.svg",
+    "src": "resources/assets/flags/4x3/be.svg"
+  },
+  "resources/assets/flags/1x1/bf.svg": {
+    "file": "assets/bf.d90ad21e.svg",
+    "src": "resources/assets/flags/1x1/bf.svg"
+  },
+  "resources/assets/flags/1x1/bg.svg": {
+    "file": "assets/bg.7b83d3db.svg",
+    "src": "resources/assets/flags/1x1/bg.svg"
+  },
+  "resources/assets/flags/4x3/bg.svg": {
+    "file": "assets/bg.211dd587.svg",
+    "src": "resources/assets/flags/4x3/bg.svg"
+  },
+  "resources/assets/flags/4x3/bh.svg": {
+    "file": "assets/bh.e4fbc994.svg",
+    "src": "resources/assets/flags/4x3/bh.svg"
+  },
+  "resources/assets/flags/4x3/bi.svg": {
+    "file": "assets/bi.e0f5c657.svg",
+    "src": "resources/assets/flags/4x3/bi.svg"
+  },
+  "resources/assets/flags/4x3/bj.svg": {
+    "file": "assets/bj.d4eda6db.svg",
+    "src": "resources/assets/flags/4x3/bj.svg"
+  },
+  "resources/assets/flags/1x1/bh.svg": {
+    "file": "assets/bh.8421dbfc.svg",
+    "src": "resources/assets/flags/1x1/bh.svg"
+  },
+  "resources/assets/flags/4x3/bl.svg": {
+    "file": "assets/bl.907c95fc.svg",
+    "src": "resources/assets/flags/4x3/bl.svg"
+  },
+  "resources/assets/flags/1x1/bi.svg": {
+    "file": "assets/bi.2d102ff6.svg",
+    "src": "resources/assets/flags/1x1/bi.svg"
+  },
+  "resources/assets/flags/1x1/bj.svg": {
+    "file": "assets/bj.b99992c3.svg",
+    "src": "resources/assets/flags/1x1/bj.svg"
+  },
+  "resources/assets/flags/1x1/bl.svg": {
+    "file": "assets/bl.163f563c.svg",
+    "src": "resources/assets/flags/1x1/bl.svg"
+  },
+  "resources/assets/flags/4x3/bm.svg": {
+    "file": "assets/bm.de3b1b3a.svg",
+    "src": "resources/assets/flags/4x3/bm.svg"
+  },
+  "resources/assets/flags/1x1/bm.svg": {
+    "file": "assets/bm.10140d10.svg",
+    "src": "resources/assets/flags/1x1/bm.svg"
+  },
+  "resources/assets/flags/4x3/bn.svg": {
+    "file": "assets/bn.bcc7c315.svg",
+    "src": "resources/assets/flags/4x3/bn.svg"
+  },
+  "resources/assets/flags/1x1/bq.svg": {
+    "file": "assets/bq.03bda4f0.svg",
+    "src": "resources/assets/flags/1x1/bq.svg"
+  },
+  "resources/assets/flags/1x1/bn.svg": {
+    "file": "assets/bn.b1bc06f2.svg",
+    "src": "resources/assets/flags/1x1/bn.svg"
+  },
+  "resources/assets/flags/4x3/bq.svg": {
+    "file": "assets/bq.f71e86fe.svg",
+    "src": "resources/assets/flags/4x3/bq.svg"
+  },
+  "resources/assets/flags/1x1/bo.svg": {
+    "file": "assets/bo.35c2f1ee.svg",
+    "src": "resources/assets/flags/1x1/bo.svg"
+  },
+  "resources/assets/flags/4x3/bo.svg": {
+    "file": "assets/bo.20cd76c2.svg",
+    "src": "resources/assets/flags/4x3/bo.svg"
+  },
+  "resources/assets/flags/4x3/br.svg": {
+    "file": "assets/br.63f3538b.svg",
+    "src": "resources/assets/flags/4x3/br.svg"
+  },
+  "resources/assets/flags/1x1/br.svg": {
+    "file": "assets/br.f7f09ee7.svg",
+    "src": "resources/assets/flags/1x1/br.svg"
+  },
+  "resources/assets/flags/1x1/bs.svg": {
+    "file": "assets/bs.a52879e7.svg",
+    "src": "resources/assets/flags/1x1/bs.svg"
+  },
+  "resources/assets/flags/4x3/bt.svg": {
+    "file": "assets/bt.e121fd85.svg",
+    "src": "resources/assets/flags/4x3/bt.svg"
+  },
+  "resources/assets/flags/4x3/bs.svg": {
+    "file": "assets/bs.ec7d0199.svg",
+    "src": "resources/assets/flags/4x3/bs.svg"
+  },
+  "resources/assets/flags/4x3/bv.svg": {
+    "file": "assets/bv.419b84c3.svg",
+    "src": "resources/assets/flags/4x3/bv.svg"
+  },
+  "resources/assets/flags/4x3/bw.svg": {
+    "file": "assets/bw.e805bc58.svg",
+    "src": "resources/assets/flags/4x3/bw.svg"
+  },
+  "resources/assets/flags/1x1/bv.svg": {
+    "file": "assets/bv.36d2d99e.svg",
+    "src": "resources/assets/flags/1x1/bv.svg"
+  },
+  "resources/assets/flags/1x1/bt.svg": {
+    "file": "assets/bt.acceaafc.svg",
+    "src": "resources/assets/flags/1x1/bt.svg"
+  },
+  "resources/assets/flags/1x1/bw.svg": {
+    "file": "assets/bw.e3ded97d.svg",
+    "src": "resources/assets/flags/1x1/bw.svg"
+  },
+  "resources/assets/flags/1x1/by.svg": {
+    "file": "assets/by.21aea7b3.svg",
+    "src": "resources/assets/flags/1x1/by.svg"
+  },
+  "resources/assets/flags/4x3/by.svg": {
+    "file": "assets/by.9935c26a.svg",
+    "src": "resources/assets/flags/4x3/by.svg"
+  },
+  "resources/assets/flags/4x3/bz.svg": {
+    "file": "assets/bz.bd75a7f3.svg",
+    "src": "resources/assets/flags/4x3/bz.svg"
+  },
+  "resources/assets/flags/4x3/ca.svg": {
+    "file": "assets/ca.24c38d3f.svg",
+    "src": "resources/assets/flags/4x3/ca.svg"
+  },
+  "resources/assets/flags/1x1/ca.svg": {
+    "file": "assets/ca.9d874cbd.svg",
+    "src": "resources/assets/flags/1x1/ca.svg"
+  },
+  "resources/assets/flags/4x3/cc.svg": {
+    "file": "assets/cc.01ffbd27.svg",
+    "src": "resources/assets/flags/4x3/cc.svg"
+  },
+  "resources/assets/flags/1x1/bz.svg": {
+    "file": "assets/bz.d26e8a06.svg",
+    "src": "resources/assets/flags/1x1/bz.svg"
+  },
+  "resources/assets/flags/1x1/cc.svg": {
+    "file": "assets/cc.18506a43.svg",
+    "src": "resources/assets/flags/1x1/cc.svg"
+  },
+  "resources/assets/flags/1x1/cd.svg": {
+    "file": "assets/cd.e23193b2.svg",
+    "src": "resources/assets/flags/1x1/cd.svg"
+  },
+  "resources/assets/flags/4x3/cf.svg": {
+    "file": "assets/cf.94535a64.svg",
+    "src": "resources/assets/flags/4x3/cf.svg"
+  },
+  "resources/assets/flags/4x3/cd.svg": {
+    "file": "assets/cd.d755e707.svg",
+    "src": "resources/assets/flags/4x3/cd.svg"
+  },
+  "resources/assets/flags/4x3/ch.svg": {
+    "file": "assets/ch.e4178d15.svg",
+    "src": "resources/assets/flags/4x3/ch.svg"
+  },
+  "resources/assets/flags/4x3/cg.svg": {
+    "file": "assets/cg.745039f2.svg",
+    "src": "resources/assets/flags/4x3/cg.svg"
+  },
+  "resources/assets/flags/1x1/cg.svg": {
+    "file": "assets/cg.bea55acc.svg",
+    "src": "resources/assets/flags/1x1/cg.svg"
+  },
+  "resources/assets/flags/1x1/cf.svg": {
+    "file": "assets/cf.bbd5ca5b.svg",
+    "src": "resources/assets/flags/1x1/cf.svg"
+  },
+  "resources/assets/flags/4x3/ci.svg": {
+    "file": "assets/ci.178b7cff.svg",
+    "src": "resources/assets/flags/4x3/ci.svg"
+  },
+  "resources/assets/flags/1x1/ch.svg": {
+    "file": "assets/ch.034ce5cf.svg",
+    "src": "resources/assets/flags/1x1/ch.svg"
+  },
+  "resources/assets/flags/1x1/ci.svg": {
+    "file": "assets/ci.96f263fd.svg",
+    "src": "resources/assets/flags/1x1/ci.svg"
+  },
+  "resources/assets/flags/4x3/ck.svg": {
+    "file": "assets/ck.5e277c2f.svg",
+    "src": "resources/assets/flags/4x3/ck.svg"
+  },
+  "resources/assets/flags/4x3/cl.svg": {
+    "file": "assets/cl.4fc3a015.svg",
+    "src": "resources/assets/flags/4x3/cl.svg"
+  },
+  "resources/assets/flags/4x3/cm.svg": {
+    "file": "assets/cm.794d54ef.svg",
+    "src": "resources/assets/flags/4x3/cm.svg"
+  },
+  "resources/assets/flags/1x1/ck.svg": {
+    "file": "assets/ck.85079b47.svg",
+    "src": "resources/assets/flags/1x1/ck.svg"
+  },
+  "resources/assets/flags/1x1/cn.svg": {
+    "file": "assets/cn.f96321b3.svg",
+    "src": "resources/assets/flags/1x1/cn.svg"
+  },
+  "resources/assets/flags/4x3/cn.svg": {
+    "file": "assets/cn.22995be6.svg",
+    "src": "resources/assets/flags/4x3/cn.svg"
+  },
+  "resources/assets/flags/1x1/cl.svg": {
+    "file": "assets/cl.8ed9db44.svg",
+    "src": "resources/assets/flags/1x1/cl.svg"
+  },
+  "resources/assets/flags/4x3/cr.svg": {
+    "file": "assets/cr.448ae310.svg",
+    "src": "resources/assets/flags/4x3/cr.svg"
+  },
+  "resources/assets/flags/1x1/co.svg": {
+    "file": "assets/co.fdab189d.svg",
+    "src": "resources/assets/flags/1x1/co.svg"
+  },
+  "resources/assets/flags/1x1/cm.svg": {
+    "file": "assets/cm.5b640251.svg",
+    "src": "resources/assets/flags/1x1/cm.svg"
+  },
+  "resources/assets/flags/4x3/co.svg": {
+    "file": "assets/co.987633cb.svg",
+    "src": "resources/assets/flags/4x3/co.svg"
+  },
+  "resources/assets/flags/1x1/cu.svg": {
+    "file": "assets/cu.ac16a136.svg",
+    "src": "resources/assets/flags/1x1/cu.svg"
+  },
+  "resources/assets/flags/1x1/cr.svg": {
+    "file": "assets/cr.17c2fdf4.svg",
+    "src": "resources/assets/flags/1x1/cr.svg"
+  },
+  "resources/assets/flags/4x3/cu.svg": {
+    "file": "assets/cu.11756825.svg",
+    "src": "resources/assets/flags/4x3/cu.svg"
+  },
+  "resources/assets/flags/4x3/cw.svg": {
+    "file": "assets/cw.a54b946a.svg",
+    "src": "resources/assets/flags/4x3/cw.svg"
+  },
+  "resources/assets/flags/1x1/cw.svg": {
+    "file": "assets/cw.a1e12087.svg",
+    "src": "resources/assets/flags/1x1/cw.svg"
+  },
+  "resources/assets/flags/1x1/cx.svg": {
+    "file": "assets/cx.307704e0.svg",
+    "src": "resources/assets/flags/1x1/cx.svg"
+  },
+  "resources/assets/flags/4x3/cx.svg": {
+    "file": "assets/cx.ae027c03.svg",
+    "src": "resources/assets/flags/4x3/cx.svg"
+  },
+  "resources/assets/flags/4x3/cv.svg": {
+    "file": "assets/cv.dc12ffac.svg",
+    "src": "resources/assets/flags/4x3/cv.svg"
+  },
+  "resources/assets/flags/1x1/cv.svg": {
+    "file": "assets/cv.75c65331.svg",
+    "src": "resources/assets/flags/1x1/cv.svg"
+  },
+  "resources/assets/flags/1x1/cz.svg": {
+    "file": "assets/cz.698101d5.svg",
+    "src": "resources/assets/flags/1x1/cz.svg"
+  },
+  "resources/assets/flags/4x3/cy.svg": {
+    "file": "assets/cy.2737a726.svg",
+    "src": "resources/assets/flags/4x3/cy.svg"
+  },
+  "resources/assets/flags/4x3/cz.svg": {
+    "file": "assets/cz.1caa3e0a.svg",
+    "src": "resources/assets/flags/4x3/cz.svg"
+  },
+  "resources/assets/flags/1x1/cy.svg": {
+    "file": "assets/cy.a89c65e3.svg",
+    "src": "resources/assets/flags/1x1/cy.svg"
+  },
+  "resources/assets/flags/4x3/dj.svg": {
+    "file": "assets/dj.ee7c0ea7.svg",
+    "src": "resources/assets/flags/4x3/dj.svg"
+  },
+  "resources/assets/flags/4x3/de.svg": {
+    "file": "assets/de.0b1b5e16.svg",
+    "src": "resources/assets/flags/4x3/de.svg"
+  },
+  "resources/assets/flags/4x3/dk.svg": {
+    "file": "assets/dk.0019fda6.svg",
+    "src": "resources/assets/flags/4x3/dk.svg"
+  },
+  "resources/assets/flags/1x1/de.svg": {
+    "file": "assets/de.4784bd85.svg",
+    "src": "resources/assets/flags/1x1/de.svg"
+  },
+  "resources/assets/flags/1x1/dk.svg": {
+    "file": "assets/dk.7e3f5cf4.svg",
+    "src": "resources/assets/flags/1x1/dk.svg"
+  },
+  "resources/assets/flags/1x1/dj.svg": {
+    "file": "assets/dj.21847b0b.svg",
+    "src": "resources/assets/flags/1x1/dj.svg"
+  },
+  "resources/assets/flags/1x1/dm.svg": {
+    "file": "assets/dm.c27a83de.svg",
+    "src": "resources/assets/flags/1x1/dm.svg"
+  },
+  "resources/assets/flags/4x3/dm.svg": {
+    "file": "assets/dm.db34e967.svg",
+    "src": "resources/assets/flags/4x3/dm.svg"
+  },
+  "resources/assets/flags/4x3/do.svg": {
+    "file": "assets/do.8aa9b0d6.svg",
+    "src": "resources/assets/flags/4x3/do.svg"
+  },
+  "resources/assets/flags/1x1/dz.svg": {
+    "file": "assets/dz.37b8e788.svg",
+    "src": "resources/assets/flags/1x1/dz.svg"
+  },
+  "resources/assets/flags/4x3/dz.svg": {
+    "file": "assets/dz.96d0a106.svg",
+    "src": "resources/assets/flags/4x3/dz.svg"
+  },
+  "resources/assets/flags/1x1/do.svg": {
+    "file": "assets/do.9729b6b8.svg",
+    "src": "resources/assets/flags/1x1/do.svg"
+  },
+  "resources/assets/flags/1x1/ec.svg": {
+    "file": "assets/ec.0c25803d.svg",
+    "src": "resources/assets/flags/1x1/ec.svg"
+  },
+  "resources/assets/flags/4x3/ec.svg": {
+    "file": "assets/ec.c307a9be.svg",
+    "src": "resources/assets/flags/4x3/ec.svg"
+  },
+  "resources/assets/flags/1x1/ee.svg": {
+    "file": "assets/ee.a7c420af.svg",
+    "src": "resources/assets/flags/1x1/ee.svg"
+  },
+  "resources/assets/flags/4x3/ee.svg": {
+    "file": "assets/ee.d739c3f6.svg",
+    "src": "resources/assets/flags/4x3/ee.svg"
+  },
+  "resources/assets/flags/1x1/eg.svg": {
+    "file": "assets/eg.000bfa7b.svg",
+    "src": "resources/assets/flags/1x1/eg.svg"
+  },
+  "resources/assets/flags/4x3/eg.svg": {
+    "file": "assets/eg.73dd373e.svg",
+    "src": "resources/assets/flags/4x3/eg.svg"
+  },
+  "resources/assets/flags/1x1/eh.svg": {
+    "file": "assets/eh.05709d1d.svg",
+    "src": "resources/assets/flags/1x1/eh.svg"
+  },
+  "resources/assets/flags/4x3/eh.svg": {
+    "file": "assets/eh.60d6ed15.svg",
+    "src": "resources/assets/flags/4x3/eh.svg"
+  },
+  "resources/assets/flags/1x1/er.svg": {
+    "file": "assets/er.eff8d51b.svg",
+    "src": "resources/assets/flags/1x1/er.svg"
+  },
+  "resources/assets/flags/4x3/er.svg": {
+    "file": "assets/er.c8a025d4.svg",
+    "src": "resources/assets/flags/4x3/er.svg"
+  },
+  "resources/assets/flags/4x3/es.svg": {
+    "file": "assets/es.9e58bddf.svg",
+    "src": "resources/assets/flags/4x3/es.svg"
+  },
+  "resources/assets/flags/4x3/et.svg": {
+    "file": "assets/et.69570758.svg",
+    "src": "resources/assets/flags/4x3/et.svg"
+  },
+  "resources/assets/flags/1x1/fi.svg": {
+    "file": "assets/fi.6e270adf.svg",
+    "src": "resources/assets/flags/1x1/fi.svg"
+  },
+  "resources/assets/flags/4x3/fi.svg": {
+    "file": "assets/fi.7acd48ad.svg",
+    "src": "resources/assets/flags/4x3/fi.svg"
+  },
+  "resources/assets/flags/1x1/et.svg": {
+    "file": "assets/et.73b3e859.svg",
+    "src": "resources/assets/flags/1x1/et.svg"
+  },
+  "resources/assets/flags/1x1/es.svg": {
+    "file": "assets/es.bfd5ef8e.svg",
+    "src": "resources/assets/flags/1x1/es.svg"
+  },
+  "resources/assets/flags/1x1/fj.svg": {
+    "file": "assets/fj.9d5b2714.svg",
+    "src": "resources/assets/flags/1x1/fj.svg"
+  },
+  "resources/assets/flags/1x1/fk.svg": {
+    "file": "assets/fk.350aa28a.svg",
+    "src": "resources/assets/flags/1x1/fk.svg"
+  },
+  "resources/assets/flags/4x3/fm.svg": {
+    "file": "assets/fm.2491fe2d.svg",
+    "src": "resources/assets/flags/4x3/fm.svg"
+  },
+  "resources/assets/flags/4x3/fj.svg": {
+    "file": "assets/fj.a9110cd8.svg",
+    "src": "resources/assets/flags/4x3/fj.svg"
+  },
+  "resources/assets/flags/1x1/fm.svg": {
+    "file": "assets/fm.3d8dd7f4.svg",
+    "src": "resources/assets/flags/1x1/fm.svg"
+  },
+  "resources/assets/flags/4x3/fk.svg": {
+    "file": "assets/fk.27d5cda3.svg",
+    "src": "resources/assets/flags/4x3/fk.svg"
+  },
+  "resources/assets/flags/1x1/fo.svg": {
+    "file": "assets/fo.e72cfbce.svg",
+    "src": "resources/assets/flags/1x1/fo.svg"
+  },
+  "resources/assets/flags/4x3/fo.svg": {
+    "file": "assets/fo.d558296a.svg",
+    "src": "resources/assets/flags/4x3/fo.svg"
+  },
+  "resources/assets/flags/4x3/fr.svg": {
+    "file": "assets/fr.0d287f3b.svg",
+    "src": "resources/assets/flags/4x3/fr.svg"
+  },
+  "resources/assets/flags/1x1/fr.svg": {
+    "file": "assets/fr.4d89e600.svg",
+    "src": "resources/assets/flags/1x1/fr.svg"
+  },
+  "resources/assets/flags/1x1/ga.svg": {
+    "file": "assets/ga.e1a12f12.svg",
+    "src": "resources/assets/flags/1x1/ga.svg"
+  },
+  "resources/assets/flags/4x3/ga.svg": {
+    "file": "assets/ga.12d8d6bb.svg",
+    "src": "resources/assets/flags/4x3/ga.svg"
+  },
+  "resources/assets/flags/4x3/gb.svg": {
+    "file": "assets/gb.dafe41f9.svg",
+    "src": "resources/assets/flags/4x3/gb.svg"
+  },
+  "resources/assets/flags/1x1/gb.svg": {
+    "file": "assets/gb.9c34d287.svg",
+    "src": "resources/assets/flags/1x1/gb.svg"
+  },
+  "resources/assets/flags/1x1/gd.svg": {
+    "file": "assets/gd.994ff3c7.svg",
+    "src": "resources/assets/flags/1x1/gd.svg"
+  },
+  "resources/assets/flags/4x3/gd.svg": {
+    "file": "assets/gd.650eac13.svg",
+    "src": "resources/assets/flags/4x3/gd.svg"
+  },
+  "resources/assets/flags/4x3/gf.svg": {
+    "file": "assets/gf.d731f16a.svg",
+    "src": "resources/assets/flags/4x3/gf.svg"
+  },
+  "resources/assets/flags/1x1/ge.svg": {
+    "file": "assets/ge.e921c601.svg",
+    "src": "resources/assets/flags/1x1/ge.svg"
+  },
+  "resources/assets/flags/4x3/ge.svg": {
+    "file": "assets/ge.be5d9744.svg",
+    "src": "resources/assets/flags/4x3/ge.svg"
+  },
+  "resources/assets/flags/1x1/gf.svg": {
+    "file": "assets/gf.39b0caae.svg",
+    "src": "resources/assets/flags/1x1/gf.svg"
+  },
+  "resources/assets/flags/4x3/gg.svg": {
+    "file": "assets/gg.f71c12f5.svg",
+    "src": "resources/assets/flags/4x3/gg.svg"
+  },
+  "resources/assets/flags/1x1/gh.svg": {
+    "file": "assets/gh.6c29f793.svg",
+    "src": "resources/assets/flags/1x1/gh.svg"
+  },
+  "resources/assets/flags/4x3/gh.svg": {
+    "file": "assets/gh.9788593c.svg",
+    "src": "resources/assets/flags/4x3/gh.svg"
+  },
+  "resources/assets/flags/1x1/gg.svg": {
+    "file": "assets/gg.1805853a.svg",
+    "src": "resources/assets/flags/1x1/gg.svg"
+  },
+  "resources/assets/flags/1x1/gi.svg": {
+    "file": "assets/gi.04d025b8.svg",
+    "src": "resources/assets/flags/1x1/gi.svg"
+  },
+  "resources/assets/flags/4x3/gi.svg": {
+    "file": "assets/gi.7ecdec4a.svg",
+    "src": "resources/assets/flags/4x3/gi.svg"
+  },
+  "resources/assets/flags/4x3/gl.svg": {
+    "file": "assets/gl.9a38c161.svg",
+    "src": "resources/assets/flags/4x3/gl.svg"
+  },
+  "resources/assets/flags/1x1/gm.svg": {
+    "file": "assets/gm.0a5d7ecc.svg",
+    "src": "resources/assets/flags/1x1/gm.svg"
+  },
+  "resources/assets/flags/4x3/gm.svg": {
+    "file": "assets/gm.6f80b048.svg",
+    "src": "resources/assets/flags/4x3/gm.svg"
+  },
+  "resources/assets/flags/4x3/gn.svg": {
+    "file": "assets/gn.761ff70b.svg",
+    "src": "resources/assets/flags/4x3/gn.svg"
+  },
+  "resources/assets/flags/1x1/gl.svg": {
+    "file": "assets/gl.e3617b3f.svg",
+    "src": "resources/assets/flags/1x1/gl.svg"
+  },
+  "resources/assets/flags/4x3/gp.svg": {
+    "file": "assets/gp.69e1b3ae.svg",
+    "src": "resources/assets/flags/4x3/gp.svg"
+  },
+  "resources/assets/flags/1x1/gq.svg": {
+    "file": "assets/gq.710a4699.svg",
+    "src": "resources/assets/flags/1x1/gq.svg"
+  },
+  "resources/assets/flags/1x1/gn.svg": {
+    "file": "assets/gn.42933e83.svg",
+    "src": "resources/assets/flags/1x1/gn.svg"
+  },
+  "resources/assets/flags/1x1/gp.svg": {
+    "file": "assets/gp.83a52ed9.svg",
+    "src": "resources/assets/flags/1x1/gp.svg"
+  },
+  "resources/assets/flags/4x3/gq.svg": {
+    "file": "assets/gq.8b09ba7d.svg",
+    "src": "resources/assets/flags/4x3/gq.svg"
+  },
+  "resources/assets/flags/1x1/gr.svg": {
+    "file": "assets/gr.bdd7f594.svg",
+    "src": "resources/assets/flags/1x1/gr.svg"
+  },
+  "resources/assets/flags/1x1/gs.svg": {
+    "file": "assets/gs.986c896a.svg",
+    "src": "resources/assets/flags/1x1/gs.svg"
+  },
+  "resources/assets/flags/4x3/gr.svg": {
+    "file": "assets/gr.658f5491.svg",
+    "src": "resources/assets/flags/4x3/gr.svg"
+  },
+  "resources/assets/flags/4x3/gs.svg": {
+    "file": "assets/gs.1c6e109a.svg",
+    "src": "resources/assets/flags/4x3/gs.svg"
+  },
+  "resources/assets/flags/4x3/gu.svg": {
+    "file": "assets/gu.b3ce0f7b.svg",
+    "src": "resources/assets/flags/4x3/gu.svg"
+  },
+  "resources/assets/flags/1x1/gt.svg": {
+    "file": "assets/gt.0b3f26b3.svg",
+    "src": "resources/assets/flags/1x1/gt.svg"
+  },
+  "resources/assets/flags/4x3/gw.svg": {
+    "file": "assets/gw.2bcf5c5f.svg",
+    "src": "resources/assets/flags/4x3/gw.svg"
+  },
+  "resources/assets/flags/1x1/gu.svg": {
+    "file": "assets/gu.6f62547e.svg",
+    "src": "resources/assets/flags/1x1/gu.svg"
+  },
+  "resources/assets/flags/4x3/gt.svg": {
+    "file": "assets/gt.9dab3d01.svg",
+    "src": "resources/assets/flags/4x3/gt.svg"
+  },
+  "resources/assets/flags/4x3/gy.svg": {
+    "file": "assets/gy.f2ac6987.svg",
+    "src": "resources/assets/flags/4x3/gy.svg"
+  },
+  "resources/assets/flags/4x3/hk.svg": {
+    "file": "assets/hk.e50b7c7b.svg",
+    "src": "resources/assets/flags/4x3/hk.svg"
+  },
+  "resources/assets/flags/1x1/gw.svg": {
+    "file": "assets/gw.0742bc88.svg",
+    "src": "resources/assets/flags/1x1/gw.svg"
+  },
+  "resources/assets/flags/1x1/gy.svg": {
+    "file": "assets/gy.fce36086.svg",
+    "src": "resources/assets/flags/1x1/gy.svg"
+  },
+  "resources/assets/flags/4x3/hm.svg": {
+    "file": "assets/hm.cfe87063.svg",
+    "src": "resources/assets/flags/4x3/hm.svg"
+  },
+  "resources/assets/flags/4x3/hn.svg": {
+    "file": "assets/hn.ee7a6f7d.svg",
+    "src": "resources/assets/flags/4x3/hn.svg"
+  },
+  "resources/assets/flags/1x1/hm.svg": {
+    "file": "assets/hm.0986ea99.svg",
+    "src": "resources/assets/flags/1x1/hm.svg"
+  },
+  "resources/assets/flags/1x1/hk.svg": {
+    "file": "assets/hk.588ecb4c.svg",
+    "src": "resources/assets/flags/1x1/hk.svg"
+  },
+  "resources/assets/flags/1x1/hn.svg": {
+    "file": "assets/hn.24b99a3b.svg",
+    "src": "resources/assets/flags/1x1/hn.svg"
+  },
+  "resources/assets/flags/4x3/hr.svg": {
+    "file": "assets/hr.baa88c94.svg",
+    "src": "resources/assets/flags/4x3/hr.svg"
+  },
+  "resources/assets/flags/4x3/ht.svg": {
+    "file": "assets/ht.d61347b3.svg",
+    "src": "resources/assets/flags/4x3/ht.svg"
+  },
+  "resources/assets/flags/1x1/ht.svg": {
+    "file": "assets/ht.936402a5.svg",
+    "src": "resources/assets/flags/1x1/ht.svg"
+  },
+  "resources/assets/flags/1x1/hr.svg": {
+    "file": "assets/hr.bfad9127.svg",
+    "src": "resources/assets/flags/1x1/hr.svg"
+  },
+  "resources/assets/flags/4x3/id.svg": {
+    "file": "assets/id.873365ba.svg",
+    "src": "resources/assets/flags/4x3/id.svg"
+  },
+  "resources/assets/flags/1x1/hu.svg": {
+    "file": "assets/hu.1fb963a9.svg",
+    "src": "resources/assets/flags/1x1/hu.svg"
+  },
+  "resources/assets/flags/4x3/hu.svg": {
+    "file": "assets/hu.ce62561a.svg",
+    "src": "resources/assets/flags/4x3/hu.svg"
+  },
+  "resources/assets/flags/1x1/id.svg": {
+    "file": "assets/id.00061c6c.svg",
+    "src": "resources/assets/flags/1x1/id.svg"
+  },
+  "resources/assets/flags/4x3/ie.svg": {
+    "file": "assets/ie.9535326f.svg",
+    "src": "resources/assets/flags/4x3/ie.svg"
+  },
+  "resources/assets/flags/4x3/il.svg": {
+    "file": "assets/il.234f76a8.svg",
+    "src": "resources/assets/flags/4x3/il.svg"
+  },
+  "resources/assets/flags/1x1/ie.svg": {
+    "file": "assets/ie.be3a237a.svg",
+    "src": "resources/assets/flags/1x1/ie.svg"
+  },
+  "resources/assets/flags/4x3/im.svg": {
+    "file": "assets/im.30d81c24.svg",
+    "src": "resources/assets/flags/4x3/im.svg"
+  },
+  "resources/assets/flags/4x3/in.svg": {
+    "file": "assets/in.480b4bfc.svg",
+    "src": "resources/assets/flags/4x3/in.svg"
+  },
+  "resources/assets/flags/1x1/im.svg": {
+    "file": "assets/im.16f65a96.svg",
+    "src": "resources/assets/flags/1x1/im.svg"
+  },
+  "resources/assets/flags/1x1/in.svg": {
+    "file": "assets/in.f5a80a41.svg",
+    "src": "resources/assets/flags/1x1/in.svg"
+  },
+  "resources/assets/flags/1x1/il.svg": {
+    "file": "assets/il.e2509bc0.svg",
+    "src": "resources/assets/flags/1x1/il.svg"
+  },
+  "resources/assets/flags/4x3/iq.svg": {
+    "file": "assets/iq.2f9f7605.svg",
+    "src": "resources/assets/flags/4x3/iq.svg"
+  },
+  "resources/assets/flags/4x3/io.svg": {
+    "file": "assets/io.2a377b5b.svg",
+    "src": "resources/assets/flags/4x3/io.svg"
+  },
+  "resources/assets/flags/1x1/io.svg": {
+    "file": "assets/io.c7e3347b.svg",
+    "src": "resources/assets/flags/1x1/io.svg"
+  },
+  "resources/assets/flags/1x1/iq.svg": {
+    "file": "assets/iq.10c26972.svg",
+    "src": "resources/assets/flags/1x1/iq.svg"
+  },
+  "resources/assets/flags/1x1/ir.svg": {
+    "file": "assets/ir.fedec522.svg",
+    "src": "resources/assets/flags/1x1/ir.svg"
+  },
+  "resources/assets/flags/4x3/ir.svg": {
+    "file": "assets/ir.bf0ef300.svg",
+    "src": "resources/assets/flags/4x3/ir.svg"
+  },
+  "resources/assets/flags/4x3/is.svg": {
+    "file": "assets/is.12835876.svg",
+    "src": "resources/assets/flags/4x3/is.svg"
+  },
+  "resources/assets/flags/1x1/is.svg": {
+    "file": "assets/is.314249c0.svg",
+    "src": "resources/assets/flags/1x1/is.svg"
+  },
+  "resources/assets/flags/1x1/je.svg": {
+    "file": "assets/je.684a700a.svg",
+    "src": "resources/assets/flags/1x1/je.svg"
+  },
+  "resources/assets/flags/4x3/je.svg": {
+    "file": "assets/je.b4d3446b.svg",
+    "src": "resources/assets/flags/4x3/je.svg"
+  },
+  "resources/assets/flags/1x1/it.svg": {
+    "file": "assets/it.b2caea4c.svg",
+    "src": "resources/assets/flags/1x1/it.svg"
+  },
+  "resources/assets/flags/4x3/it.svg": {
+    "file": "assets/it.3b9e861d.svg",
+    "src": "resources/assets/flags/4x3/it.svg"
+  },
+  "resources/assets/flags/4x3/jm.svg": {
+    "file": "assets/jm.5e94b4b1.svg",
+    "src": "resources/assets/flags/4x3/jm.svg"
+  },
+  "resources/assets/flags/4x3/jo.svg": {
+    "file": "assets/jo.922ba9c4.svg",
+    "src": "resources/assets/flags/4x3/jo.svg"
+  },
+  "resources/assets/flags/1x1/jm.svg": {
+    "file": "assets/jm.0e358de3.svg",
+    "src": "resources/assets/flags/1x1/jm.svg"
+  },
+  "resources/assets/flags/1x1/jo.svg": {
+    "file": "assets/jo.fbaad949.svg",
+    "src": "resources/assets/flags/1x1/jo.svg"
+  },
+  "resources/assets/flags/4x3/jp.svg": {
+    "file": "assets/jp.cf3e0b78.svg",
+    "src": "resources/assets/flags/4x3/jp.svg"
+  },
+  "resources/assets/flags/1x1/ke.svg": {
+    "file": "assets/ke.8afe7177.svg",
+    "src": "resources/assets/flags/1x1/ke.svg"
+  },
+  "resources/assets/flags/1x1/jp.svg": {
+    "file": "assets/jp.8b79079a.svg",
+    "src": "resources/assets/flags/1x1/jp.svg"
+  },
+  "resources/assets/flags/4x3/kg.svg": {
+    "file": "assets/kg.b9cdecd3.svg",
+    "src": "resources/assets/flags/4x3/kg.svg"
+  },
+  "resources/assets/flags/4x3/ke.svg": {
+    "file": "assets/ke.e27306b1.svg",
+    "src": "resources/assets/flags/4x3/ke.svg"
+  },
+  "resources/assets/flags/1x1/kg.svg": {
+    "file": "assets/kg.73d7866a.svg",
+    "src": "resources/assets/flags/1x1/kg.svg"
+  },
+  "resources/assets/flags/4x3/kh.svg": {
+    "file": "assets/kh.d0223596.svg",
+    "src": "resources/assets/flags/4x3/kh.svg"
+  },
+  "resources/assets/flags/4x3/ki.svg": {
+    "file": "assets/ki.06a82dd5.svg",
+    "src": "resources/assets/flags/4x3/ki.svg"
+  },
+  "resources/assets/flags/1x1/ki.svg": {
+    "file": "assets/ki.aeed98f7.svg",
+    "src": "resources/assets/flags/1x1/ki.svg"
+  },
+  "resources/assets/flags/1x1/kh.svg": {
+    "file": "assets/kh.4487c679.svg",
+    "src": "resources/assets/flags/1x1/kh.svg"
+  },
+  "resources/assets/flags/4x3/km.svg": {
+    "file": "assets/km.377be34e.svg",
+    "src": "resources/assets/flags/4x3/km.svg"
+  },
+  "resources/assets/flags/1x1/km.svg": {
+    "file": "assets/km.2d5b0b3a.svg",
+    "src": "resources/assets/flags/1x1/km.svg"
+  },
+  "resources/assets/flags/4x3/kn.svg": {
+    "file": "assets/kn.b6ea77f0.svg",
+    "src": "resources/assets/flags/4x3/kn.svg"
+  },
+  "resources/assets/flags/1x1/kn.svg": {
+    "file": "assets/kn.62d334ed.svg",
+    "src": "resources/assets/flags/1x1/kn.svg"
+  },
+  "resources/assets/flags/4x3/kp.svg": {
+    "file": "assets/kp.122e59c3.svg",
+    "src": "resources/assets/flags/4x3/kp.svg"
+  },
+  "resources/assets/flags/1x1/kp.svg": {
+    "file": "assets/kp.39cc2cb0.svg",
+    "src": "resources/assets/flags/1x1/kp.svg"
+  },
+  "resources/assets/flags/1x1/kr.svg": {
+    "file": "assets/kr.dd65487f.svg",
+    "src": "resources/assets/flags/1x1/kr.svg"
+  },
+  "resources/assets/flags/4x3/kr.svg": {
+    "file": "assets/kr.fe42bd26.svg",
+    "src": "resources/assets/flags/4x3/kr.svg"
+  },
+  "resources/assets/flags/1x1/kw.svg": {
+    "file": "assets/kw.16e8987c.svg",
+    "src": "resources/assets/flags/1x1/kw.svg"
+  },
+  "resources/assets/flags/4x3/kw.svg": {
+    "file": "assets/kw.d1821136.svg",
+    "src": "resources/assets/flags/4x3/kw.svg"
+  },
+  "resources/assets/flags/4x3/ky.svg": {
+    "file": "assets/ky.6d540ab5.svg",
+    "src": "resources/assets/flags/4x3/ky.svg"
+  },
+  "resources/assets/flags/1x1/ky.svg": {
+    "file": "assets/ky.313a09b7.svg",
+    "src": "resources/assets/flags/1x1/ky.svg"
+  },
+  "resources/assets/flags/4x3/kz.svg": {
+    "file": "assets/kz.9e459b61.svg",
+    "src": "resources/assets/flags/4x3/kz.svg"
+  },
+  "resources/assets/flags/4x3/la.svg": {
+    "file": "assets/la.3bb7113d.svg",
+    "src": "resources/assets/flags/4x3/la.svg"
+  },
+  "resources/assets/flags/1x1/kz.svg": {
+    "file": "assets/kz.4d4e4855.svg",
+    "src": "resources/assets/flags/1x1/kz.svg"
+  },
+  "resources/assets/flags/4x3/lb.svg": {
+    "file": "assets/lb.71565121.svg",
+    "src": "resources/assets/flags/4x3/lb.svg"
+  },
+  "resources/assets/flags/4x3/lc.svg": {
+    "file": "assets/lc.304a50c8.svg",
+    "src": "resources/assets/flags/4x3/lc.svg"
+  },
+  "resources/assets/flags/1x1/la.svg": {
+    "file": "assets/la.397eaf8c.svg",
+    "src": "resources/assets/flags/1x1/la.svg"
+  },
+  "resources/assets/flags/1x1/lb.svg": {
+    "file": "assets/lb.d2868114.svg",
+    "src": "resources/assets/flags/1x1/lb.svg"
+  },
+  "resources/assets/flags/4x3/lk.svg": {
+    "file": "assets/lk.18218cfb.svg",
+    "src": "resources/assets/flags/4x3/lk.svg"
+  },
+  "resources/assets/flags/4x3/li.svg": {
+    "file": "assets/li.1918e762.svg",
+    "src": "resources/assets/flags/4x3/li.svg"
+  },
+  "resources/assets/flags/1x1/li.svg": {
+    "file": "assets/li.7112641c.svg",
+    "src": "resources/assets/flags/1x1/li.svg"
+  },
+  "resources/assets/flags/4x3/lr.svg": {
+    "file": "assets/lr.4aa3c9a2.svg",
+    "src": "resources/assets/flags/4x3/lr.svg"
+  },
+  "resources/assets/flags/1x1/lk.svg": {
+    "file": "assets/lk.00fa34a6.svg",
+    "src": "resources/assets/flags/1x1/lk.svg"
+  },
+  "resources/assets/flags/1x1/lc.svg": {
+    "file": "assets/lc.f7b2094e.svg",
+    "src": "resources/assets/flags/1x1/lc.svg"
+  },
+  "resources/assets/flags/1x1/lr.svg": {
+    "file": "assets/lr.642463d4.svg",
+    "src": "resources/assets/flags/1x1/lr.svg"
+  },
+  "resources/assets/flags/4x3/ls.svg": {
+    "file": "assets/ls.d0aa0585.svg",
+    "src": "resources/assets/flags/4x3/ls.svg"
+  },
+  "resources/assets/flags/1x1/ls.svg": {
+    "file": "assets/ls.e61b7497.svg",
+    "src": "resources/assets/flags/1x1/ls.svg"
+  },
+  "resources/assets/flags/1x1/lt.svg": {
+    "file": "assets/lt.6d299ae6.svg",
+    "src": "resources/assets/flags/1x1/lt.svg"
+  },
+  "resources/assets/flags/4x3/lu.svg": {
+    "file": "assets/lu.17db7a11.svg",
+    "src": "resources/assets/flags/4x3/lu.svg"
+  },
+  "resources/assets/flags/4x3/lt.svg": {
+    "file": "assets/lt.379cf448.svg",
+    "src": "resources/assets/flags/4x3/lt.svg"
+  },
+  "resources/assets/flags/4x3/lv.svg": {
+    "file": "assets/lv.892e03d3.svg",
+    "src": "resources/assets/flags/4x3/lv.svg"
+  },
+  "resources/assets/flags/1x1/lu.svg": {
+    "file": "assets/lu.591de9a4.svg",
+    "src": "resources/assets/flags/1x1/lu.svg"
+  },
+  "resources/assets/flags/1x1/lv.svg": {
+    "file": "assets/lv.f26eb203.svg",
+    "src": "resources/assets/flags/1x1/lv.svg"
+  },
+  "resources/assets/flags/4x3/ma.svg": {
+    "file": "assets/ma.77fa0b59.svg",
+    "src": "resources/assets/flags/4x3/ma.svg"
+  },
+  "resources/assets/flags/1x1/ly.svg": {
+    "file": "assets/ly.a3bec5ea.svg",
+    "src": "resources/assets/flags/1x1/ly.svg"
+  },
+  "resources/assets/flags/4x3/ly.svg": {
+    "file": "assets/ly.55aabfbb.svg",
+    "src": "resources/assets/flags/4x3/ly.svg"
+  },
+  "resources/assets/flags/1x1/ma.svg": {
+    "file": "assets/ma.fca23385.svg",
+    "src": "resources/assets/flags/1x1/ma.svg"
+  },
+  "resources/assets/flags/1x1/mc.svg": {
+    "file": "assets/mc.9313c9f2.svg",
+    "src": "resources/assets/flags/1x1/mc.svg"
+  },
+  "resources/assets/flags/4x3/md.svg": {
+    "file": "assets/md.7ec2456a.svg",
+    "src": "resources/assets/flags/4x3/md.svg"
+  },
+  "resources/assets/flags/4x3/mc.svg": {
+    "file": "assets/mc.c922d6af.svg",
+    "src": "resources/assets/flags/4x3/mc.svg"
+  },
+  "resources/assets/flags/4x3/mf.svg": {
+    "file": "assets/mf.318c9294.svg",
+    "src": "resources/assets/flags/4x3/mf.svg"
+  },
+  "resources/assets/flags/4x3/me.svg": {
+    "file": "assets/me.9c7dc32a.svg",
+    "src": "resources/assets/flags/4x3/me.svg"
+  },
+  "resources/assets/flags/1x1/md.svg": {
+    "file": "assets/md.e43e29fa.svg",
+    "src": "resources/assets/flags/1x1/md.svg"
+  },
+  "resources/assets/flags/1x1/mf.svg": {
+    "file": "assets/mf.93abe040.svg",
+    "src": "resources/assets/flags/1x1/mf.svg"
+  },
+  "resources/assets/flags/4x3/mg.svg": {
+    "file": "assets/mg.2017e651.svg",
+    "src": "resources/assets/flags/4x3/mg.svg"
+  },
+  "resources/assets/flags/1x1/mg.svg": {
+    "file": "assets/mg.b84f8b97.svg",
+    "src": "resources/assets/flags/1x1/mg.svg"
+  },
+  "resources/assets/flags/1x1/me.svg": {
+    "file": "assets/me.5fd8ab67.svg",
+    "src": "resources/assets/flags/1x1/me.svg"
+  },
+  "resources/assets/flags/4x3/mh.svg": {
+    "file": "assets/mh.ec2c2f3a.svg",
+    "src": "resources/assets/flags/4x3/mh.svg"
+  },
+  "resources/assets/flags/4x3/ml.svg": {
+    "file": "assets/ml.71a488d8.svg",
+    "src": "resources/assets/flags/4x3/ml.svg"
+  },
+  "resources/assets/flags/1x1/mk.svg": {
+    "file": "assets/mk.eedcb2e5.svg",
+    "src": "resources/assets/flags/1x1/mk.svg"
+  },
+  "resources/assets/flags/1x1/mh.svg": {
+    "file": "assets/mh.fb47ae5a.svg",
+    "src": "resources/assets/flags/1x1/mh.svg"
+  },
+  "resources/assets/flags/4x3/mk.svg": {
+    "file": "assets/mk.59449ecd.svg",
+    "src": "resources/assets/flags/4x3/mk.svg"
+  },
+  "resources/assets/flags/4x3/mm.svg": {
+    "file": "assets/mm.6de673b0.svg",
+    "src": "resources/assets/flags/4x3/mm.svg"
+  },
+  "resources/assets/flags/1x1/ml.svg": {
+    "file": "assets/ml.1868a0c3.svg",
+    "src": "resources/assets/flags/1x1/ml.svg"
+  },
+  "resources/assets/flags/4x3/mn.svg": {
+    "file": "assets/mn.093d80b2.svg",
+    "src": "resources/assets/flags/4x3/mn.svg"
+  },
+  "resources/assets/flags/1x1/mm.svg": {
+    "file": "assets/mm.73ebf033.svg",
+    "src": "resources/assets/flags/1x1/mm.svg"
+  },
+  "resources/assets/flags/1x1/mn.svg": {
+    "file": "assets/mn.458e5ae1.svg",
+    "src": "resources/assets/flags/1x1/mn.svg"
+  },
+  "resources/assets/flags/1x1/mo.svg": {
+    "file": "assets/mo.2794228f.svg",
+    "src": "resources/assets/flags/1x1/mo.svg"
+  },
+  "resources/assets/flags/4x3/mo.svg": {
+    "file": "assets/mo.0a2e86e5.svg",
+    "src": "resources/assets/flags/4x3/mo.svg"
+  },
+  "resources/assets/flags/1x1/mp.svg": {
+    "file": "assets/mp.dbd21b64.svg",
+    "src": "resources/assets/flags/1x1/mp.svg"
+  },
+  "resources/assets/flags/4x3/mp.svg": {
+    "file": "assets/mp.5a2318e3.svg",
+    "src": "resources/assets/flags/4x3/mp.svg"
+  },
+  "resources/assets/flags/4x3/mq.svg": {
+    "file": "assets/mq.2d0f611f.svg",
+    "src": "resources/assets/flags/4x3/mq.svg"
+  },
+  "resources/assets/flags/4x3/mr.svg": {
+    "file": "assets/mr.08a6397f.svg",
+    "src": "resources/assets/flags/4x3/mr.svg"
+  },
+  "resources/assets/flags/4x3/ms.svg": {
+    "file": "assets/ms.73ce9732.svg",
+    "src": "resources/assets/flags/4x3/ms.svg"
+  },
+  "resources/assets/flags/1x1/mq.svg": {
+    "file": "assets/mq.29603e50.svg",
+    "src": "resources/assets/flags/1x1/mq.svg"
+  },
+  "resources/assets/flags/1x1/ms.svg": {
+    "file": "assets/ms.07bac8b6.svg",
+    "src": "resources/assets/flags/1x1/ms.svg"
+  },
+  "resources/assets/flags/4x3/mt.svg": {
+    "file": "assets/mt.6fd5feb5.svg",
+    "src": "resources/assets/flags/4x3/mt.svg"
+  },
+  "resources/assets/flags/1x1/mr.svg": {
+    "file": "assets/mr.9b5c9688.svg",
+    "src": "resources/assets/flags/1x1/mr.svg"
+  },
+  "resources/assets/flags/4x3/mu.svg": {
+    "file": "assets/mu.53c7d87a.svg",
+    "src": "resources/assets/flags/4x3/mu.svg"
+  },
+  "resources/assets/flags/1x1/mt.svg": {
+    "file": "assets/mt.e233646b.svg",
+    "src": "resources/assets/flags/1x1/mt.svg"
+  },
+  "resources/assets/flags/1x1/mu.svg": {
+    "file": "assets/mu.1513ddab.svg",
+    "src": "resources/assets/flags/1x1/mu.svg"
+  },
+  "resources/assets/flags/4x3/mw.svg": {
+    "file": "assets/mw.1acebe76.svg",
+    "src": "resources/assets/flags/4x3/mw.svg"
+  },
+  "resources/assets/flags/4x3/mv.svg": {
+    "file": "assets/mv.2d69ba53.svg",
+    "src": "resources/assets/flags/4x3/mv.svg"
+  },
+  "resources/assets/flags/1x1/mv.svg": {
+    "file": "assets/mv.9ce1eaef.svg",
+    "src": "resources/assets/flags/1x1/mv.svg"
+  },
+  "resources/assets/flags/1x1/mw.svg": {
+    "file": "assets/mw.cc6bf08e.svg",
+    "src": "resources/assets/flags/1x1/mw.svg"
+  },
+  "resources/assets/flags/4x3/mx.svg": {
+    "file": "assets/mx.046ed33f.svg",
+    "src": "resources/assets/flags/4x3/mx.svg"
+  },
+  "resources/assets/flags/4x3/my.svg": {
+    "file": "assets/my.ff9d3581.svg",
+    "src": "resources/assets/flags/4x3/my.svg"
+  },
+  "resources/assets/flags/1x1/my.svg": {
+    "file": "assets/my.78a2d1fd.svg",
+    "src": "resources/assets/flags/1x1/my.svg"
+  },
+  "resources/assets/flags/1x1/mz.svg": {
+    "file": "assets/mz.7a8dda80.svg",
+    "src": "resources/assets/flags/1x1/mz.svg"
+  },
+  "resources/assets/flags/4x3/mz.svg": {
+    "file": "assets/mz.eee56c7e.svg",
+    "src": "resources/assets/flags/4x3/mz.svg"
+  },
+  "resources/assets/flags/1x1/mx.svg": {
+    "file": "assets/mx.85038302.svg",
+    "src": "resources/assets/flags/1x1/mx.svg"
+  },
+  "resources/assets/flags/1x1/na.svg": {
+    "file": "assets/na.1f37f2ee.svg",
+    "src": "resources/assets/flags/1x1/na.svg"
+  },
+  "resources/assets/flags/4x3/na.svg": {
+    "file": "assets/na.24cd5fba.svg",
+    "src": "resources/assets/flags/4x3/na.svg"
+  },
+  "resources/assets/flags/4x3/ne.svg": {
+    "file": "assets/ne.8be56188.svg",
+    "src": "resources/assets/flags/4x3/ne.svg"
+  },
+  "resources/assets/flags/4x3/nc.svg": {
+    "file": "assets/nc.2dba8ae8.svg",
+    "src": "resources/assets/flags/4x3/nc.svg"
+  },
+  "resources/assets/flags/4x3/nf.svg": {
+    "file": "assets/nf.0749601e.svg",
+    "src": "resources/assets/flags/4x3/nf.svg"
+  },
+  "resources/assets/flags/1x1/nf.svg": {
+    "file": "assets/nf.4a2e638b.svg",
+    "src": "resources/assets/flags/1x1/nf.svg"
+  },
+  "resources/assets/flags/1x1/nc.svg": {
+    "file": "assets/nc.79d1a208.svg",
+    "src": "resources/assets/flags/1x1/nc.svg"
+  },
+  "resources/assets/flags/1x1/ne.svg": {
+    "file": "assets/ne.81a0472f.svg",
+    "src": "resources/assets/flags/1x1/ne.svg"
+  },
+  "resources/assets/flags/4x3/ng.svg": {
+    "file": "assets/ng.3c541811.svg",
+    "src": "resources/assets/flags/4x3/ng.svg"
+  },
+  "resources/assets/flags/1x1/ng.svg": {
+    "file": "assets/ng.d2b9de00.svg",
+    "src": "resources/assets/flags/1x1/ng.svg"
+  },
+  "resources/assets/flags/4x3/ni.svg": {
+    "file": "assets/ni.702bcb86.svg",
+    "src": "resources/assets/flags/4x3/ni.svg"
+  },
+  "resources/assets/flags/1x1/ni.svg": {
+    "file": "assets/ni.f71dfe54.svg",
+    "src": "resources/assets/flags/1x1/ni.svg"
+  },
+  "resources/assets/flags/1x1/no.svg": {
+    "file": "assets/no.2ab1df4a.svg",
+    "src": "resources/assets/flags/1x1/no.svg"
+  },
+  "resources/assets/flags/1x1/nl.svg": {
+    "file": "assets/nl.8c1b8162.svg",
+    "src": "resources/assets/flags/1x1/nl.svg"
+  },
+  "resources/assets/flags/4x3/nl.svg": {
+    "file": "assets/nl.d2d62a99.svg",
+    "src": "resources/assets/flags/4x3/nl.svg"
+  },
+  "resources/assets/flags/4x3/np.svg": {
+    "file": "assets/np.2148e306.svg",
+    "src": "resources/assets/flags/4x3/np.svg"
+  },
+  "resources/assets/flags/4x3/no.svg": {
+    "file": "assets/no.ec20d8ff.svg",
+    "src": "resources/assets/flags/4x3/no.svg"
+  },
+  "resources/assets/flags/1x1/np.svg": {
+    "file": "assets/np.9b058665.svg",
+    "src": "resources/assets/flags/1x1/np.svg"
+  },
+  "resources/assets/flags/4x3/nr.svg": {
+    "file": "assets/nr.5ebe590e.svg",
+    "src": "resources/assets/flags/4x3/nr.svg"
+  },
+  "resources/assets/flags/4x3/nu.svg": {
+    "file": "assets/nu.1b0eff2d.svg",
+    "src": "resources/assets/flags/4x3/nu.svg"
+  },
+  "resources/assets/flags/1x1/nu.svg": {
+    "file": "assets/nu.8d1a563f.svg",
+    "src": "resources/assets/flags/1x1/nu.svg"
+  },
+  "resources/assets/flags/1x1/nr.svg": {
+    "file": "assets/nr.1998e661.svg",
+    "src": "resources/assets/flags/1x1/nr.svg"
+  },
+  "resources/assets/flags/1x1/nz.svg": {
+    "file": "assets/nz.1a16ba5b.svg",
+    "src": "resources/assets/flags/1x1/nz.svg"
+  },
+  "resources/assets/flags/4x3/nz.svg": {
+    "file": "assets/nz.da1553ee.svg",
+    "src": "resources/assets/flags/4x3/nz.svg"
+  },
+  "resources/assets/flags/4x3/om.svg": {
+    "file": "assets/om.b8905c16.svg",
+    "src": "resources/assets/flags/4x3/om.svg"
+  },
+  "resources/assets/flags/4x3/pa.svg": {
+    "file": "assets/pa.3f811103.svg",
+    "src": "resources/assets/flags/4x3/pa.svg"
+  },
+  "resources/assets/flags/1x1/om.svg": {
+    "file": "assets/om.6f223622.svg",
+    "src": "resources/assets/flags/1x1/om.svg"
+  },
+  "resources/assets/flags/1x1/pa.svg": {
+    "file": "assets/pa.e7df25ce.svg",
+    "src": "resources/assets/flags/1x1/pa.svg"
+  },
+  "resources/assets/flags/4x3/pe.svg": {
+    "file": "assets/pe.501641c1.svg",
+    "src": "resources/assets/flags/4x3/pe.svg"
+  },
+  "resources/assets/flags/1x1/pe.svg": {
+    "file": "assets/pe.0aa884a0.svg",
+    "src": "resources/assets/flags/1x1/pe.svg"
+  },
+  "resources/assets/flags/1x1/pf.svg": {
+    "file": "assets/pf.3e72d520.svg",
+    "src": "resources/assets/flags/1x1/pf.svg"
+  },
+  "resources/assets/flags/4x3/pf.svg": {
+    "file": "assets/pf.83aa6c3e.svg",
+    "src": "resources/assets/flags/4x3/pf.svg"
+  },
+  "resources/assets/flags/4x3/pg.svg": {
+    "file": "assets/pg.a43dee10.svg",
+    "src": "resources/assets/flags/4x3/pg.svg"
+  },
+  "resources/assets/flags/1x1/ph.svg": {
+    "file": "assets/ph.3154080e.svg",
+    "src": "resources/assets/flags/1x1/ph.svg"
+  },
+  "resources/assets/flags/1x1/pg.svg": {
+    "file": "assets/pg.b8d5df2e.svg",
+    "src": "resources/assets/flags/1x1/pg.svg"
+  },
+  "resources/assets/flags/4x3/pk.svg": {
+    "file": "assets/pk.5597845f.svg",
+    "src": "resources/assets/flags/4x3/pk.svg"
+  },
+  "resources/assets/flags/4x3/ph.svg": {
+    "file": "assets/ph.d3f0eed9.svg",
+    "src": "resources/assets/flags/4x3/ph.svg"
+  },
+  "resources/assets/flags/4x3/pl.svg": {
+    "file": "assets/pl.a7902e5e.svg",
+    "src": "resources/assets/flags/4x3/pl.svg"
+  },
+  "resources/assets/flags/4x3/pm.svg": {
+    "file": "assets/pm.db603fa7.svg",
+    "src": "resources/assets/flags/4x3/pm.svg"
+  },
+  "resources/assets/flags/1x1/pl.svg": {
+    "file": "assets/pl.d65935da.svg",
+    "src": "resources/assets/flags/1x1/pl.svg"
+  },
+  "resources/assets/flags/1x1/pk.svg": {
+    "file": "assets/pk.8e1c2ace.svg",
+    "src": "resources/assets/flags/1x1/pk.svg"
+  },
+  "resources/assets/flags/1x1/pm.svg": {
+    "file": "assets/pm.adef4814.svg",
+    "src": "resources/assets/flags/1x1/pm.svg"
+  },
+  "resources/assets/flags/4x3/pn.svg": {
+    "file": "assets/pn.db72fbe6.svg",
+    "src": "resources/assets/flags/4x3/pn.svg"
+  },
+  "resources/assets/flags/4x3/pr.svg": {
+    "file": "assets/pr.df64fe2f.svg",
+    "src": "resources/assets/flags/4x3/pr.svg"
+  },
+  "resources/assets/flags/4x3/ps.svg": {
+    "file": "assets/ps.8b0a4cf0.svg",
+    "src": "resources/assets/flags/4x3/ps.svg"
+  },
+  "resources/assets/flags/1x1/pn.svg": {
+    "file": "assets/pn.f51e8048.svg",
+    "src": "resources/assets/flags/1x1/pn.svg"
+  },
+  "resources/assets/flags/1x1/pr.svg": {
+    "file": "assets/pr.f75b74cf.svg",
+    "src": "resources/assets/flags/1x1/pr.svg"
+  },
+  "resources/assets/flags/4x3/pt.svg": {
+    "file": "assets/pt.ed387ac8.svg",
+    "src": "resources/assets/flags/4x3/pt.svg"
+  },
+  "resources/assets/flags/1x1/ps.svg": {
+    "file": "assets/ps.7c15a0b1.svg",
+    "src": "resources/assets/flags/1x1/ps.svg"
+  },
+  "resources/assets/flags/4x3/pw.svg": {
+    "file": "assets/pw.6a5d7ee5.svg",
+    "src": "resources/assets/flags/4x3/pw.svg"
+  },
+  "resources/assets/flags/1x1/pw.svg": {
+    "file": "assets/pw.0d35b642.svg",
+    "src": "resources/assets/flags/1x1/pw.svg"
+  },
+  "resources/assets/flags/1x1/pt.svg": {
+    "file": "assets/pt.075c89a6.svg",
+    "src": "resources/assets/flags/1x1/pt.svg"
+  },
+  "resources/assets/flags/4x3/py.svg": {
+    "file": "assets/py.3ae907f5.svg",
+    "src": "resources/assets/flags/4x3/py.svg"
+  },
+  "resources/assets/flags/4x3/qa.svg": {
+    "file": "assets/qa.8026eab5.svg",
+    "src": "resources/assets/flags/4x3/qa.svg"
+  },
+  "resources/assets/flags/1x1/py.svg": {
+    "file": "assets/py.7f38504b.svg",
+    "src": "resources/assets/flags/1x1/py.svg"
+  },
+  "resources/assets/flags/1x1/qa.svg": {
+    "file": "assets/qa.8cc2af2e.svg",
+    "src": "resources/assets/flags/1x1/qa.svg"
+  },
+  "resources/assets/flags/1x1/re.svg": {
+    "file": "assets/re.e1ddd4db.svg",
+    "src": "resources/assets/flags/1x1/re.svg"
+  },
+  "resources/assets/flags/1x1/ro.svg": {
+    "file": "assets/ro.b516fd6e.svg",
+    "src": "resources/assets/flags/1x1/ro.svg"
+  },
+  "resources/assets/flags/4x3/re.svg": {
+    "file": "assets/re.f9345a5e.svg",
+    "src": "resources/assets/flags/4x3/re.svg"
+  },
+  "resources/assets/flags/4x3/ro.svg": {
+    "file": "assets/ro.9e96959c.svg",
+    "src": "resources/assets/flags/4x3/ro.svg"
+  },
+  "resources/assets/flags/4x3/ru.svg": {
+    "file": "assets/ru.d053f1f2.svg",
+    "src": "resources/assets/flags/4x3/ru.svg"
+  },
+  "resources/assets/flags/1x1/ru.svg": {
+    "file": "assets/ru.3ce8b2c4.svg",
+    "src": "resources/assets/flags/1x1/ru.svg"
+  },
+  "resources/assets/flags/4x3/rs.svg": {
+    "file": "assets/rs.238d0dc5.svg",
+    "src": "resources/assets/flags/4x3/rs.svg"
+  },
+  "resources/assets/flags/1x1/rs.svg": {
+    "file": "assets/rs.5453e2fa.svg",
+    "src": "resources/assets/flags/1x1/rs.svg"
+  },
+  "resources/assets/flags/4x3/sa.svg": {
+    "file": "assets/sa.6fdba503.svg",
+    "src": "resources/assets/flags/4x3/sa.svg"
+  },
+  "resources/assets/flags/4x3/rw.svg": {
+    "file": "assets/rw.2a720029.svg",
+    "src": "resources/assets/flags/4x3/rw.svg"
+  },
+  "resources/assets/flags/1x1/rw.svg": {
+    "file": "assets/rw.13896774.svg",
+    "src": "resources/assets/flags/1x1/rw.svg"
+  },
+  "resources/assets/flags/1x1/sa.svg": {
+    "file": "assets/sa.66638678.svg",
+    "src": "resources/assets/flags/1x1/sa.svg"
+  },
+  "resources/assets/flags/4x3/sb.svg": {
+    "file": "assets/sb.41b15358.svg",
+    "src": "resources/assets/flags/4x3/sb.svg"
+  },
+  "resources/assets/flags/4x3/sc.svg": {
+    "file": "assets/sc.e16c1140.svg",
+    "src": "resources/assets/flags/4x3/sc.svg"
+  },
+  "resources/assets/flags/1x1/sb.svg": {
+    "file": "assets/sb.9363e5d3.svg",
+    "src": "resources/assets/flags/1x1/sb.svg"
+  },
+  "resources/assets/flags/1x1/sc.svg": {
+    "file": "assets/sc.63f441c7.svg",
+    "src": "resources/assets/flags/1x1/sc.svg"
+  },
+  "resources/assets/flags/4x3/sd.svg": {
+    "file": "assets/sd.bc6d5802.svg",
+    "src": "resources/assets/flags/4x3/sd.svg"
+  },
+  "resources/assets/flags/1x1/sd.svg": {
+    "file": "assets/sd.c5345c7a.svg",
+    "src": "resources/assets/flags/1x1/sd.svg"
+  },
+  "resources/assets/flags/4x3/sg.svg": {
+    "file": "assets/sg.3be11500.svg",
+    "src": "resources/assets/flags/4x3/sg.svg"
+  },
+  "resources/assets/flags/4x3/se.svg": {
+    "file": "assets/se.62e50417.svg",
+    "src": "resources/assets/flags/4x3/se.svg"
+  },
+  "resources/assets/flags/1x1/se.svg": {
+    "file": "assets/se.ad5b102d.svg",
+    "src": "resources/assets/flags/1x1/se.svg"
+  },
+  "resources/assets/flags/1x1/sg.svg": {
+    "file": "assets/sg.111c6cab.svg",
+    "src": "resources/assets/flags/1x1/sg.svg"
+  },
+  "resources/assets/flags/1x1/si.svg": {
+    "file": "assets/si.e2304421.svg",
+    "src": "resources/assets/flags/1x1/si.svg"
+  },
+  "resources/assets/flags/4x3/si.svg": {
+    "file": "assets/si.62bbf9f7.svg",
+    "src": "resources/assets/flags/4x3/si.svg"
+  },
+  "resources/assets/flags/1x1/sh.svg": {
+    "file": "assets/sh.e857a359.svg",
+    "src": "resources/assets/flags/1x1/sh.svg"
+  },
+  "resources/assets/flags/1x1/sj.svg": {
+    "file": "assets/sj.e59b7404.svg",
+    "src": "resources/assets/flags/1x1/sj.svg"
+  },
+  "resources/assets/flags/4x3/sj.svg": {
+    "file": "assets/sj.58f03e90.svg",
+    "src": "resources/assets/flags/4x3/sj.svg"
+  },
+  "resources/assets/flags/4x3/sk.svg": {
+    "file": "assets/sk.e407af32.svg",
+    "src": "resources/assets/flags/4x3/sk.svg"
+  },
+  "resources/assets/flags/4x3/sh.svg": {
+    "file": "assets/sh.1ce8a63f.svg",
+    "src": "resources/assets/flags/4x3/sh.svg"
+  },
+  "resources/assets/flags/4x3/sl.svg": {
+    "file": "assets/sl.d178d32d.svg",
+    "src": "resources/assets/flags/4x3/sl.svg"
+  },
+  "resources/assets/flags/1x1/sl.svg": {
+    "file": "assets/sl.6f6f4516.svg",
+    "src": "resources/assets/flags/1x1/sl.svg"
+  },
+  "resources/assets/flags/4x3/sm.svg": {
+    "file": "assets/sm.bbe071f1.svg",
+    "src": "resources/assets/flags/4x3/sm.svg"
+  },
+  "resources/assets/flags/1x1/sk.svg": {
+    "file": "assets/sk.e173a805.svg",
+    "src": "resources/assets/flags/1x1/sk.svg"
+  },
+  "resources/assets/flags/4x3/sn.svg": {
+    "file": "assets/sn.a299cadc.svg",
+    "src": "resources/assets/flags/4x3/sn.svg"
+  },
+  "resources/assets/flags/1x1/sm.svg": {
+    "file": "assets/sm.7ac9c39f.svg",
+    "src": "resources/assets/flags/1x1/sm.svg"
+  },
+  "resources/assets/flags/4x3/so.svg": {
+    "file": "assets/so.a15cccf2.svg",
+    "src": "resources/assets/flags/4x3/so.svg"
+  },
+  "resources/assets/flags/4x3/sr.svg": {
+    "file": "assets/sr.5a3c600f.svg",
+    "src": "resources/assets/flags/4x3/sr.svg"
+  },
+  "resources/assets/flags/1x1/sr.svg": {
+    "file": "assets/sr.04845f2f.svg",
+    "src": "resources/assets/flags/1x1/sr.svg"
+  },
+  "resources/assets/flags/1x1/sn.svg": {
+    "file": "assets/sn.06cdc2bd.svg",
+    "src": "resources/assets/flags/1x1/sn.svg"
+  },
+  "resources/assets/flags/1x1/so.svg": {
+    "file": "assets/so.5e3952c1.svg",
+    "src": "resources/assets/flags/1x1/so.svg"
+  },
+  "resources/assets/flags/4x3/st.svg": {
+    "file": "assets/st.a1d4a4cf.svg",
+    "src": "resources/assets/flags/4x3/st.svg"
+  },
+  "resources/assets/flags/1x1/ss.svg": {
+    "file": "assets/ss.e3c62eaa.svg",
+    "src": "resources/assets/flags/1x1/ss.svg"
+  },
+  "resources/assets/flags/4x3/ss.svg": {
+    "file": "assets/ss.30aed5c1.svg",
+    "src": "resources/assets/flags/4x3/ss.svg"
+  },
+  "resources/assets/flags/1x1/st.svg": {
+    "file": "assets/st.9ad2064d.svg",
+    "src": "resources/assets/flags/1x1/st.svg"
+  },
+  "resources/assets/flags/4x3/sx.svg": {
+    "file": "assets/sx.84601655.svg",
+    "src": "resources/assets/flags/4x3/sx.svg"
+  },
+  "resources/assets/flags/1x1/sx.svg": {
+    "file": "assets/sx.a0ddaab1.svg",
+    "src": "resources/assets/flags/1x1/sx.svg"
+  },
+  "resources/assets/flags/1x1/sv.svg": {
+    "file": "assets/sv.7376684a.svg",
+    "src": "resources/assets/flags/1x1/sv.svg"
+  },
+  "resources/assets/flags/4x3/sv.svg": {
+    "file": "assets/sv.45d3552e.svg",
+    "src": "resources/assets/flags/4x3/sv.svg"
+  },
+  "resources/assets/flags/1x1/sy.svg": {
+    "file": "assets/sy.c36c2054.svg",
+    "src": "resources/assets/flags/1x1/sy.svg"
+  },
+  "resources/assets/flags/4x3/sy.svg": {
+    "file": "assets/sy.6d45772b.svg",
+    "src": "resources/assets/flags/4x3/sy.svg"
+  },
+  "resources/assets/flags/4x3/sz.svg": {
+    "file": "assets/sz.c1f84adc.svg",
+    "src": "resources/assets/flags/4x3/sz.svg"
+  },
+  "resources/assets/flags/1x1/tc.svg": {
+    "file": "assets/tc.8a870ea0.svg",
+    "src": "resources/assets/flags/1x1/tc.svg"
+  },
+  "resources/assets/flags/4x3/tc.svg": {
+    "file": "assets/tc.e849a342.svg",
+    "src": "resources/assets/flags/4x3/tc.svg"
+  },
+  "resources/assets/flags/1x1/sz.svg": {
+    "file": "assets/sz.83f1e7d0.svg",
+    "src": "resources/assets/flags/1x1/sz.svg"
+  },
+  "resources/assets/flags/4x3/tf.svg": {
+    "file": "assets/tf.9576536a.svg",
+    "src": "resources/assets/flags/4x3/tf.svg"
+  },
+  "resources/assets/flags/4x3/td.svg": {
+    "file": "assets/td.dbc1ce84.svg",
+    "src": "resources/assets/flags/4x3/td.svg"
+  },
+  "resources/assets/flags/1x1/tf.svg": {
+    "file": "assets/tf.ed10fd47.svg",
+    "src": "resources/assets/flags/1x1/tf.svg"
+  },
+  "resources/assets/flags/4x3/tg.svg": {
+    "file": "assets/tg.085e2364.svg",
+    "src": "resources/assets/flags/4x3/tg.svg"
+  },
+  "resources/assets/flags/4x3/th.svg": {
+    "file": "assets/th.e092e880.svg",
+    "src": "resources/assets/flags/4x3/th.svg"
+  },
+  "resources/assets/flags/1x1/tg.svg": {
+    "file": "assets/tg.bf22e798.svg",
+    "src": "resources/assets/flags/1x1/tg.svg"
+  },
+  "resources/assets/flags/1x1/td.svg": {
+    "file": "assets/td.bb2e9377.svg",
+    "src": "resources/assets/flags/1x1/td.svg"
+  },
+  "resources/assets/flags/4x3/tk.svg": {
+    "file": "assets/tk.d53728e7.svg",
+    "src": "resources/assets/flags/4x3/tk.svg"
+  },
+  "resources/assets/flags/4x3/tj.svg": {
+    "file": "assets/tj.98e3ac2f.svg",
+    "src": "resources/assets/flags/4x3/tj.svg"
+  },
+  "resources/assets/flags/1x1/th.svg": {
+    "file": "assets/th.ac4fdde7.svg",
+    "src": "resources/assets/flags/1x1/th.svg"
+  },
+  "resources/assets/flags/1x1/tj.svg": {
+    "file": "assets/tj.d009467a.svg",
+    "src": "resources/assets/flags/1x1/tj.svg"
+  },
+  "resources/assets/flags/1x1/tk.svg": {
+    "file": "assets/tk.d41d00dc.svg",
+    "src": "resources/assets/flags/1x1/tk.svg"
+  },
+  "resources/assets/flags/4x3/tm.svg": {
+    "file": "assets/tm.9744b436.svg",
+    "src": "resources/assets/flags/4x3/tm.svg"
+  },
+  "resources/assets/flags/4x3/tl.svg": {
+    "file": "assets/tl.7a804ba9.svg",
+    "src": "resources/assets/flags/4x3/tl.svg"
+  },
+  "resources/assets/flags/1x1/tl.svg": {
+    "file": "assets/tl.3e1687aa.svg",
+    "src": "resources/assets/flags/1x1/tl.svg"
+  },
+  "resources/assets/flags/4x3/to.svg": {
+    "file": "assets/to.9ee00a69.svg",
+    "src": "resources/assets/flags/4x3/to.svg"
+  },
+  "resources/assets/flags/4x3/tn.svg": {
+    "file": "assets/tn.1a3ede87.svg",
+    "src": "resources/assets/flags/4x3/tn.svg"
+  },
+  "resources/assets/flags/4x3/tr.svg": {
+    "file": "assets/tr.fbd916f2.svg",
+    "src": "resources/assets/flags/4x3/tr.svg"
+  },
+  "resources/assets/flags/1x1/tr.svg": {
+    "file": "assets/tr.b8ace82f.svg",
+    "src": "resources/assets/flags/1x1/tr.svg"
+  },
+  "resources/assets/flags/1x1/to.svg": {
+    "file": "assets/to.dcbfb21a.svg",
+    "src": "resources/assets/flags/1x1/to.svg"
+  },
+  "resources/assets/flags/1x1/tn.svg": {
+    "file": "assets/tn.e74f224a.svg",
+    "src": "resources/assets/flags/1x1/tn.svg"
+  },
+  "resources/assets/flags/4x3/tt.svg": {
+    "file": "assets/tt.b3ddc475.svg",
+    "src": "resources/assets/flags/4x3/tt.svg"
+  },
+  "resources/assets/flags/1x1/tt.svg": {
+    "file": "assets/tt.e2acf880.svg",
+    "src": "resources/assets/flags/1x1/tt.svg"
+  },
+  "resources/assets/flags/1x1/tm.svg": {
+    "file": "assets/tm.ac0ee110.svg",
+    "src": "resources/assets/flags/1x1/tm.svg"
+  },
+  "resources/assets/flags/4x3/tv.svg": {
+    "file": "assets/tv.81f37770.svg",
+    "src": "resources/assets/flags/4x3/tv.svg"
+  },
+  "resources/assets/flags/4x3/tz.svg": {
+    "file": "assets/tz.121dc103.svg",
+    "src": "resources/assets/flags/4x3/tz.svg"
+  },
+  "resources/assets/flags/4x3/tw.svg": {
+    "file": "assets/tw.373777d9.svg",
+    "src": "resources/assets/flags/4x3/tw.svg"
+  },
+  "resources/assets/flags/4x3/ua.svg": {
+    "file": "assets/ua.88435e43.svg",
+    "src": "resources/assets/flags/4x3/ua.svg"
+  },
+  "resources/assets/flags/1x1/tv.svg": {
+    "file": "assets/tv.b347dd97.svg",
+    "src": "resources/assets/flags/1x1/tv.svg"
+  },
+  "resources/assets/flags/1x1/tz.svg": {
+    "file": "assets/tz.7679c6e4.svg",
+    "src": "resources/assets/flags/1x1/tz.svg"
+  },
+  "resources/assets/flags/1x1/tw.svg": {
+    "file": "assets/tw.68750feb.svg",
+    "src": "resources/assets/flags/1x1/tw.svg"
+  },
+  "resources/assets/flags/1x1/ua.svg": {
+    "file": "assets/ua.91b5c9e6.svg",
+    "src": "resources/assets/flags/1x1/ua.svg"
+  },
+  "resources/assets/flags/4x3/ug.svg": {
+    "file": "assets/ug.08901c52.svg",
+    "src": "resources/assets/flags/4x3/ug.svg"
+  },
+  "resources/assets/flags/1x1/um.svg": {
+    "file": "assets/um.64b58de0.svg",
+    "src": "resources/assets/flags/1x1/um.svg"
+  },
+  "resources/assets/flags/1x1/ug.svg": {
+    "file": "assets/ug.a30f57ea.svg",
+    "src": "resources/assets/flags/1x1/ug.svg"
+  },
+  "resources/assets/flags/4x3/um.svg": {
+    "file": "assets/um.d0b48d5c.svg",
+    "src": "resources/assets/flags/4x3/um.svg"
+  },
+  "resources/assets/flags/4x3/uy.svg": {
+    "file": "assets/uy.17472984.svg",
+    "src": "resources/assets/flags/4x3/uy.svg"
+  },
+  "resources/assets/flags/1x1/us.svg": {
+    "file": "assets/us.a8ef46c9.svg",
+    "src": "resources/assets/flags/1x1/us.svg"
+  },
+  "resources/assets/flags/4x3/us.svg": {
+    "file": "assets/us.b14d42e6.svg",
+    "src": "resources/assets/flags/4x3/us.svg"
+  },
+  "resources/assets/flags/1x1/uz.svg": {
+    "file": "assets/uz.92b92806.svg",
+    "src": "resources/assets/flags/1x1/uz.svg"
+  },
+  "resources/assets/flags/1x1/uy.svg": {
+    "file": "assets/uy.ec559091.svg",
+    "src": "resources/assets/flags/1x1/uy.svg"
+  },
+  "resources/assets/flags/4x3/uz.svg": {
+    "file": "assets/uz.b354681d.svg",
+    "src": "resources/assets/flags/4x3/uz.svg"
+  },
+  "resources/assets/flags/4x3/va.svg": {
+    "file": "assets/va.5bde521a.svg",
+    "src": "resources/assets/flags/4x3/va.svg"
+  },
+  "resources/assets/flags/4x3/ve.svg": {
+    "file": "assets/ve.f1d67a67.svg",
+    "src": "resources/assets/flags/4x3/ve.svg"
+  },
+  "resources/assets/flags/4x3/vc.svg": {
+    "file": "assets/vc.e0a2dd6a.svg",
+    "src": "resources/assets/flags/4x3/vc.svg"
+  },
+  "resources/assets/flags/1x1/va.svg": {
+    "file": "assets/va.6701fa44.svg",
+    "src": "resources/assets/flags/1x1/va.svg"
+  },
+  "resources/assets/flags/1x1/vc.svg": {
+    "file": "assets/vc.36a4d3f3.svg",
+    "src": "resources/assets/flags/1x1/vc.svg"
+  },
+  "resources/assets/flags/1x1/ve.svg": {
+    "file": "assets/ve.f45092eb.svg",
+    "src": "resources/assets/flags/1x1/ve.svg"
+  },
+  "resources/assets/flags/4x3/vg.svg": {
+    "file": "assets/vg.fb055cf6.svg",
+    "src": "resources/assets/flags/4x3/vg.svg"
+  },
+  "resources/assets/flags/4x3/vi.svg": {
+    "file": "assets/vi.1b956a72.svg",
+    "src": "resources/assets/flags/4x3/vi.svg"
+  },
+  "resources/assets/flags/4x3/vn.svg": {
+    "file": "assets/vn.c1b1b0f0.svg",
+    "src": "resources/assets/flags/4x3/vn.svg"
+  },
+  "resources/assets/flags/1x1/vi.svg": {
+    "file": "assets/vi.3c056710.svg",
+    "src": "resources/assets/flags/1x1/vi.svg"
+  },
+  "resources/assets/flags/1x1/vg.svg": {
+    "file": "assets/vg.1adfa631.svg",
+    "src": "resources/assets/flags/1x1/vg.svg"
+  },
+  "resources/assets/flags/1x1/vn.svg": {
+    "file": "assets/vn.abb708ae.svg",
+    "src": "resources/assets/flags/1x1/vn.svg"
+  },
+  "resources/assets/flags/1x1/vu.svg": {
+    "file": "assets/vu.12e7ad89.svg",
+    "src": "resources/assets/flags/1x1/vu.svg"
+  },
+  "resources/assets/flags/4x3/wf.svg": {
+    "file": "assets/wf.3155ee02.svg",
+    "src": "resources/assets/flags/4x3/wf.svg"
+  },
+  "resources/assets/flags/1x1/wf.svg": {
+    "file": "assets/wf.88b9c396.svg",
+    "src": "resources/assets/flags/1x1/wf.svg"
+  },
+  "resources/assets/flags/1x1/ws.svg": {
+    "file": "assets/ws.25161f9d.svg",
+    "src": "resources/assets/flags/1x1/ws.svg"
+  },
+  "resources/assets/flags/4x3/ws.svg": {
+    "file": "assets/ws.52063c4a.svg",
+    "src": "resources/assets/flags/4x3/ws.svg"
+  },
+  "resources/assets/flags/4x3/vu.svg": {
+    "file": "assets/vu.5ae59b56.svg",
+    "src": "resources/assets/flags/4x3/vu.svg"
+  },
+  "resources/assets/flags/4x3/ye.svg": {
+    "file": "assets/ye.b345955a.svg",
+    "src": "resources/assets/flags/4x3/ye.svg"
+  },
+  "resources/assets/flags/4x3/yt.svg": {
+    "file": "assets/yt.c84e8053.svg",
+    "src": "resources/assets/flags/4x3/yt.svg"
+  },
+  "resources/assets/flags/1x1/ye.svg": {
+    "file": "assets/ye.3f29f2f6.svg",
+    "src": "resources/assets/flags/1x1/ye.svg"
+  },
+  "resources/assets/flags/4x3/za.svg": {
+    "file": "assets/za.1fac7adc.svg",
+    "src": "resources/assets/flags/4x3/za.svg"
+  },
+  "resources/assets/flags/1x1/yt.svg": {
+    "file": "assets/yt.74c086b5.svg",
+    "src": "resources/assets/flags/1x1/yt.svg"
+  },
+  "resources/assets/flags/1x1/za.svg": {
+    "file": "assets/za.d83428d9.svg",
+    "src": "resources/assets/flags/1x1/za.svg"
+  },
+  "resources/assets/flags/4x3/zm.svg": {
+    "file": "assets/zm.26e65d69.svg",
+    "src": "resources/assets/flags/4x3/zm.svg"
+  },
+  "resources/assets/flags/4x3/zw.svg": {
+    "file": "assets/zw.2ae0466c.svg",
+    "src": "resources/assets/flags/4x3/zw.svg"
+  },
+  "resources/assets/flags/4x3/es-ct.svg": {
+    "file": "assets/es-ct.2f51e487.svg",
+    "src": "resources/assets/flags/4x3/es-ct.svg"
+  },
+  "resources/assets/flags/1x1/es-ct.svg": {
+    "file": "assets/es-ct.13c5cbba.svg",
+    "src": "resources/assets/flags/1x1/es-ct.svg"
+  },
+  "resources/assets/flags/1x1/zm.svg": {
+    "file": "assets/zm.d8f81e9d.svg",
+    "src": "resources/assets/flags/1x1/zm.svg"
+  },
+  "resources/assets/flags/1x1/zw.svg": {
+    "file": "assets/zw.2c81ead0.svg",
+    "src": "resources/assets/flags/1x1/zw.svg"
+  },
+  "resources/assets/flags/1x1/eu.svg": {
+    "file": "assets/eu.6abc239e.svg",
+    "src": "resources/assets/flags/1x1/eu.svg"
+  },
+  "resources/assets/flags/4x3/eu.svg": {
+    "file": "assets/eu.2d65d182.svg",
+    "src": "resources/assets/flags/4x3/eu.svg"
+  },
+  "resources/assets/flags/1x1/gb-eng.svg": {
+    "file": "assets/gb-eng.e60ae66d.svg",
+    "src": "resources/assets/flags/1x1/gb-eng.svg"
+  },
+  "resources/assets/flags/4x3/gb-eng.svg": {
+    "file": "assets/gb-eng.172429ee.svg",
+    "src": "resources/assets/flags/4x3/gb-eng.svg"
+  },
+  "resources/assets/flags/1x1/gb-sct.svg": {
+    "file": "assets/gb-sct.58b212f5.svg",
+    "src": "resources/assets/flags/1x1/gb-sct.svg"
+  },
+  "resources/assets/flags/4x3/gb-sct.svg": {
+    "file": "assets/gb-sct.5da688c9.svg",
+    "src": "resources/assets/flags/4x3/gb-sct.svg"
+  },
+  "resources/assets/flags/4x3/gb-nir.svg": {
+    "file": "assets/gb-nir.8e2f8c4f.svg",
+    "src": "resources/assets/flags/4x3/gb-nir.svg"
+  },
+  "resources/assets/flags/1x1/gb-nir.svg": {
+    "file": "assets/gb-nir.6ee03247.svg",
+    "src": "resources/assets/flags/1x1/gb-nir.svg"
+  },
+  "resources/assets/flags/4x3/gb-wls.svg": {
+    "file": "assets/gb-wls.f7444312.svg",
+    "src": "resources/assets/flags/4x3/gb-wls.svg"
+  },
+  "resources/assets/flags/4x3/un.svg": {
+    "file": "assets/un.0ce3c8bb.svg",
+    "src": "resources/assets/flags/4x3/un.svg"
+  },
+  "resources/assets/flags/1x1/un.svg": {
+    "file": "assets/un.89e8cce8.svg",
+    "src": "resources/assets/flags/1x1/un.svg"
+  },
+  "resources/assets/flags/1x1/gb-wls.svg": {
+    "file": "assets/gb-wls.79ad3c2d.svg",
+    "src": "resources/assets/flags/1x1/gb-wls.svg"
+  },
+  "resources/assets/images/login-images/bg-lock-screen.jpg": {
+    "file": "assets/bg-lock-screen.ceea786f.jpg",
+    "src": "resources/assets/images/login-images/bg-lock-screen.jpg"
+  },
+  "resources/assets/images/login-images/bg-register-img.jpg": {
+    "file": "assets/bg-register-img.7d09fe4a.jpg",
+    "src": "resources/assets/images/login-images/bg-register-img.jpg"
+  },
+  "resources/assets/images/login-images/bg-login-img.jpg": {
+    "file": "assets/bg-login-img.6e054e0f.jpg",
+    "src": "resources/assets/images/login-images/bg-login-img.jpg"
+  },
+  "resources/assets/images/login-images/bg-forgot-password.jpg": {
+    "file": "assets/bg-forgot-password.b1531aa0.jpg",
+    "src": "resources/assets/images/login-images/bg-forgot-password.jpg"
+  },
+  "resources/assets/fonts/LineIcons.woff2": {
+    "file": "assets/LineIcons.22d65627.woff2",
+    "src": "resources/assets/fonts/LineIcons.woff2"
+  },
+  "resources/assets/fonts/boxicons.woff2": {
+    "file": "assets/boxicons.43193176.woff2",
+    "src": "resources/assets/fonts/boxicons.woff2"
+  },
+  "resources/assets/fonts/LineIcons.woff": {
+    "file": "assets/LineIcons.6d1db654.woff",
+    "src": "resources/assets/fonts/LineIcons.woff"
+  },
+  "resources/assets/fonts/boxicons.woff": {
+    "file": "assets/boxicons.65837913.woff",
+    "src": "resources/assets/fonts/boxicons.woff"
+  },
+  "resources/assets/fonts/LineIcons.ttf": {
+    "file": "assets/LineIcons.27d240ef.ttf",
+    "src": "resources/assets/fonts/LineIcons.ttf"
+  },
+  "resources/assets/fonts/boxicons.ttf": {
+    "file": "assets/boxicons.c8ae15ef.ttf",
+    "src": "resources/assets/fonts/boxicons.ttf"
+  },
+  "resources/assets/fonts/LineIcons.svg": {
+    "file": "assets/LineIcons.92991331.svg",
+    "src": "resources/assets/fonts/LineIcons.svg"
+  },
+  "resources/assets/fonts/boxicons.svg": {
+    "file": "assets/boxicons.c2df7adc.svg",
+    "src": "resources/assets/fonts/boxicons.svg"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app.e5198d1b.js",
+    "src": "resources/js/app.js",
+    "isEntry": true
+  },
+  "resources/js/dashboard_app.js": {
+    "file": "assets/dashboard_app.2f345bdc.js",
+    "src": "resources/js/dashboard_app.js",
+    "isEntry": true
+  },
+  "resources/js/dashboard_app_footer.js": {
+    "file": "assets/dashboard_app_footer.f48af6af.js",
+    "src": "resources/js/dashboard_app_footer.js",
+    "isEntry": true
+  },
+  "resources/js/dashboard_login_app.js": {
+    "file": "assets/dashboard_login_app.c2f7cdf8.js",
+    "src": "resources/js/dashboard_login_app.js",
+    "isEntry": true
+  },
+  "resources/js/dashboard_login_app_footer.js": {
+    "file": "assets/dashboard_login_app_footer.af0c5fc4.js",
+    "src": "resources/js/dashboard_login_app_footer.js",
+    "isEntry": true
+  },
+  "resources/assets/js/pace.min.js": {
+    "file": "assets/pace.min.997b785e.js",
+    "src": "resources/assets/js/pace.min.js",
+    "isEntry": true
+  },
+  "resources/sass/app.scss": {
+    "file": "assets/app.525f5899.css",
+    "src": "resources/sass/app.scss",
+    "isEntry": true
+  },
+  "resources/sass/dashboard_app.scss": {
+    "file": "assets/dashboard_app.49f06646.css",
+    "src": "resources/sass/dashboard_app.scss",
+    "isEntry": true
+  },
+  "resources/sass/dashboard_login_app.scss": {
+    "file": "assets/dashboard_login_app.e41da78a.css",
+    "src": "resources/sass/dashboard_login_app.scss",
+    "isEntry": true
+  }
+}

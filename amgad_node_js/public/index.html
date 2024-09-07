@@ -1,0 +1,21 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Real-time Chat</title>
+    <script src="/socket.io/socket.io.js"></script>
+    <script src="http://127.0.0.1:4000/socket.io/socket.io.js"></script>
+
+    <script src="client.js"></script>
+</head>
+<body>
+    <h1>Nodejs App</h1>
+    <ul id="messages"></ul>
+    <form id="form" action="">
+        <input id="inputx" autocomplete="off">
+        
+    </form>
+    <button  onclick="submit()" id="btn" >Send</button>
+
+    <div id="messages"></div>
+</body>
+</html>

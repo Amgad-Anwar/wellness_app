@@ -1,0 +1,2042 @@
+﻿Servide Code,Service Name en,Service Name ar,Net Price,start date for Net Price
+1,Consultant Examination,كشف الاستشاري,400,4/17/24
+2,Specialist Examination,كشف الأخصائي,315,4/17/24
+3,Emergency Examination,كشف الطوارئ,315,4/17/24
+13,AIR STERILIZATION,رسم استخدام جهاز تعقيم الهواء للأدوار,920.5,4/17/24
+14,SPECIAL NATURE MEDICATIONS (NOT INCLUDE CHEMOTHERAPY AND INTRAVENOUD IRON ),حقن أدوية ذات طابع خاص (غير متضمنة أدوية الكيماوي والحديد الوريدي),717.5,4/17/24
+15,IM INJECTION BY NURSE,حقنة عضل بواسطة التمريض,115.5,4/17/24
+16,IV INJECTION,حقنة وريد,136.5,4/17/24
+17,VEIN VIEWER USE,استخدام مظهر الأوردة,126,4/17/24
+18,BLOOD TRANSFUSION  (NOT INCLUDE BLOOD COST ),نقل دم (غير متضمن كيس الدم),325.5,4/17/24
+19,C.S.F TAPPING,بذل السائل السحائي,1620.5,4/17/24
+20,CLEANSING ENEMA,حقنة شرجية تنظيفية,353.5,4/17/24
+21,CRANIAL NERVE STIMULATION,استثارة الأعصاب المخية,2040.5,4/17/24
+22,GASTRIC LAVAGE,غسيل معدة,752.5,4/17/24
+23,INSERTION OF CANNULA BY PHYSICIAN,تركيب كانيولا بواسطة طبيب,234.5,4/17/24
+24,INSERTION OF CANNULA BY ULTRASOUND ,تركيب كانيولا إسترشادًا بالموجات الصوتية,791,4/17/24
+25,INSERTION OF PORTACATH NEEDLE,تركيب إبرة بورتاكاث,644,4/17/24
+26,REMOVAL OF PORTA CATH,رفع بورتاكاث,374.5,4/17/24
+27,IV INFUSION FOR MORE THAN 2 HOURS (PED),تركيب محلول وريدى لمدة أكثر من ساعتين (للأطفال),791,4/17/24
+28,IV SOLUTION (ADULT),تركيب محلول وريدى (للكبار),234.5,4/17/24
+29,IV SOLUTION (PED),تركيب محلول وريدي (للأطفال),234.5,4/17/24
+30,IV INFUSION OF DRUGS UNDER MEDICAL OBSEREVATION (ADULT),حقن وريدى للأدوية تحت الملاحظة الطبية (للكبار),777,4/17/24
+31,IV INFUSION OF DRUGS UNDER MEDICAL OBSEREVATION (PED),حقن وريدى للأدوية تحت الملاحظة الطبية (للأطفال),791,4/17/24
+32,SMALL DRESSING (MAX.3 CM),غيار على جرح صغير الحجم (بحد أقصي 3 سم),147,4/17/24
+33,MEDIUM DRESSING ( BETWEEN 3 CM TO 7 CM ),غيار على جرح متوسط الحجم (يتراوح من 3 سم إلي 7 سم),234.5,4/17/24
+34,LARGE DRESSING (ABOVE 7 CM),غيارعلى جرح كبير الحجم (جرح أكبر من 7 سم أو الجروح التهتكية),374.5,4/17/24
+35,NASOGASTRIC TUBE INSERTION,ادخال انبوب معدة من الأنف,465.5,4/17/24
+36,PALATE STUFFING,حشو سقف الحلق,2702,4/17/24
+37,PEENICILLIN SENSITIVITY TEST (NOT INCLUDED EXTRA PROCEDURES TAKEN INCASE OF ACTUAL SENSITIVITY ),اختبار حساسيه بنسيلين (غير متضمن إجراءات علاج الحساسية في حالة ظهورها),126,4/17/24
+38,SUCTION THERAPY,علاج بالشفط,2040.5,4/17/24
+39,NERVE BLOCK ANESTHESIA,تخدير العصب ,283.5,4/17/24
+40,OBSERVATION OF CRITICAL ILL PATIENT IN SPECIAL SITUATION /HR ,ملاحظة بالطوارئ / ساعة,409.5,4/17/24
+41,REMOVAL OF STRANGULATED RING ,إزالة حلقة خانقة,409.5,4/17/24
+42,CONSCIOUS SEDATION AT ER,تهدئة واعية  في الطوارئ,409.5,4/17/24
+43,AMBULATORY BLOOD PRESSURE 24 HRS,قياس ضغط الدم الإسعافي لمدة 24 ساعة,1095.5,4/17/24
+44,AMBULATORY BLOOD PRESSURE  48 HRS,قياس ضغط الدم الإسعافي لمدة 48 ساعة,1995,4/17/24
+45,DIAGNOSTIC TILTING TABLE ,استخدام المنضدة المائلة التشخيصية,2810.5,4/17/24
+46,THERAPUTIC TILTING TABLE,استخدام المنضدة المائلة العلاجية,2082.5,4/17/24
+47,FROZEN SECTION DURING OPERATION BY CONSULTANT,أخذ مقطع تجميدي أثناء عملية بواسطة استشاري,2646,4/17/24
+48,PARACENTESIS,بذل تجمع سائل فى البطن,2268,4/17/24
+49,E.C.G,رسم قلب عادي,245,4/17/24
+50,ECHOCARDIOGRAPHY,موجات فوق صوتية على القلب,941.5,4/17/24
+51,PEDIATRIC ECHO ,موجات فوق صوتية على القلب للأطفال,1414,4/17/24
+52,STRESS E.C.G,رسم قلب بالمجهود,798,4/17/24
+53,HOLTER MONITOR 24 HOURS,تركيب جهاز هولتر 24 ساعة,1732.5,4/17/24
+54,HOLTER MONITOR 48 HOURS,تركيب جهاز هولتر 48 ساعة,2145.5,4/17/24
+55,ICDS FOLLOW UP (SINGLE),متابعة بجهاز صدمات داخلي (أحادي) ,1319.5,4/17/24
+56,ICDS FOLLOW UP (DOUBLE),متابعة بجهاز صدمات داخلي (ثنائي),1547,4/17/24
+57,ICDS FOLLOW UP (TRIPLE),متابعة بجهاز صدمات داخلي (ثلاثي),1816.5,4/17/24
+58,PACEMAKER FOLLOW UP (SINGLE),متابعة بمنظم ضربات القلب (أحادي),1099,4/17/24
+59,PACEMAKER FOLLOW UP (DOUBLE),متابعة بمنظم ضربات القلب (ثنائي),1235.5,4/17/24
+60,PACEMAKER FOLLOW UP (TRIPLE),متابعة بمنظم ضربات القلب (ثلاثي),1452.5,4/17/24
+61,PACEMAKER TRANSCUTANEOUS,تركيب منظم ضربات القلب (عن طريق الجلد),4539.5,4/17/24
+62,PACEMAKER TRANSVENOUS,تركيب منظم ضربات القلب (عن طريق الوريد),4620,4/17/24
+63,ECHO BY External PICU CONSULTANT (INCLUDE CONSULTANT FEES ),موجات فوق صوتية على القلب بواسطة استشاري أطفال خارجي  (شامل  أتعاب الطبيب),2989,4/17/24
+64,ECHO IN NICU (PORTABLE),موجات فوق صوتية على القلب لطفل حديث الولادة داخل المحضن (محمول),1578.5,4/17/24
+65,NEONATAL ECHOCARDIOGRAPHY,موجات فوق صوتية على القلب لحديثي الولادة,1235.5,4/17/24
+66,ECHOHEAMODYNAMICS ,مخطط صدى القلب,1452.5,4/17/24
+67,E.C.G 24 HOUR IP OR ICU ,رسم قلب عادي 24 ساعه داخلي,1288,4/17/24
+68,INTRA VASCULAR ULTRASONOGRAPHY-NOT INCLUDED CONSUMABLES,موجات صوتية داخل الأوعية الدموية  (غير متضمنة المستلزمات الطبية),13391,4/17/24
+69,AORTIC BALLOON USAGE\ DAY,رسم استخدام البالونة الأورطية \ اليوم,2425.5,4/17/24
+70,TRANSOESOPHAGEAL ECHOCARDIOGRAPHY - CATHLAB AND OPEN HEART,موجات فوق صوتية علي القلب عن طريق المرئ - قسطرة و قلب,13391,4/17/24
+71,DOBUTAMINE ECHOCARDIOGRAPHY,موجات فوق صوتية على القلب باستخدام الدوبياتامين,2432.5,4/17/24
+72,GLUCOCHECK BLOOD GLUCOSE MEASUREMENT,تحليل سكر بالجهاز,91,4/17/24
+73,INSERTION OF INSULIN PUMP (NOT INCLUDE INSULIN PUMP PRICE ),تركيب مضخة انسولين ,679,4/17/24
+74,INSULIN PUMP DEVICE FOLLOW-UP AND RE-PROGRAMMING,متابعة وإعادة برمجة مضخة انسولين,553,4/17/24
+75,FIBROSCAN,فايبروسكان,1617,4/17/24
+76,PRP INJ. FOR DIABETIC FOOT 1ST SESSION,حقن بلازما للقدم السكرى للجلسة الأولى,1949.5,4/17/24
+77,PRP INJ. FOR DIABETIC FOOT OVER 1ST SESSION,حقن بلازما للقدم السكرى ما بعد الأولى,1298.5,4/17/24
+78,Sonar inside clinic without report,سونار في عيادة الباطنه من غير تقرير,245,4/17/24
+79,CHEMOTHERAPY / DOSE,علاج كيماوى / جرعة,1949.5,4/17/24
+80,ONCOLOGY NURSING FEES,رعاية تمريضية لمرضى الأورام,378,4/17/24
+81,SCLEROTHERAPY OF VARICOSE VEINS (ONE TIME),حقن دوالي الساق (مره واحدة),3584,4/17/24
+82,SCLEROTHERAPY OF VARICOSE VEINS (REPEATED),حقن دوالي الساق (متكرر),3262,4/17/24
+83,LIPOMA PRESS SESSION,كي ورم دهني,945,4/17/24
+84,Doppler on legs  inside clinic with consultanant,دوبلر الساقين بواسطه استشاري,2432.5,4/17/24
+85,Spider varicose vein  ( include consumables ),حقن دوالى الساق السطحية,1690.5,4/17/24
+86,PIERCING OF BOTH EARS,ثقب الأذنين,490,4/17/24
+87,VACCINATION (WITHOUT COST OF VACCINE),التطعيمات (بدون ثمن التطعيم),325.5,4/17/24
+88,UMBILICAL GRANULOMA   ,إزالة تجمع بالسرة,833,4/17/24
+89,INTERCOSTAL TUBE INSERTION ADULT BY CONSULTANT,تركيب أنبوبة صدر بواسطة استشارى,8879.5,4/17/24
+90,INTERCOSTAL TUBE INSERTION BIILATERAL (PED),تركيب أنبوب صدري جانبين (أطفال),9831.5,4/17/24
+91,INTERCOSTAL TUBE INSERTION UNILATERAL (PED),تركيب أنبوب صدري جانب واحد (أطفال),4525.5,4/17/24
+92,NEBULIZER SESSION,جلسة نيبوليزر,248.5,4/17/24
+93,NEBULIZER SESSION (ULTRASOUND SET),جلسة نيبوليزر (جلسة موجات صوتية),336,4/17/24
+94,PERICARDIOCENTESIS,بذل تجمع سائل حول القلب,7973,4/17/24
+95,PLEURAL BIOPSY,عينه من الغشاء البلوري,7147,4/17/24
+96,PLEUROCENTESIS,بذل صدر (الغشاء البلوري),6044.5,4/17/24
+97,PLEURODESIS,حقن بلوري,1708,4/17/24
+98,PULMONARY FUNCTION TESTS (COMPUTERIZED),قياس كفاءه الرئتين (بالكومبيوتر),1298.5,4/17/24
+99,BRONCHOSCOPY,منظار الشعب الهوائية,1655.5,4/17/24
+100,BRONCHOSCOPY & BIOPSY UNDER GENERAL ANESTHESIA (NOT INCLUDE BIOPSY PRICE ),منظار الشعب الهوائية وأخذ عينه تحت مخدر عام (لا يشمل سعر العينة),3265.5,4/17/24
+101,ABSCESS DRAINGE UNDER LOCAL ANAESTHESIA,فتح خراج تحت مخدر موضعى,602,4/17/24
+102,ENDOSCOPIC GASTROSTOMY,تركيب أنبوبة تغذية بالمعدة بالمنظار (شامل أتعاب الطبيب فقط ),9982,4/17/24
+103,SUNGESTAKIAN TUBE INSERTION,إدخال أنبوبة سانجيستيكيان,1011.5,4/17/24
+104,INSERTION OF RECTAL TUBE,تركيب أنبوب شرجي,567,4/17/24
+105,EXCISION OF INGROWING TOE NAIL UNDER LOCAL ANASTHESIA,استئصال ظفر غائر تحت تأثير مخدر موضعى,1365,4/17/24
+106,NAIL EXTRACTION UNDER LOCAL ANASTHESIA,استئصال ظفر تحت مخدر موضعي,731.5,4/17/24
+107,EXCISION OF SMALL LIPOMA UNDER LOCAL ANASTHESIA,استئصال كيس دهنى صغير تحت مخدر موضعى,1095.5,4/17/24
+108,FOREIGN BODY EXTRACTION UNDER LOCAL ANASTHESIA,استخراج جسم غريب تحت تاثير مخدر موضعى,875,4/17/24
+109,OZONE THERAPY / SESSION,علاج بالأوزون / الجلسة,2082.5,4/17/24
+110,STITCH REMOVAL,فك غرز جراحية,283.5,4/17/24
+111,SURGICAL STITCHES / FIRST STITCH,غرز جراحية / الغرزة الأولى,196,4/17/24
+112,SURGICAL STITCHES / STITCH AFTER FIRST STITCH,غرز جراحية / كل غرزة بعد الغرزة الاولى,126,4/17/24
+113,WOUND DEBRIDEMENT,تنظيف جرح,1487.5,4/17/24
+114,WOUND VACUUM,غيار على جرح بالفاكيوم,2810.5,4/17/24
+115,BCG IMMUNOTHERAPY,علاج مناعي موضعي بالمثانة,987,4/17/24
+116,BLADDER EVACUATION BY NYLTON CATHETER,تفريغ المثانة بواسطه قسطرة نيلتون,483,4/17/24
+117,CLOT EVACUATION AND IRRIGATION,تقريغ تجلط دموى بالمثانة مع غسيل,1095.5,4/17/24
+118,BLADDER SCANNING,فحص المثانة,1547,4/17/24
+119,INSERTION OF URINARY CATHETER,تركيب قسطرة بولية,602,4/17/24
+120,INSERTION OF URINARY CATHETER FOLLOWING DILATATION,تركيب قسطرة بولية بعد توسيع مجرى البول,987,4/17/24
+121,INSERTION OF URINARY CATHETER USING STYLITTER,تركيب قسطرة بولية باستخدام مرشد,1365,4/17/24
+122,PROSTATIC MASSAGE,تدليك بروستاتا,731.5,4/17/24
+123,REMOVAL OF NEGLECTED FOLEY’S CATHETER BY U/S,رفع قسطرة فولي باستخدام الموجات الصوتية,1190,4/17/24
+124,RESIDUAL VOLUME & BLADDER CAPACITY ESTIMATION,تقدير سعه المثانة,602,4/17/24
+125,U/S OF URINARY TRACT IN UROLOGY CLINIC ,أشعة فوق صوتية على المسالك البولية فى عيادة المسالك ,430.5,4/17/24
+126,URETHRAL DILATATION UNDER LOCAL ANASTHESIA,توسيع مجرى البول باستخدام مخدر موضعي,875,4/17/24
+127,URODYNAMIC STUDY,قياس ديناميكية البول,1785,4/17/24
+128,UROFLOWMETRY ,مقياس تدفق البول,812,4/17/24
+129,VOIDING CYSTOURETHROGRAM (VCUG),إجراء أشعة صاعدة على المثانة والاحليل,987,4/17/24
+130,REMOVAL OF URINARY CATHETER,رفع قسطرة بولية,325.5,4/17/24
+131,SUPRAPUBIC PUNCTURE UNDER LOCAL ANASTHESIA (CYSTOFIX),فتح فوق العانة تحت تأثير مخدر موضعي (قسطرة سيستوفيكس),2016,4/17/24
+132,SUPRAPUBIC URINARY CATHETERIZATION,تركيب قسطرة فوق العانة خلال المثانة,3356.5,4/17/24
+133,4D U/S FOR SINGLE BABY,موجات فوق صوتية رباعية الأبعاد لطفل,1029,4/17/24
+134,4D U/S FOR TWINS BABIES ,موجات فوق صوتية رباعية الأبعاد لطفلين,1484,4/17/24
+135,4D U/S FOR TRIPLES BABIES ,موجات فوق صوتية رباعية الأبعاد لثلاثة أطفال,1886.5,4/17/24
+136,CHEMICAL CAUTARIZATION OF THE CERVIX,كى كيميائى لعنق الرحم,717.5,4/17/24
+137,ELECTRICAL CAUTERIZATION OF THE CERVIX,كى كهربائي لعنق الرحم,756,4/17/24
+138,FETAL DOPPLER,دوبلر على الجنين,304.5,4/17/24
+139,FETAL MONITORING BY CARDIOTOCOGRAPHY (CTG),مراقبة معدل نبض الجنين,525,4/17/24
+140,HORMONAL LOOP INSERTION(WITHOUT LOOP PRICE ),تركيب لولب هرمونى (بدون ثمن اللولب),892.5,4/17/24
+141,LOOP INSERTION (WITHOUT LOOP PRICE ),تركيب لولب (بدون ثمن اللولب),668.5,4/17/24
+142,LOOP EXTRACTION,خلع لولب,343,4/17/24
+143,IMPLANT INSERTION,زرع وسيلة منع حمل تحت الجلد,1074.5,4/17/24
+144,IMPLANT REMOVAL,خلع وسيلة منع حمل تحت الجلد,777,4/17/24
+145,PAP SMEAR (PROCEDURE BY PHYSICIAN),أخذ مسحة من عنق الرحم (بواسطة طبيب),588,4/17/24
+146,POST COITAL TEST,اختبار ما بعد الجماع,875,4/17/24
+147,REMOVAL OF CERVICAL STITCH (LOCALLY),خلع غرزة من عنق الرحم (موضعيًا),717.5,4/17/24
+148,TRANSVAGINAL ULTRASOUND,موجات فوق الصوتية عن طريق المهبل,490,4/17/24
+149,U/S IN OBE & GYN CLINIC BY PHYSICIAN,سونار فى عياده النساء والتوليد بواسطة الطبيب,378,4/17/24
+150,VIDEO COLPOSCOPY,منظارلعنق الرحم فيديو سكوب,1949.5,4/17/24
+151,ENDOMETRIAL SAMPLING,اخذ عينة من بطانة الرحم,1060.5,4/17/24
+152,PATHOLOGY FOR LARGE SAMPLE,تحليل عينة كبيرة,1298.5,4/17/24
+153,PATHOLOGY FOR SMALL SAMPLE,تحليل عينة صغيرة,976.5,4/17/24
+154,OFFICE HYSTEROSCOPE,منظار رحمي بالعيادة الخارجية,4032,4/17/24
+155,CERVICAL DILATATION,توسيع عنق الرحم,717.5,4/17/24
+156,CERVICAL POLYPECTOMY,استئصال لحمية من عنق الرحم,602,4/17/24
+157,vaginal swab,اخذ عينة من المهبل,399,4/17/24
+158,BOTOX FOR HYPERHYDROSIS,حقن بوتكس لزيادة التعرق,5274.5,4/17/24
+159,BOTOX FOR FACE,حقن بوتكس لتجاعيد الوجة,2376.5,4/17/24
+160,BOTOX INJECTION / SESSION,حقن بوتوكس / الجلسة,4196.5,4/17/24
+161,BOTOX PALMS AND SOLES,حقن بوتكس بالكفين وبطن القدم,6772.5,4/17/24
+162,CAVITATION / SESSION,كافيتيشن / جلسة,882,4/17/24
+163,TCA PEELING,تقشير بمادة TCA,528.5,4/17/24
+164,CHEMICAL PEELING (TCA),تقشير كيماوى بمادة TCA,563.5,4/17/24
+165,CHEMICAL PEELING FOR ONE SESSION,تقشير كيماوى للجلسة الواحده,871.5,4/17/24
+166,DERMAROLLER SESSION,جلسة ديرما روللر,1022,4/17/24
+167,DIAMOND STRONG / SYRINGE,القناع الماسي لتقشير البشرة / الحقنة,1400,4/17/24
+168,PRP (3 SESSIONS) ,علاج البشرة بالبلازما /3 جلسات,3157,4/17/24
+169,COLD PEELING/SESSION ,جلسة تقشير بالتبريد ,714,4/17/24
+170,MESOTHERAPY FOR WHITENING FACE,حقن ميزوثيرابي لتفتيح الوجه ,871.5,4/17/24
+171,GROWTH FACTORS FOR HAIR FALL , حقن عوامل النمو لعلاج تساقط الشعر,1921.5,4/17/24
+172,CAVI GOLD,حقن الكافيار الذهبي بالوجه,1620.5,4/17/24
+173,FILLER (VOLUME) / AMPOULE,فيلر VOLUME أمبولة,4280.5,4/17/24
+174,FILLER SYRINGE FOR FACE OR HAND,حقن فيلر للوجة او اليدين,3052,4/17/24
+175,FILLER SYRINGE FOR LIPS ,حقن فيلر للشفاة ,2555,4/17/24
+176,FILLER SYRINGE VOLUME VOLFIT,حقن فيلر عالية الجودة,3734.5,4/17/24
+177,FILLER ULTRA 3 / SYRINGE,فيلر ULTRA 3 حقنة,2163,4/17/24
+178,FILLER ULTRA 4 / SYRINGE,فيلر ULTRA 4 حقنة,2341.5,4/17/24
+179,FRACTIONAL CO2 LASER (SMALL),ليزر تجميل البشرة (منطقة صغيرة) ,469,4/17/24
+180,FRACTIONAL CO2 LASER (MEDIUM),ليزر تجميل للبشرة (منطقة متوسطة),637,4/17/24
+181,FRACTIONAL CO2 LASER (LARGE),ليزر تجميل للبشرة (منطقة كبيرة),777,4/17/24
+182,FRACTIONAL CO2 LASER (X-LARGE),ليزر تجميل للبشرة (منطقة كبيرة جدا),1526,4/17/24
+183,GOLD STAMP,الديرما جولد ستامب ,1746.5,4/17/24
+184,LASER HAIR REMOVAL OVER 300 PULSES,سعر النبضه الواحدة لاكثر من 300 نبضة ,3.5,4/17/24
+185,laser hair removal per pulse,سعر النبضه الواحدة,3.5,4/17/24
+186,I LIPO / SESSION,اختزال غير جراحي للدهون I LIPO / الجلسة,896,4/17/24
+187,LAVATRON / SESSION,اختزال غير جراحي للدهون LAVATRON / الجلسة,812,4/17/24
+188,LOCAL CORTISONE INJECTION / SET (SMALL),حقن كورتيزون موضعى / للجلسة منطقة صغيره,336,4/17/24
+189,LOCAL CORTISONE INJECTION / SET (MEDIUM),حقن كورتيزون موضعى / للجلسة منطقة متوسطه,434,4/17/24
+190,LOCAL CORTISONE INJECTION / SET (LARGE ),حقن كورتيزون موضعى / للجلسة منطقة كبيره,577.5,4/17/24
+191,LOCAL SKIN BIOPSY UNDER LOCAL ANESTHESIA,عينه من الجلد تحت مخدر موضعى,1022,4/17/24
+192,MELANIN CONTROL,التحكم في صبغة الميلانين,1183,4/17/24
+193,MELANIN MASK FOR SKIN PEELING,القناع الاسباني لتقشير البشرة,1785,4/17/24
+194,MESOTHERAPY WITH KAPRON,ميزوثيرابي باستخدام ماده الكبرون ,374.5,4/17/24
+195,MESOTHERAPY FOR SKIN WHITENING ,ميزوثيرابي لتفتيح البشره  ,791,4/17/24
+196,MESOTHERAPY FOR ACNE SCARS  (TCA PEELING),ميزوثيرابي لازالة اثار حب الشباب,563.5,4/17/24
+197,MESOTHERAPY FOR EYE DARK HALOS,ميزوثيرابي لعلاج الهالات السوداء,563.5,4/17/24
+198,"MESOTHERAPY FOR FACE,  HAIR AND STRETCH MARKS",ميزوثيرابي للوجه و الشعر وعلامات التمدد,738.5,4/17/24
+199,MESOTHERAPY FOR HAIR (DERMAHEAL STEM CELL),ميزوثيرابي للشعر (خلاية جذعية ديرماهيل),871.5,4/17/24
+200,MESOTHERAPY FOR HAIR (HAIR TD),ميزوثيرابي للشعر (هير تيد),528.5,4/17/24
+201,MESOTHERAPY OF HAIR / SET,ميزوثيرابي فى فروة الرأس / الجلسة,868,4/17/24
+202,MESOTHERAPY OF FAT (MESOLIPOLYSIS),ميزوثيرابي تكسير دهون,920.5,4/17/24
+203,MESOTHERAPY FOR SKIN REGENERATION / SESSION,ميزوثيرابي لنضارة البشرة / الجلسة,738.5,4/17/24
+204,MESOLIPOLYSIS FOR DOUBLE CHIN,ميزوثيرابي للذقن المزدوجه ,1095.5,4/17/24
+205,PEELING OF ARMPITS,تقشير الابطين,1050,4/17/24
+206,PEELING OF BACK,تقشير الظهر,2555,4/17/24
+207,PEELING OF BIKINI,تقشير البيكيني,1050,4/17/24
+208,PEELING OF ELBOWS,تقشير الكوعين,588,4/17/24
+209,PEELING OF FACE,تقشير الوجه,920.5,4/17/24
+210,PEELING OF FACE AND NECK,تقشير الوجة و الرقبة,1200.5,4/17/24
+211,PEELING OF KNEES,تقشير الركب,588,4/17/24
+212,PLASMA INJECTION FOR HAIR AND FACE,حقن بلازما في الشعر و الوجه ,2359,4/17/24
+213,PRP - ONE SESSION WITH CENTRIFUGATION,علاج البشرة بالبلازما - جلسة واحدة بجهاز الطرد المركزي,1690.5,4/17/24
+214,REMOVAL OF FACIAL CELLULAR CYSTS,ازله التكيسات الخلويه بالوجه,395.5,4/17/24
+215,SKIN APPENDAGES REMOVAL – FIRST APPENDAGE,ازله الزوائد الجلديه – أول زائده ,465.5,4/17/24
+216,SKIN APPENDAGES REMOVAL / SET –OVER ONE APPENDAGE,ازله الزوائد الجلديه – بعد أول زائده,182,4/17/24
+217,SPA RADIO FREQUENCY / 1 SESSION,جلسة تردد حراري,1183,4/17/24
+218,UVR / IRR SESSION,جلسة اشعه فوق بنفسجية,269.5,4/17/24
+219,PLANTER WART EXCISION - FIRST WART ELECTRIC ,ازاله سنطه كى كهربائى من بطن القدم - السنطه الاولى,833,4/17/24
+220,PLANTER WART EXCISION - FIRST WART CRYO,ازاله سنطه كى بالتبريد من بطن القدم - السنطه الاولى,647.5,4/17/24
+221,PLANTER WART EXCISION - OVER 1 WART ELECTRIC ,ازاله سنطه  كى كهربائى من بطن القدم - مازاد عن السنطه الاولى,395.5,4/17/24
+222,PLANTER WART EXCISION - OVER 1 WART CRYO,ازاله سنطه  كى بالتبريد من بطن القدم - مازاد عن السنطه الاولى,325.5,4/17/24
+223,WART EXCISION - FIRST WART ELECTRIC ,إزالة سنطة كى كهربائى  - السنطه الاولى,479.5,4/17/24
+224,WART EXCISION - FIRST WART CRYO,إزالة سنطة كى بالتبريد  - السنطه الاولى,423.5,4/17/24
+225,WART EXCISION - OVER 1 WART ELECTRIC ,ازاله سنطه كى كهربائى - مازاد عن السنطه الاولى,395.5,4/17/24
+226,WART EXCISION - OVER 1 WART CRYO,ازاله سنطه كى بالتبريد  - مازاد عن السنطه الاولى,269.5,4/17/24
+227,DERMA PEN 1ST SESSION,جلسة تجميل باستخدام الديرما بن,1204,4/17/24
+228,PRP WITH DERMAPEN,حقن بلازما باستخدام الديرما بن,1242.5,4/17/24
+229,COMEDON EXTRACTOR ( SMALL ),إزالة رؤوس سوداء  منطقة (صغيرة),353.5,4/17/24
+230,COMEDON EXTRACTOR (MEDIUM ),إزالة رؤوس سوداء منطقة (متوسط),479.5,4/17/24
+231,COMEDON EXTRACTOR (LARGE ),إزالة رؤوس سوداء منطقة (كبيرة),577.5,4/17/24
+232,LOCAL 5- FLUROUROURACIL INJECTION ( SMALL ),حقن مادة فلوريوراسيل منطقة (صغيرة),290.5,4/17/24
+233,LOCAL 5- FLUROUROURACIL INJECTION (MEDIUM),حقن مادة فلوريوراسيل منطقة (متوسط),434,4/17/24
+234,LOCAL 5- FLUROUROURACIL INJECTION( LARGE ),حقن مادة فلوريوراسيل منطقة  (كبيرة),577.5,4/17/24
+235,HAIR TRANSPLANTATION 2000-3000 GRAFTS,زراعة الشعر بالاقتطاف من 2000-3000 قطفة,29921.5,4/17/24
+236,HAIR TRANSPLANTATION 500-2000 GRAFTS,زراعة الشعر بالاقتطاف من 2000-500 قطفة,21507.5,4/17/24
+237,HAIR TRANSPLANTATION LESS THAN 500 GRAFTS,زراعة الشعر بالاقتطاف اقل من 500 قطفة,10290,4/17/24
+238,ABOVE ELBOW CAST,جبس فوق الكوع,822.5,4/17/24
+239,ABOVE ELBOW CAST PED,جبس فوق الكوع أطفال,798,4/17/24
+240,ABOVE ELBOW POSTERIOR SLAB,سلاب خلفي فوق الكوع,539,4/17/24
+241,ABOVE KNEE CAST,جبس فوق الركبة,1022,4/17/24
+242,ABOVE KNEE CAST PED,جبس فوق الركبة أطفال,861,4/17/24
+243,ABOVE KNEE POSTERIOR SLAB,سلاب خلفى فوق الركبة,539,4/17/24
+244,ADHESIVE TAPE FOR FRACTURE RIB,مشمع لاصق لكسر الضلوع,490,4/17/24
+245,BELOW ELBOW CAST,جبس تحت الكوع,633.5,4/17/24
+246,BELOW ELBOW CAST PED,جبس تحت الكوع أطفال,602,4/17/24
+247,BELOW KNEE CAST,جبس تحت الركبة,1235.5,4/17/24
+248,BELOW KNEE CAST PED,جبس تحت الركبة أطفال,833,4/17/24
+249,BELOW KNEE SLAB,سلاب تحت الركبة,745.5,4/17/24
+250,BODY BANDAGE,رباط حول الجسم,752.5,4/17/24
+251,BODY BANDAGE PED,رباط حول الجسم أطفال,577.5,4/17/24
+252,BONE DENSITY MEASUREMENT (DEXA),قياس كثافة العظام,826,4/17/24
+253,CPM MACHINE,جهاز تحريك و تمرين مفصل الركبة,1547,4/17/24
+254,CREPE BANDAGE,رباط كريب,147,4/17/24
+255,CYLINDER CAST,أسطوانة جبس كبار,1452.5,4/17/24
+256,CYLINDER CAST PED,أسطوانه جبس للأطفال,875,4/17/24
+257,ELASTOPLAST BANDAGE,رباط ايلاستوبلاست,283.5,4/17/24
+258,FIGURE OF 8 BANDAGE,رباط ثمانى,490,4/17/24
+259,FINGER BANDAGE NORMAL,رباط أصابع عادى,283.5,4/17/24
+260,FINGER SLAB,سلاب جبس لأصبع اليد,490,4/17/24
+261,FINGER SPLINT,سنادة أصابع,343,4/17/24
+262,FOOT SLAB OR ELBOW POST SLAB,سلاب قدم أو سلاب كوع خلفى,602,4/17/24
+263,FOOT SLAB OR ELBOW POST SLAB PED,سلاب قدم أو سلاب كوع خلفى أطفال,490,4/17/24
+264,HALF HIP SPIKA ADULT,نصف بنطلون جبس كبار,1235.5,4/17/24
+265,HALF HIP SPIKA PED,نصف بنطلون جبس أطفال,1144.5,4/17/24
+266,INTRA-ARTICULAR INJECTION,حقن موضعى عظام مفاصل,976.5,4/17/24
+267,HIP REDUCTION,رد خلع بمفصل الحوض,2541,4/17/24
+268,JONES BANDAGE,رباط جونز,490,4/17/24
+269,KNEE ASPIRATION,بذل للركبة,955.5,4/17/24
+270,MODERATE ORTHOPEDIC DRESSING,غيار جرح متوسط عظام,283.5,4/17/24
+271,LARGE ORTHOPEDIC DRESSING,غيار جرح كبير عظام,490,4/17/24
+272,LOCAL HEEL INJECTION,حقن موضعى للكعب,518,4/17/24
+273,REDUCTION OF PULLED ELBOW,رد الكوع,934.5,4/17/24
+274,REDUCTION OF DISLOCATED JOINT,رد خلع بالمفصل,490,4/17/24
+275,REDUCTION OF SIMPLE FRACTURE,رد كسر بسيط,490,4/17/24
+276,REMOVAL OF CAST,إزالة جبس,539,4/17/24
+277,REMOVAL OF CLIP STITCHES,رفع غرز كلبسات,490,4/17/24
+278,REMOVAL OF HIP SPIKA,فك بنطلون جبس,777,4/17/24
+279,REMOVAL OF K WIRE,رفع سلك معدنى,490,4/17/24
+280,REMOVAL OF ORTHOPEDIC STITCHES,إزاله غرز جراحة عظام,490,4/17/24
+281,SKIN TRACTION,شده جلديه للعظام,717.5,4/17/24
+282,ROLL FOR SKIN TRACTION,روافع شده جلدية لحالات الكسور,147,4/17/24
+283,SCAPHOID CAST ,جبس زورقى ,875,4/17/24
+284,SCAPHOID CAST PED,جبس زورقى أطفال,717.5,4/17/24
+285,SHOULDER SPIKA,جاكيت جبس,1711.5,4/17/24
+286,SHOULDER SPIKA PED,جاكيت جبس أطفال,1144.5,4/17/24
+287,SLAB FOR WRIST,سلاب للرسغ,490,4/17/24
+288,THOMAS SPLINT,جبيره فخذ,717.5,4/17/24
+289,U SLAB,سلاب يو,868,4/17/24
+290,U SLAB PED,سلاب يو أطفال,717.5,4/17/24
+291,WINDOW,عمل شباك,196,4/17/24
+292,HIP SPIKA,بنطلون جبس كبار,1711.5,4/17/24
+293,HIP SPIKA PED,بنطلون جبس أطفال,1235.5,4/17/24
+294,INTRA-ARTICULAR INJECTION with PRP ,حقن موضعى عظام مفاصل باستخدام البلازما  ,7035,4/17/24
+295,NASAL PACK,تركيب فتيل,336,4/17/24
+296,CORD REMOVAL, رفع فتيل ,164.5,4/17/24
+297,ANTERIOR NASAL PACKING,حشو أنف أمامى,717.5,4/17/24
+298,POST NASAL PACKING,حشو أنف خلفي,1099,4/17/24
+299,BIOPSY FROM ANY ENT MASS LESION UNDER LOCAL ANAESTHESIA (NOT INCLUDING SAMPLE PRICE ),أخذ عينة من تورم بالأذن أو الأنف أو الحنجرة تحت مخدر موضعي (لا تشمل سعر العينة),1099,4/17/24
+300,DIAGNOSTIC LARYNGOSCOPE,منظار حنجرى تشخيصي,717.5,4/17/24
+301,E.N.T ENDOSCOPY CAMERA USE ,استخدام كاميرا على المنظار بعيادة الأنف والأذن والحنجرة,210,4/17/24
+302,EAR PACKING,حشو أذن,987,4/17/24
+303,EAR SUCTION,شفط من الاذن ,490,4/17/24
+304,EAR WASH (BOTH EARS),غسيل للاذنين,430.5,4/17/24
+305,EAR WASH (ONE EAR),غسيل اذن واحدة,283.5,4/17/24
+306,ENDOSCOPIC NASAL SINUS UNDER LOCAL ANAESTHESIA,فحص جيوب أنفية بالمنظار تحت مخدر موضعي,602,4/17/24
+307,EXTRACTION OF FB (ENT),استخراج جسم غريب أنف وأذن,752.5,4/17/24
+308,FIBER OPTIC LARYNGOSCOPE,منظار حنجرة ضوئي,1099,4/17/24
+309,FLEXIBLE LARYNGOSCOPE,منظار حنجرة مرن,1099,4/17/24
+310,nasel bleeding caturization unilateral,كي لنزيف الانف جانب واحد,896,4/17/24
+311, nasel bleeding caturization bilateral,كي لنزيف الانف جانبين,1547,4/17/24
+312,INCISION & DRAINAGE OF TONSILLAR ABCESS (QUINSY) UNDER LOCAL ANESTHESIA,فتح وتصريف خراج حول اللوزتين تحت مخدر موضعي,1099,4/17/24
+313,NASAL ENDOSCOPY (DIAGNOSTIC),منظار أنف (تشخيصى),717.5,4/17/24
+314,NASAL SUCTION,تشفيط من الأنف,378,4/17/24
+315,PHARYNGEAL SUCTION,تشفيط من البلعوم,378,4/17/24
+316,TONSIL SWAP,مسحة للوزتين ,1099,4/17/24
+317,NEONATAL HEARING SCREENING ,مسح سمعي للأطفال ,490,4/17/24
+318,CRYOTHERAPY FOR THE MOUTH CAVITY / SESSION ,كى بالتبريد لتجويف الانف و الفم / الجلسة,2271.5,4/17/24
+319,CLOSED REDUCTION OF SIMPLE FRACTURED NASAL BONE UNDER LOCAL ANAESTHESIA,رد كسر بسيط بالأنف تحت مخدر موضعي + جبيرة خارجية,1452.5,4/17/24
+320,COBLATOR ,جهاز الكى بالبلازما (كوبلاتور),10934,4/17/24
+321,intratampanic injection with steroid using microscope,حقن طبلة الاذن بالاستيرويد باستخدام الميكروسكوب,2432.5,4/17/24
+322,COMPUTERIZED AUDIOGRAM,قياس رسم سمع بالكمبيوتر اكتشاف مبكر لضعف السمع من خلال فحص إستجابة جذع المخ للمؤثرات السمعية,1099,4/17/24
+323,AUDITORY BRAIN STEM RESPONSE (ABR),"مراجعة استجابة جذع الدماغ
+",1407,4/17/24
+324,BALANCE TRAINING,تمرين الاتزان ,1330,4/17/24
+325,OTOACOUSTIC EMISSION (OAE),قياس سمع بالرنين الصوتي,644,4/17/24
+326,REFLEX AUDITORY,مقياس الانعكاس الصوتي,1095.5,4/17/24
+327,SPEECH DISCRIMINATION,اختبار تفسير الكلام,490,4/17/24
+328,TYMPANOMETRY,قياس ضغط أذن,567,4/17/24
+329,EPLEYS MANEUVER / EXCERCISE FOR BENIGN POSITIONAL VERTIGO,تدريبات إيبلي الحركية لعلاج الدوار الحركي,490,4/17/24
+330,VIDEONYSTAGMOGRAPHY (VNG),رسم اتزان بالكمبيوتر,1547,4/17/24
+331,EUSTACHIAN TUBE FUNCTION TEST,قياسات سمعية لقناة أستكيوس,1578.5,4/17/24
+332,REPOSITIONING MANEUVER FOR VERTIGO,اختبار دوار الرأس,1578.5,4/17/24
+333,E.E.G (OUTPATIENT),رسم مخ بالعيادات الخارجية,1365,4/17/24
+334,SINGLE MUSCLE E.M.G,اختبار عضلة واحدة,1235.5,4/17/24
+335,MUSCLE E.M.G - AFTER THE FIRST MUSCLE,اختبار عضلة - بعد أول عضلة,987,4/17/24
+336,E.M.G / LIMB,اختبار عضلة / للطرف,1235.5,4/17/24
+337,ELECTRONEUROGRAPHY (ENG),اختبار عصب,1190,4/17/24
+338,NERVE CONDUCTION -1ST NERVE,اختبار عصب - رسم أول عصب,791,4/17/24
+339,NERVE CONDUCTION - AFTER 1ST NERVE,اختبار عصب - رسم العصب بعد أول عصب,553,4/17/24
+340,NERVE CONDUCTION / LIMB,اختبار عصب /  للطرف,1235.5,4/17/24
+341,RESERVOIR TAPPING,بذل من الجزء الأوسط من الصمام الثلاثى,731.5,4/17/24
+342,E.E.G UP TO 3 HOURS,رسم مخ  حتى 3 ساعات,2103.5,4/17/24
+343,E.E.G (INPATIENT) FROM 3 TO 24 HOURS - WITHOUT ACCOMODATION FEES,رسم مخ (مريض داخلي) من 3 ساعات حتى 24 ساعة (بدون رسوم إقامة),5554.5,4/17/24
+344,PSYCHOTHERAPY SESSION – INPATIENT,جلسة علاج نفسي - قسم داخلي,553,4/17/24
+345,BIFID EAR LOBULE - ONE SIDE,شق بحلمة الأذن - جانب واحد,3720.5,4/17/24
+346,DRESSING FOR BURN (SMALL AREA) 5%,غيار على حرق (مساحه صغيرة) %5,479.5,4/17/24
+347,DRESSING FOR BURN (MEDIUM AREA) 5-10%,غيار على حرق (مساحه متوسطة) 5-10%,553,4/17/24
+348,DRESSING FOR BURN (LARGE AREA) 10-15%,غيار على حرق (مساحه كبيرة) 10-15%,833,4/17/24
+349,HYPERTROPHIC KELOID SCAR INJECTION,حقن ندبات,644,4/17/24
+350,PLASTIC STITCHES LESS THAN 2 CM,غرز تجميل أقل من 2 سم,875,4/17/24
+351,PLASTIC STITCHES 2-3.5 CM,غرز تجميل 2-3.5 سم,1099,4/17/24
+352,PLASTIC STITCHES 3.5-5 CM,غرز تجميل 3.5-5 سم,1235.5,4/17/24
+353,PLASTIC SURGERY DRESSING ,غيار علي الجروح التجميلية,644,4/17/24
+354,CHALAZION EXTRACTION ,إزالة كيس دهني,1235.5,4/17/24
+355,FUNDAL EXAMINATION,فحص قاع عين,738.5,4/17/24
+356,GLASSES EX WITH COMPUTER,كشف نظاره بالكمبيوتر,283.5,4/17/24
+357,HAIR ELECTROLYSIS - SINGLE EYE,إزالة شعرة بالكهرباء بعين واحدة,1064,4/17/24
+358,OCCULAR TENSION,قياس ضغط العين,304.5,4/17/24
+359,PTC EXTRACTION,إزالة حبوب بجفن العين,875,4/17/24
+360,REMOVAL OF CORNEAL FOREIGN BODY,إزالة رايش او جسم غريب بالقرنية,1064,4/17/24
+361,STYE,فتح دمل,1424.5,4/17/24
+362,ADHD (ATTENTION DEFICIT HYPERACTIVITY DISORDERS) TEST,اختبار لفرط الحركة وتشتت الانتباه,490,4/17/24
+363,CARS TEST (CHILDHOOD AUTISM RATING SCALE),اختبار كارز (مقياس التوحد في مرحلة الطفولة),490,4/17/24
+364,COGNITIVE BEHAVIORAL THERAPY SESSIONS,   جلسات علاج سلوكي أو معرفي للأطفال,409.5,4/17/24
+365,DENVER'S DEVELOPMENTAL SCREENING TEST, اختبار دنفر للنمو والتطور,490,4/17/24
+366,HAMILTON DEPRESSION SCALE,مقياس هاميلتون للاكتئاب,283.5,4/17/24
+367,IQ TEST,اختبار ذكاء,717.5,4/17/24
+368,M – CHAT,اختبار للتوحد في الأطفال أقل من 30 شهر,283.5,4/17/24
+369,POSITIVE PARENTING TRAINING,جلسات الأبوة الإيجابية (للآباء),409.5,4/17/24
+370,SPEECHES SESSION,جلسة تخاطب,374.5,4/17/24
+371,SPENCE ANXIETY SCALE,اختبار سبنس للقلق لدى الأطفال,409.5,4/17/24
+372,STANFORD - BINET INTELLIGENCE SCALES (5TH EDITION),اختبار ستانفورد بينيه للذكاء لدى الأطفال (الصورة الخامسة),2247,4/17/24
+373,AUTISM ASSESSMENT SKILL,مهارة تقييم التوحد,1029,4/17/24
+375,digital periapical x-ray,فيلم اشعة اسنان صغير,175,4/17/24
+376,panoramic x-ray ( opg ),اشعة بانوراما,339.5,4/17/24
+377,cone beam C.T (quaderant ),اشعة ثلاثية الابعاد ( جزئية ),682.5,4/17/24
+378,cone beam C.T ( one jaw ),اشعة ثلاثية الابعاد ( فك واحد ),987,4/17/24
+379,cone beam C.T ( full mouth ),اشعة ثلاثية الابعاد (كامل الفكين ),2268,4/17/24
+380,Lateral cephalometric radiograph,اشعة سيفالومتر,378,4/17/24
+382,COMPOSITE FILLING FOR ANTERIOR (ONE SURFACE)           ,حشو كومبوزيت للأسنان الأمامية لسطح واحد,1060.5,4/17/24
+383,COMPOSITE FILLING FOR ANTERIOR (TWO SURFACE)           ,حشو كومبوزيت للأسنان الأمامية لسطحين,1211,4/17/24
+384,COMPOSITE FILLING FOR ANTERIOR (MORE TWO SURFACE)           ,حشو كومبوزيت للأسنان الأمامية لأكثر من سطحين,1512,4/17/24
+385,COMPOSITE FILLING FOR POSTERIOR (ONE SURFACE)           ,حشو كومبوزيت للأسنان الخلفية لسطح واحد,1060.5,4/17/24
+386,COMPOSITE FILLING FOR POSTERIOR (TWO SURFACES)           ,حشو كومبوزيت للأسنان الخلفية لسطحين,1211,4/17/24
+387,COMPOSITE FILLING FOR POSTERIOR (MORE TWO SURFACES)           ,حشو كومبوزيت للأسنان الخلفية لأكثر من سطحين,1512,4/17/24
+388,FIBER POST + COMPOSITE CORE,حشو كمبوزيت + وتد من الفيبر,1816.5,4/17/24
+389,METAL POST + COMPOSITE CORE.,حشو كمبوزيت + وتد من المعدن,1211,4/17/24
+390,Composite filling & fixation of pins for anterior teeth ,حشو كمبوزيت مع تثبيت مسامير للاسنان الامامية,1365,4/17/24
+391,Composite filling & fixation of pins for posterior teeth ,حشو كمبوزيت مع تثبيت مسامير للاسنان الخلفية,1365,4/17/24
+392,Amalgam filling  (1 surface),حشو مملغم ( سطح واحد),910,4/17/24
+393,Amalgam filling ( 2 surface),حشو مملغم ( سطحين ),910,4/17/24
+394,Amalgam filling + pins fixation,حشو مملغم مع مسامير تثبيتية ,1211,4/17/24
+395,Amalgam filling + post fixation,حشو مملغم مع وتد تثبيتي,1365,4/17/24
+396,Pits& fissure sealants for adults,مانع التسوس للضرس الواحد- بالغ,756,4/17/24
+397,Filling porcelain with Cerec 2 ***,حشو بورسلين مع جهاز cerec ***,1963.5,4/17/24
+398,Filling glass ionomer,حشو ابيض زجاجي,1365,4/17/24
+399,composite cuspal coverage,حشو كمبوزيت لتغطية نتوء ضرس خلفي,1662.5,4/17/24
+400,posterior composite build up,حشو كمبوزيت لبناء ضرس خلفي,1512,4/17/24
+401,posterior MOD composite,حشو MOD كمبوزيت,1253,4/17/24
+402,custom post & core,وتد ودعامة للترميم,2268,4/17/24
+403,flawable composite,حشو كمبوزيت سائل,1365,4/17/24
+404,Fluoride application for anterior & posterior teeth (3 Visits),دهان الاسنان بمادة الفلوريد,756,4/17/24
+405,Laminate composite for anterior teeth,قشرة كمبوزيت تجميليه للاسنان الامامية,3773,4/17/24
+406,TREATMENT OF DENTIN HYPERSENSITIVITY PER TOOTH         ,علاج موضعى لحساسية الأسنان/ للسنة الواحدة,910,4/17/24
+407,SEDATIVE  Temporery FILLING           ,حشو مؤقت مهدئ,157.5,4/17/24
+409,ROOT CANAL TREATMENT FOR ANTERIOR ,علاج عصب وحشو للأسنان الأمامية بجهاز الروتراي,3024,4/17/24
+410,ROOT CANAL TREATMENT FOR POSTERIOR  ,علاج عصب وحشو للأسنان الخلفية  بجهاز الروتراي,3773,4/17/24
+411,RCT - RE-TREATMENT FOR ANTERIORS,اعادة حشو عصب للاسنان الامامية  بجهاز الروتراي,3321.5,4/17/24
+412,RCT - RE-TREATMENT FOR MOLARS,اعادة حشو عصب للاسنان الخلفية  بجهاز الروتراي,3927,4/17/24
+413,RCT FOR ABERRANT MORPHOLOGY - ANT. AND PRE- MOLAR,حشو عصب لجذور مائلة اسنان امامية  بجهاز الروتراي,3773,4/17/24
+414,RCT - RE-TREATMENT FOR aberrant morphology MOLARS,حشو عصب لجذور مائلة اسنان خلفية  بجهاز الروتراي,4529,4/17/24
+415,RCT OF INFECTED CANALS FOR ANTERIOR ,حشو  عصب مصاب بعدوي اسنان امامية  بجهاز الروتراي,3773,4/17/24
+416,RCT OF INFECTED CANALS FOR POSTERIOR,حشو عصب مصاب بعدوي اسنان خلفية  بجهاز الروتراي,4231.5,4/17/24
+417,RCT FOR ANTERIOR TOOTH BY MICROSCOPE ***,حشو عصب اسنان امامية بالميكروسكوب ,3475.5,4/17/24
+418,RCT FOR PSTERIOR TOOTH BY MICROSCOPE ***,حشو عصب اسنان  خلفيةبالميكروسكوب,4077.5,4/17/24
+419,ENDODONTIC  vital regeneration ,إعادة حيوية العصب,4980.5,4/17/24
+420,ENDODONTIC  non-vital infected regeneration ,عادة حيوية العصب مصاب بعدوى ,6041,4/17/24
+421,MTA endodontic direct pulp capping,علاج الجزء العلوي من العصب بتغطية مباشرة من MTA,3773,4/17/24
+422,APEXIFICATION,علاج عصب للاسنان غير مكتملة النمو,3024,4/17/24
+423,SURGERY,الجراحة,0,4/17/24
+424,SIMPLE TOOTH EXTRACTION,خلع بسيط,682.5,4/17/24
+425,SURGICAL ERUPTED TOOTH EXTRACTION,خلع جراحي لضرس ظاهر,1060.5,4/17/24
+426,SURGICAL EXTRACTION OF IMPACTED TOOTH,خلع جراحي لضرس مدفون,2117.5,4/17/24
+427,SURGICAL ROOT EXTRACTION ,خلع جذور جراحيا,1365,4/17/24
+428,WISDOM EXTRACTION ,خلع ضرس العقل بسيط,1512,4/17/24
+429,SURGICAL EXTRACTION OF SOFT TISSUE IMPACTED WISDOM,خلع  جراحي ضرس العقل مدفون تحت الانسجة,2268,4/17/24
+430,SURGICAL EXTRACTION OF IMPACTED  VIRTICAL WISDOM ( CLASS 1 ), خلع جراحي ضرس العقل مدفون تحت العظام (مستوي اول ),3024,4/17/24
+431,SURGICAL EXTRACTION OF IMPACTED  HORIZONTAL WISDOM ( CLASS 2 ), خلع جراحي ضرس العقل مدفون تحت العظام (مستوي ثان ),3773,4/17/24
+432,SURGICAL EXTRACTION OF IMPACTED CANINE ( VIRTICAL),خلع ناب مضمور طوليا,5285,4/17/24
+433,SURGICAL EXTRACTION OF IMPACTED CANINE ( HORIZONTAL ),خلع ناب مضمور افقيا,7546,4/17/24
+434,SURGICAL EXTRACTION OF IMPACTED  DISTAL INCLINED WISDOM ( CLASS 3 ), خلع جراحي ضرس العقل مدفون تحت العظام (مستوي ثالث),6797,4/17/24
+435,CYST EXCISION ( LESS THAN 2 TEETH ) ***,ازالة كيس زلالي (يتضمن اقل من سنتين ),3024,4/17/24
+436,CYST EXCISION ( 2 - 4 TEETH ) ***,ازالة كيس زلالي (يتضمن من سنتين الي 4 اسنان ),4529,4/17/24
+437,CYST EXCISION ( MORE THAN 4 TEETH ) ***,ازالة كيس زلالي (يتضمن اكثر من 4 اسنان ),8302,4/17/24
+438,CYST EXCISION ( MORE THAN 4 TEETH AND NEED SPECIAL SKILLS ) ***,ازالة كيس زلالي (يتضمن اكثر من 4 اسنان ويحتاج مهارة خاصة ),13583.5,4/17/24
+439,CYST MARCIPULIZATION *,فتح وتهوية كيس او ورم,6041,4/17/24
+440,INCISION & DRAINAGE OF INTRA ORAL ABSCESS *,فتح وكحت خراج اسنان داخل الفم جراحيا,1060.5,4/17/24
+441,INCISION & DRAINAGE OF EXTRA ORAL ABSCESS *,فتح وكحت خراج اسنان خارج الفم جراحيا,1512,4/17/24
+442,ABSCESS DEBRIEDMENT ***,تنظيف خراج اسنان,682.5,4/17/24
+443,GINGIVAL INCISION,قطع لثوي,756,4/17/24
+444,APICECTOMY PER TOOTH,عملية ازالة اخر الجذر جراحيا,3024,4/17/24
+445,INCISIONAL BIOBSY ***,عينة من النسيج الداخلي,1512,4/17/24
+446,EXCISIONAL BIOBSY ( LESS THAN 2 CM )*,عينة مع ازالة النسيج الداخلي اقل من 2 سم,2268,4/17/24
+447,BONE AUGMENTATION ( UP TO 1 MML ) ,زراعة عظام صناعية 1 ملم,4529,4/17/24
+448,BONE AUGMENTATION ( 1  TO  5 MML ) ,زراعة عظام صناعية من 1 ملم حتي 5 ملم,7546,4/17/24
+449,MEMBRANE OR MESH PLACEMENT,تثبيت غشاء او شبكة,2268,4/17/24
+450,GINGIVECTOMY ONE ARCH,قص اللثة جراحيا فك واحد,2268,4/17/24
+451,GINGIVECTOMY FULL MOUTH,قص اللثة جراحيا للفكين,4529,4/17/24
+452,GINGIVOPLASTY ONE ARCH ***,ترميم حافة اللثة فك واحد,3773,4/17/24
+453,GINGIVOPLASTY FULL MOUTH ***,ترميم حافة اللثة  فكين,6797,4/17/24
+454,ALVEOPLASTY FOR ONE SIDE  ***,ترميم حافة العظام,1512,4/17/24
+455,ALVEOLECTOMY,ازلة زوائد عظمية بالفك,3024,4/17/24
+456,EXCISION OF BENIGN TUMOR ( UP TO 2 CM ),ازالة ورم حميد ( حتي 2 سم ),3773,4/17/24
+457,EXCISION OF BENIGN TUMOR ( UP TO 4 CM ),ازالة ورم حميد ( حتي 4 سم ),6041,4/17/24
+458,EXCISION OF BENIGN TUMOR ( MORE THAN 4 CM ),ازالة ورم حميد ( اكبر من  4 سم ),13583.5,4/17/24
+459,LABIAL OR LINGUAL FRENECTOMY,شق لجام اللسان او الشفاه,1211,4/17/24
+460,BONE EXPENSION ,توسيع العظام,6797,4/17/24
+461,SINUS ELEVATION OR LIFTING,رفع الجيب الانفي ,7546,4/17/24
+462,DRY SOCKET TREATMENT 2 VISIT,علاج السنخ الجاف/ جلستان,1211,4/17/24
+463,BLEEDING STABILIZATION AFTER EXTRACTION,علاج نزيف بعد الخلع,868,4/17/24
+464,BONE GRAFTING IN PERIODONTAL POCKET DEFECT,ترقيع عظمي في جيب لثوي,7546,4/17/24
+465,OPERCULECTOMY,ازالة اللحمية حول ضرس العقل,1211,4/17/24
+466,Intermaxillary fixation for TMJ dysfunction,تثبيت الفكين لعلاج مفصل الفك,7546,4/17/24
+467,Intermaxillary fixation ( CLOSED REDUCTION ),اصلاح كسر بالفك بدون فتح جراحي,8200.5,4/17/24
+468,REMOVAL OF SMALL FIBROMA / LIPOMA ***,ازالة ورم شحمي او ليفي صغير(اقل من 4 سم ),3773,4/17/24
+469,REMOVAL OF LARGE FIBROMA / LIPOMA ***,ازالة ورم شحمي او ليفي كبير(اكتر من 4 سم),6041,4/17/24
+470,LAVAGE OF TMJ ( ARTHROCENTHESIS ) / SIDE / VISIT ***,غسيل وفك تصلب  مفصل الفك ( جهة واحدة )/ الجلسة الواحدة,3773,4/17/24
+471,TMJ INJECTION ***,حقن مفصل الفك بادوية,3283,4/17/24
+472,SOFT TISSUE GRAFT,ترقيع لثوي,3829,4/17/24
+473,SURGICAL STENT / GUIDE ( LAB ),جهاز مرشد جراحي في المعمل,3024,4/17/24
+474,SURGICAL STENT / GUIDE  ( CEREC ) ***,جهاز مرشد جراحي (CEREC),3773,4/17/24
+476,Metal crown with porcelain facing,طربوش معدني بسطح بورسلين,1963.5,4/17/24
+477,Porcelain crown ( PFM ),طربوش بورسلين  ( PFM ),3024,4/17/24
+478,E-MAX CROWN,طربوش اي ماكس,6797,4/17/24
+479,Xirconium crown,طربوش زيركونيوم,5736.5,4/17/24
+480,XIrconium inlay / ENDOCROWN,حشو زيركونيوم داخلي صب,4529,4/17/24
+481,INDIRECT CERAMIC Laminate /ONLAY,حشو خزفي من سيراميك,3773,4/17/24
+482,laminate  ,قشرة خزفيه (  لومينات ),6041,4/17/24
+483,CAD /CAM CROWN ( CEREC ) ***,تركيبة سيراميك باستخدام تقنية سيريك,7546,4/17/24
+484,PORCALIN REPAIR ( CLINIC ) ***,تصليح طربوش بورسلين  ( في العيادة ),1816.5,4/17/24
+485,PORCALIN REPAIR ( LAB ),تصليح طربوش بورسلين  ( في المعمل ),1365,4/17/24
+486,Milled temporary acrylic crown,طربوش مؤقت مخروط في المعمل للسن الواحد,609,4/17/24
+487,Milled temporary acrylic crown ( CEREC) ***,طربوش مؤقت مخروط في العيادة للسن الواحد,1211,4/17/24
+488,STUDY CAST,قالب لدراسة الاسنان,304.5,4/17/24
+489,MOCK UP,بروفة تجميل الاسنان,609,4/17/24
+490,CEMENTATION / TOOTH,لزق طربوش للسن الواحد,609,4/17/24
+491,TWINKLE,تركيب لؤلؤة تجميلية,756,4/17/24
+493,Complete denture,طقم كامل  ,15092,4/17/24
+494,half denture ( upper or lower ),نصف طقم ( علوي او سفلي ),8302,4/17/24
+495,COMPLETE SOFT denture (flexiable ),طقم كامل مرن,18112.5,4/17/24
+496,half soft denture ( upper or lower ),نصف طقم مرن ( علوي او سفلي ),9814,4/17/24
+497,Acrylic partial denture (first tooth),طقم جزئي ( اول سن ),2719.5,4/17/24
+498,Each additional tooth,كل سنة اضافية,910,4/17/24
+499,VITALLIUM DENTURE ( ONE ARCH ),تركيبة فيتاليوم فك واحد,9058,4/17/24
+500,VITALLIUM DENTURE ( BOTH ARCH ),تركيبة فيتاليوم فكين,12075,4/17/24
+501,DENTURE RELINING /REBASE,بطانة للطقم الفك الواحد,3773,4/17/24
+502,DENTURE REPAIR,تصليح للطقم,1060.5,4/17/24
+503,NIGHT GUARD,جهاز حماية الاسنان,1512,4/17/24
+504,OCCLUSAL SPILINT / ADJUSTMENT,جهاز اطباق الفك / الاسنان,3024,4/17/24
+506,EXTRACTION ( PEDO ),خلع اسنان اطفال,682.5,4/17/24
+507,AMALGAM FILLING ( PEDO ),حشو مملغم اطفال,833,4/17/24
+508,COMPOSITE FILLING ( PEDO ),حشو ابيض كمبوزيت اطفال,1060.5,4/17/24
+509,GLASS INOMER FILLING ( PEDO ),حشو ابيض زجاجي اطفال,875,4/17/24
+510,PULPOTOMY ( PEDO ),حشو عصب اطفال,1512,4/17/24
+511,SPACE MAINTAINER UNILATERAL ( PEDO ),حافظ مسافة جانب واحد اطفال,2268,4/17/24
+512,SPACE MAINTAINER BILATERAL ( PEDO ),حافظ مسافة جانبين اطفال,3024,4/17/24
+513,STAINLESS CROWN ( PEDO ),طربوش معدن اطفال,1211,4/17/24
+514,PIT & Fissure Sealant /TOOTH,مانع التسوس للضرس الواحد- اطفال,756,4/17/24
+515,Prophylactic flouride VARNISH /3 VISIT,دهان الاسنان بمادة الفلوريد  اطفال للجلسة,910,4/17/24
+516,Zirconia Crown ( PEDO ),طربوش ابيض اطفال,2870,4/17/24
+518,SCALING  & GUM TREATMENT (quadrent ),تنظيف جير جزئي,756,4/17/24
+519,SCALING & GUM TRATMENT  ( full mouth ),تنظيف جير  كلي,1512,4/17/24
+520,TEETH POLISHING,تلميع الاسنان,756,4/17/24
+521,ROOT PLANNING & POCKET CURETTAGE / TOOTH,تنظيف جيب لثوي- للسن الواحد,910,4/17/24
+522,DEBOND AND POLISHING,فك التقويم وتنظيف كامل,1512,4/17/24
+523,surgical gum treatment ,علاج لثة جراحي كامل,15092,4/17/24
+525,GINGIVECTOMY PER TOOTH BY LASER,قص اللثة باستخدام تقنية الليزر / للسن الواحد,910,4/17/24
+526,GINGIVECTOMY (QUADERENT ) BY LASER,قص اللثة باستخدام تقنية الليزر / للجانب,3321.5,4/17/24
+527,OPERCULECTOMY BY LASER,ازالة اللحمية حول ضرس العقل باستخدام تقنية الليزر,1512,4/17/24
+528,ROOT CANAL DECONTAMINATION BY LASER,تنظيف القنوات العصبية باستخدام تقنية الليزر,833,4/17/24
+529,TONGUE TIE BY LASER,فك لجام اللسان باستخدام تقنية الليزر,2492,4/17/24
+530,DEPIGMENTATION BY LASER,ازالة صبغة اللثة باستخدام تقنية الليزر,3773,4/17/24
+531,DESENSITIZATION BY LASER,ازالة حساسية الاسنان باستخدام تقنية الليزر,1512,4/17/24
+532,ABSCESS DISINFECTION BY LASER,تنظيف خراج اسنان باستخدام تقنية الليزر,1134,4/17/24
+534,Examination and Diagnosis (Orthodontic GENERAL),كشف تقويم شامل (الاشعة و تحليل القالب الجبسي وعرض الحالة وخطة العلاج ),1365,4/17/24
+535,ORTHODONTICS FIXED SIMPLE FIRST PHASE ( 1ST ),تقويم معدني ثابت بسيط ( مرحلة اولي ),12075,4/17/24
+536,ORTHODONTICS FIXED SIMPLE SECOND PHASE ( 2ND ),تقويم  معدني ثابت بسيط ( مرحلة ثانية ),7546,4/17/24
+537,ORTHODONTICS FIXED SIMPLE THIRD PHASE ( 3RD ),تقويم معدني ثابت بسيط ( مرحلة ثالثة ),7546,4/17/24
+538,ORTHODONTICS FIXED ADVANCED FIRST PHASE ( 1ST ),تقويم معدني ثابت متقدم ( مرحلة اولي ),16600.5,4/17/24
+539,ORTHODONTICS FIXED ADVANCED SECOND PHASE (2ND ),تقويم معدني ثابت متقدم ( مرحلة ثانية ),9058,4/17/24
+540,ORTHODONTICS FIXED ADVANCED THIRD PHASE (3RD ),تقويم معدني ثابت متقدم ( مرحلة ثالثة ),9058,4/17/24
+541,ORTHODONTICS REMOVABLE SIMPLE APPLIANCE PHASE (1ST),تقويم متحرك بسيط ( مرحلة اولي ),4529,4/17/24
+542,ORTHODONTICS REMOVABLE  SIMPLE APPLIANCE PHASE (2ND),تقويم متحرك بسيط ( مرحلة ثانية ),3024,4/17/24
+543,ORTHODONTICS REMOVABLE ADVANCED APPLIANCE PHASE (1ST ),تقويم متحرك متقدم ( مرحلة اولي ),9058,4/17/24
+544,ORTHODONTICS REMOVABLE ADVANCED APPLIANCE PHASE (2ND),تقويم متحرك متقدم ( مرحلة ثانية ),5285,4/17/24
+545,ORTHOPEDIC APPLIANCE,جهاز توجيه النمو,12831,4/17/24
+546,DISTALIZATION APPLIANCE,جهاز ازاحة الضروس للخلف,9058,4/17/24
+547,ORTHODONTIC OBSERVATION & FOLLOW UP,متابعة تقويم شهري للاجهزة المثبتة,1211,4/17/24
+548,ORTHODONTIC OBSERVATION FOR TEETH GUIDANCE,متابعه تقويميه لبزوغ الاسنان,756,4/17/24
+549,REPAIR /ALTERATION / RECEMENTATION,اصلاح/ تعديل / اعادة تثبيت جهاز تقويم,756,4/17/24
+550,LOWER INCLINED PLANE,جهاز تقويم وقائي بسيط,1134,4/17/24
+551,REMOVABLE APPLIANCE WITH SCREW,جهاز تقويم متحرك لتوسيع الفك,6041,4/17/24
+552,TWIN BLOCK ORTHO APPLIANCE,جهاز تقويم متحرك لتكبير الفك السفلي,5285,4/17/24
+553,TWIN FORCE ORTHO APPLIANCE,جهاز تقويم ثابت لتكبير الفك السفلي,6041,4/17/24
+554,ORAL SCREEN ORTHO APPLIANCE,جهاز تقويم متحرك لتحفيز التنفس من الانف,2268,4/17/24
+555,CLASS III SPLINT ORTHODONTIC APPLIANCE,جهاز تقويم متحرك لمنع نمو الفك السفلي وتحفيز نمو الفك العلوي,6041,4/17/24
+556,T4K READY MADE,جهاز تقويم جاهز ( مصنع سابقا ),3024,4/17/24
+557,NANCE ORTHO APPLIANCE,جهاز تقويم ثابت حافظ لمسافة الفك العلوي,2268,4/17/24
+558,LINGUAL ARCH ORTHO APPLIANCE,جهاز تقويم ثابت حافظ لمسافة الفك السفلي,2268,4/17/24
+559,HALWEY  ORTHODONTIC RETAINER,مثبت تقويم عادي,3321.5,4/17/24
+560,HALWEY APPLIANCE WITH SCREW,جهاز تقويم موسع ,6041,4/17/24
+561,HALWEY APPLIANCE WITH SPRING,جهاز تقويم متحرك بالمشابك,3773,4/17/24
+562,BITE PLANE ORTHO APPLIANCE,جهاز تقويم لتحسين اطباق الفكين,3321.5,4/17/24
+563,3D ORTHODONTIC EXPANDER,موسع تقويم للاسنان ثلاثى الابعاد,6797,4/17/24
+564,SPACE REGAINING ,حافظ مكان نشيط,2268,4/17/24
+565,"Applianceces, Removable, Control of Oral BAD HABBITS",عمل جهاز متحرك لمنع العادات الضارة,3024,4/17/24
+566,Appliance removable head gear or chin CUP,جهاز تقويم خارجي راسي ( للفك الواحد ),9058,4/17/24
+567,CLEAR Orthodontic RETAINER,مثبت تقويم شفاف,3024,4/17/24
+568,FIXED ORTHODONTIC RETAINER,مثبت تقويم مثبت علي الاسنان,2268,4/17/24
+570,EMERGENCY VISIT ,كشف طوارىْ,910,4/17/24
+571,DENTAL DREESING ,غيار جرح اسنان,756,4/17/24
+572,ANY OTHER DENTAL SERVICES,خدمة اسنان اخري,458.5,4/17/24
+574,DENTAL IMPLANT ( SURGICAL PART ),غرس الاسنان ( الجزء الجراحي ),11210.5,4/17/24
+575,DENTAL IMPLANT ( PORCALIN PROSTHETIC PART ),غرس الاسنان ( تركيبات بورسلين ),3773,4/17/24
+576,DENTAL IMPLANT ( ZIRCONIUM PROSTHETIC PART ),غرس الاسنان ( تركيبات زيركون ),7546,4/17/24
+577,Veneers,عدسة خزفيه ( تجميلية فنيير ),6041,4/17/24
+578,BLEACHING IN OFFICE ( ZOOM ) ,تبييض بتقنية الزووم,10566.5,4/17/24
+579,BLEACHING IN OFFICE  ( LIGHT ),تبييض ضوئي بالعيادة,7546,4/17/24
+580,BLEACHING HOME,تبييض ضوئي بالمنزل,4529,4/17/24
+674,O2 INHALATION / 15 MIN ,استنشاق أكسجين / ربع ساعة,130,4/17/24
+675,O2 INHALATION / HALF HOUR,استنشاق أكسجين / نصف الساعة,245,4/17/24
+676,O2 INHALATION / HOUR,استنشاق أكسجين / ساعة,430,4/17/24
+677,O2 INHALATION / 12 HOURS,استنشاق أكسجين / 12 ساعة,1465,4/17/24
+678,O2 INHALATION / 24 HOURS,استنشاق أكسجين / 24 ساعة,2425,4/17/24
+679,ONE LIMB ASSESSMENT,فحص وتقييم  طرف واحد,1074.5,4/17/24
+680,TWO LIMB ASSESSMENT,فحص وتقييم  طرفان,1519,4/17/24
+681,FOUR LIMB ASSESSMENT,فحص وتقييم  أربعة أطراف,2016,4/17/24
+682,BACK MUSCLES  ASSESSMENT,فحص وتقييم عضلات الظهر,1064,4/17/24
+683,PHYSIOTHERAPY SESSION OUTPATIENT,جلسة علاج طبيعى - عيادات خارجية,626.5,4/17/24
+684,PHYSIOTHERAPY SESSION INPATIENT ,جلسة علاج طبيعي - داخلي,833,4/17/24
+685,LASER DEVISE,جهاز ليزر,304.5,4/17/24
+686,MULTI STIMULATOR,جهاز متعدد التحفيز,304.5,4/17/24
+687,ULTRAVIOLET,جهاز الأشعة فوق البنفسجية,588,4/17/24
+688,USING CPM ON ONE ORGAN FOR 30MIN,استخدام جهاز CPM لعضو واحد لمدة نصف ساعة,283.5,4/17/24
+689,USING CPM ON TWO ORGANS FOR 30MIN FOR EACH,استخدام جهاز CPM لعضوين لمدة نصف ساعة,553,4/17/24
+690,PHYSIOTHERAPY -  EXTRA DEVICE USE,علاج طبيعى - رسم استخدام جهاز إضافى,336,4/17/24
+691,ULTRAVIOLET AND LASER THERAPY,العلاج بالليزر والأشعة فوق البنفسجية,2082.5,4/17/24
+692,SKULL TRACTION,شد الرأس,987,4/17/24
+693,SKIN TRACTION,شده جلدية للعظام,717.5,4/17/24
+694,SHOCK WAVE,موجات تصادمية,745.5,4/17/24
+695,REHABILITATION SESSION,جلسة إعادة تاهيل,934.5,4/17/24
+696,CARDIOPULMONARY REHABILITATION,جلسة إعادة تأهيل القلب,1463,4/17/24
+697,REHABILITATION FOR CHEST,إعادة تأهيل للصدر,826,4/17/24
+698,PED REHABILITATION TRAINING,جلسة إعادة تأهيل للاطفال,791,4/17/24
+699,ANESTHESIA PROCEDURES FOR GIT ENDOSCOPY,تخدير لمناظير الجهاز الهضمى,1099,4/17/24
+700,ANESTHESIA PROCEDURES FOR CSF COLLECTION,تخدير حالات بذل النخاع الشوكي,1099,4/17/24
+701,ANESTHESIA PROCEDURES FOR CT,تخدير لإجراءات اللأشعة المقطعية ,679,4/17/24
+702,ANASTHESIA PROCEDURES FOR E.R.C.P (DIAGNOSTIC OR THERAPEUTIC),تخدير منظار القنوات المرارية (تشخيصي أو علاجي),1676.5,4/17/24
+703,PEDIATRIC ANESTHESIA IN ER,تخدير حالات الأطفال في الطوارئ,444.5,4/17/24
+704,INJECTION FOR NEUROLYSIS ,حقن العصب لعلاج الألم ,934.5,4/17/24
+705,EPIDURAL SET INSERTION,تركيب جهاز تخدير نصفى,1463,4/17/24
+706,INSERTION OF ENDOTRACHEAL TUBE USING FIBRO OPTIC BRONCHOSCOPE,تركيب أنبوب حنجري باستخدام جهاز الألياف الضوئية,3356.5,4/17/24
+707,ANESTHESIA FOR DIAGNOSTIC CARDIAC CATHETERIZATION,أتعاب التخدير لإجراءات القسطرة التشخيصية,1463,4/17/24
+708,ANESTHESIA FOR THERAPEUTIC CARDIAC CATHETERIZATION,أتعاب التخدير لإجراءات القسطرة العلاجية,2670.5,4/17/24
+709,ANESTHESIA FOR HIGH LEVEL THERAPEUTIC CARDIAC CATHETERIZATION,أتعاب التخدير لإجراءات القسطرة العلاجية المتقدمة,3997,4/17/24
+710,U/S GUIDED ASPIRATION OF BODY FLUID OR BIOBSY,بذل من سوائل الجسم الداخلية أو اخذ عينة بالموجات الصوتية,4837,4/17/24
+711,BONE MARROW EXAMINATION,إجراء فحص عينة النخاع العظمي,777,4/17/24
+712,BONE MARROW ASPIRATE AND EXAMINATION,بذل وفحص النخاع العظمي,1344,4/17/24
+713,BONE MARROW TREPHINE BIOBSY,إجراء سحب عينة فحص النخاع العظمي,6433,4/17/24
+714,C.S.F SAMPLING (CEREBRAL),سحب عينة من سائل النخاع الشوكى (من الدماغ),4182.5,4/17/24
+715,C.S.F SAMPLING (SPINAL),سحب عينة من سائل النخاع الشوكى (من العمود الفقري),5320,4/17/24
+716,CT. GUIDED BIOPSY (Not including biopsy price) ,اخذ عينة بالأشعة المقطعية (غير شامل سعر العينة),4455.5,4/17/24
+717,CT. GUIDED DRAINAGE,سحب سوائل من الجسم بوساطة الأشعة المقطعية,5950,4/17/24
+718,FINE NEEDLE ASPIRATION BIOPSY (F.N.A.B),عينة بزل بالأبرة,1578.5,4/17/24
+719,INSERTION OF PIGTAIL MICROVASIVE CATHETER U/S GUIDED,تركيب قسطرة موجهة بالموجات فوق الصوتية بدون تدخل جراحي,8291.5,4/17/24
+720,INTERVENTION RADIOLOGY CATH 30 MIN,فتح غرفة القسطرة 30 دقيقة,1921.5,4/17/24
+721,INTERVENTION RADIOLOGY CATH 60 MIN,فتح غرفة القسطرة 60 دقيقة,3370.5,4/17/24
+722,INTERVENTION RADIOLOGY CATH 90 MIN,فتح غرفة القسطرة 90 دقيقة,4473,4/17/24
+723,INTERVENTION RADIOLOGY CATH 120 MIN,فتح غرفة القسطرة 120 دقيقة,5603.5,4/17/24
+724,INTERVENTION RADIOLOGY SURGEON FEE FOR 25 MINS INTERVENTIONS,أتعاب الجراح لإجراءات الأشعة التداخلية لمدة 25 دقيقة,6643,4/17/24
+725,INTERVENTION RADIOLOGY SURGEON FEE FOR 30 MINS INTERVENTIONS,أتعاب الجراح لإجراءات الأشعة التداخلية لمدة 30 دقيقة,9306.5,4/17/24
+726,INTERVENTION RADIOLOGY SURGEON FEE FOR 35 MINS INTERVENTIONS,أتعاب الجراح لإجراءات الأشعة التداخلية لمدة 35 دقيقة,11959.5,4/17/24
+727,INTERVENTION RADIOLOGY SURGEON FEE FOR 40 MINS INTERVENTIONS,أتعاب الجراح لإجراءات الأشعة التداخلية لمدة 40 دقيقة,14598.5,4/17/24
+728,INTERVENTION RADIOLOGY SURGEON FEE FOR 50 MINS INTERVENTIONS,أتعاب الجراح لإجراءات الأشعة التداخلية لمدة 50 دقيقة,17251.5,4/17/24
+729,INTERVENTION RADIOLOGY SURGEON FEE FOR 90 MINS INTERVENTIONS,أتعاب الجراح لإجراءات الأشعة التداخلية لمدة 90 دقيقة,25203.5,4/17/24
+730,LIVER OR KIDNEY BIOPSY,عينة من الكبد أو الكلى,5320,4/17/24
+731,LUMBER PUNCTURE (PED),بذل سائل شوكي (أطفال),1134,4/17/24
+732,MICROWAVE ABLATION OF LIVER DEPOSITS + CATH DEVICE FEES,حرق ورم بالكبد بجهاز الميكرويف مع استخدام جهاز القسطرة (رسم استخدام الجهاز),17251.5,4/17/24
+733,MICROWAVE ABLATION OF LIVER DEPOSITS + CT/US,حرق ورم بالكبد بجهاز الميكرويف مع استخدام الأشعة المقطعية أو الموجات فوق الصوتية,26526.5,4/17/24
+734,MICROWAVE ABLATION OF LIVER DEPOSITS + ULTRASONOGRAPHY,حرق ورم بالكبد بجهاز الميكرويف مع السونار,17251.5,4/17/24
+735,TRANS-RECTAL ULTRASOUND (TRUS) AND BIOPSY,أشعة موجات صوتية عبر الشرج  مع أخذ عينة,6153,4/17/24
+736,U/S GUIDED BIOPSY BY INTERVENTION RAD. CONSULTANT,أخذ عينة بالموجات فوق الصوتية بواسطة استشاري الأشعة التداخلية,2590,4/17/24
+737,U/S GUIDED DRAINAGE BY INTERVENTION RAD. CONSULTANT,بذل سوائل بالموجات فوق الصوتية بواسطة استشاري الأشعة التداخلية,4200,4/17/24
+738,U/S GUIDED NEPHROSTOMY,فغر الكلية بواسطة الموجات فوق الصوتية,5950,4/17/24
+739,VENESECTION,بذل دم,602,4/17/24
+740,ALBUMIN IN URINE,ALBUMIN IN URINE,99,4/17/24
+741,(AMA) ANTI MITOCHONDRIAL ANTIBODIES,(AMA) ANTI MITOCHONDRIAL ANTIBODIES,470.25,4/17/24
+742,17- ALPHA HYDROXYPROGESTRONE,17- ALPHA HYDROXYPROGESTRONE,437.25,4/17/24
+743,17- KETOSTEROIDS,17- KETOSTEROIDS,563.75,4/17/24
+744,25(OH) VITAMIN D,25(OH) VITAMIN D,2403.5,4/17/24
+745,5’NUCLEOTIDASE,5’NUCLEOTIDASE,200.75,4/17/24
+746,ABG (BLOOD GASES),ABG (BLOOD GASES),525.25,4/17/24
+747,ABG + LACTATE,ABG + LACTATE,778.25,4/17/24
+748,ABO ANTIBODY TITER,ABO ANTIBODY TITER,294.25,4/17/24
+749,ACETONE IN URINE,ACETONE IN URINE,99,4/17/24
+750,ACETYL CHOLINE RECEPTOR ANTIBODIES,ACETYL CHOLINE RECEPTOR ANTIBODIES,1930.5,4/17/24
+751,ACID PHOSOHATASE (PROSTATIC),ACID PHOSOHATASE (PROSTATIC),294.25,4/17/24
+752,ACID PHOSPHATASE (TOTAL ),ACID PHOSPHATASE (TOTAL ),244.75,4/17/24
+753,ACIDIFIED GLYCEROL LYSIS,ACIDIFIED GLYCEROL LYSIS,330,4/17/24
+754,ACTH (AM),ACTH (AM),437.25,4/17/24
+755,ACTH (P.M),ACTH (P.M),437.25,4/17/24
+756,ACTIVATED PROTEIN C RESISTANCE,ACTIVATED PROTEIN C RESISTANCE,1652.75,4/17/24
+757,ADENOSINE DEAMINASE,ADENOSINE DEAMINASE,563.75,4/17/24
+758,ADENOVIRUS ANTIBODY,ADENOVIRUS ANTIBODY,954.25,4/17/24
+759,ADRENAL CORTEX ABS,ADRENAL CORTEX ABS,940.5,4/17/24
+760,ADRENALIN LEVEL,ADRENALIN LEVEL,2301.75,4/17/24
+761,AFP (ALPHA FETOPROTEIN),AFP (ALPHA FETOPROTEIN),352,4/17/24
+762,AGLT( FRESH ),AGLT( FRESH ),321.75,4/17/24
+763,AGLT( INCUBATED ),AGLT( INCUBATED ),321.75,4/17/24
+764,ALB / CREATININE RATIO(MICROALBUMINUREA RANDOM SAM,ALB / CREATININE RATIO(MICROALBUMINUREA RANDOM SAM,294.25,4/17/24
+765,ALBUMIN /GLOBULIN RATIO  ( A / G ),ALBUMIN /GLOBULIN RATIO  ( A / G ),266.75,4/17/24
+766,ALBUMIN AND IGG IN CSF,ALBUMIN AND IGG IN CSF,555.5,4/17/24
+767,ALBUMIN IN ASCITIC FLUID,ALBUMIN IN ASCITIC FLUID,148.5,4/17/24
+768,ALBUMIN IN CSF,ALBUMIN IN CSF,148.5,4/17/24
+769,ALBUMIN IN PLEURAL FLUID,ALBUMIN IN PLEURAL FLUID,148.5,4/17/24
+770,ALBUMIN IN SERUM,ALBUMIN IN SERUM,176,4/17/24
+771,ALCOHOL LEVEL,ALCOHOL LEVEL,470.25,4/17/24
+772,ALDOSTERONE IN SERUM,ALDOSTERONE IN SERUM,910.25,4/17/24
+773,ALKALINE PHOSPHATASE,ALKALINE PHOSPHATASE,192.5,4/17/24
+774,ALKALINE PHOSPHATASE (CYTOCHEMISTRY),ALKALINE PHOSPHATASE (CYTOCHEMISTRY),319,4/17/24
+775,ALPHA GLUCOSIDASE IN SEMINAL FLUID,ALPHA GLUCOSIDASE IN SEMINAL FLUID,352,4/17/24
+776,ALPHA-1 ANTITRYPSIN,ALPHA-1 ANTITRYPSIN,728.75,4/17/24
+777,ALT (SGPT),ALT (SGPT),200.75,4/17/24
+778,ALUMINIUM LEVEL,ALUMINIUM LEVEL,649,4/17/24
+779,AMA (ANTI MITOCHONDRIAL ANTIBODIES)TITER,AMA (ANTI MITOCHONDRIAL ANTIBODIES)TITER,525.25,4/17/24
+780,AMINOGRAM (PLASMA),AMINOGRAM (PLASMA),1474,4/17/24
+781,AMINOGRAM (URINE),AMINOGRAM (URINE),1474,4/17/24
+782,AMMONIA LEVEL,AMMONIA LEVEL,396,4/17/24
+783,AMOEBIASIS AB,AMOEBIASIS AB,464.75,4/17/24
+784,AMPHETAMINE IN URINE,AMPHETAMINE IN URINE,437.25,4/17/24
+785,AMYLASE IN SERUM,AMYLASE IN SERUM,275,4/17/24
+786,AMYLOID –A,AMYLOID –A,2024,4/17/24
+787,ANA (ANTI NUCLEAR ANTIBODIES),ANA (ANTI NUCLEAR ANTIBODIES),330,4/17/24
+788,ANA (ANTI NUCLEAR ANTIBODIES)  TITER,ANA (ANTI NUCLEAR ANTIBODIES)  TITER,470.25,4/17/24
+789,ANCA - (TITER),ANCA - (TITER),525.25,4/17/24
+790,ANDROSTENEDIONE,ANDROSTENEDIONE,871.75,4/17/24
+791,ANGIOTENSIN CONVERTING ENZYME (ACE),ANGIOTENSIN CONVERTING ENZYME (ACE),2301.75,4/17/24
+792,ANTI - GLOMERULAR BASMENT MEMBRANE,ANTI - GLOMERULAR BASMENT MEMBRANE,2183.5,4/17/24
+793,ANTI- B2 GLYCOPROTIEN AB ( IGA),ANTI- B2 GLYCOPROTIEN AB ( IGA),3069,4/17/24
+794,ANTI BASMENT MEMBRANE ABS,ANTI BASMENT MEMBRANE ABS,1897.5,4/17/24
+795,ANTI BILHARZIAL ANTIBODIES (IHA),ANTI BILHARZIAL ANTIBODIES (IHA),330,4/17/24
+796,ANTI CARDIOLIPIN IGG,ANTI CARDIOLIPIN IGG,822.25,4/17/24
+797,ANTI CARDIOLIPIN IGM,ANTI CARDIOLIPIN IGM,775.5,4/17/24
+798,ANTI CCP (ANTI CYCLIC CITRULLINATED PEPTIDE),ANTI CCP (ANTI CYCLIC CITRULLINATED PEPTIDE),1047.75,4/17/24
+799,ANTI CENTROMERE ABS,ANTI CENTROMERE ABS,1897.5,4/17/24
+800,ANTI CHOLINESTERASE AB,ANTI CHOLINESTERASE AB,954.25,4/17/24
+801,ANTI DOUBLE STRANADED DNA,ANTI DOUBLE STRANADED DNA,330,4/17/24
+802,ANTI DOUBLE STRANADED DNA TITER,ANTI DOUBLE STRANADED DNA TITER,616,4/17/24
+803,ANTI ENDOMYSIUM AB,ANTI ENDOMYSIUM AB,1355.75,4/17/24
+804,ANTI GLIADEN IGA,ANTI GLIADEN IGA,2670.25,4/17/24
+805,ANTI GLIADEN IGG,ANTI GLIADEN IGG,2670.25,4/17/24
+806,ANTI -GLIADIN ABS (AGA),ANTI -GLIADIN ABS (AGA),1974.5,4/17/24
+807,ANTI ICA,ANTI ICA,2035,4/17/24
+808,ANTI INTRINSIC CELL AB,ANTI INTRINSIC CELL AB,2084.5,4/17/24
+809,ANTI KERATINE AB TITER,ANTI KERATINE AB TITER,775.5,4/17/24
+810,ANTI LKM (LIVER KIDNEY MICROSOME),ANTI LKM (LIVER KIDNEY MICROSOME),514.25,4/17/24
+811,ANTI LKM (LIVER KIDNEY MICROSOME) TITER,ANTI LKM (LIVER KIDNEY MICROSOME) TITER,495,4/17/24
+812,ANTI MICROSOMAL ABS (TPO),ANTI MICROSOMAL ABS (TPO),525.25,4/17/24
+813,ANTI MULLERIN HORMONE (AMH),ANTI MULLERIN HORMONE (AMH),1652.75,4/17/24
+814,ANTI MYELOPEROXIDASE ANTIBODIES,ANTI MYELOPEROXIDASE ANTIBODIES,1650,4/17/24
+815,ANTI PARIETAL CELL ANTIBODY (APCA),ANTI PARIETAL CELL ANTIBODY (APCA),346.5,4/17/24
+816,ANTI PHOSPHOLIPID AB,ANTI PHOSPHOLIPID AB,2123,4/17/24
+817,ANTI PLATELET AB (INDIRECT),ANTI PLATELET AB (INDIRECT),616,4/17/24
+818,ANTI PLATELET ANTIBODIES (INDIRECT),ANTI PLATELET ANTIBODIES (INDIRECT),616,4/17/24
+819,ANTI PROTEINASE III AB,ANTI PROTEINASE III AB,1897.5,4/17/24
+820,ANTI RIBONUCLOPROTIEN (ANTI RNP),ANTI RIBONUCLOPROTIEN (ANTI RNP),616,4/17/24
+821,ANTI SCL 70,ANTI SCL 70,1380.5,4/17/24
+822,ANTI SMITH ANTIBODIES,ANTI SMITH ANTIBODIES,563.75,4/17/24
+823,ANTI SMOOTH MUSCLE ANTIBODY (ASMA),ANTI SMOOTH MUSCLE ANTIBODY (ASMA),407,4/17/24
+824,ANTI- SOLUBLE LIVER ANTIGEN (SLA),ANTI- SOLUBLE LIVER ANTIGEN (SLA),1787.5,4/17/24
+825,ANTI SPERM AB,ANTI SPERM AB,464.75,4/17/24
+826,"ANTI STREPTOLYSIN ""O"" (ASOT)","ANTI STREPTOLYSIN ""O"" (ASOT)",203.5,4/17/24
+827,ANTI THYROID ANTIBODIES (TPO &THYROGLOBULIN),ANTI THYROID ANTIBODIES (TPO &THYROGLOBULIN),508.75,4/17/24
+828,ANTI TISSUE TRANSGLUTAMINASE (QUALITATIVE),ANTI TISSUE TRANSGLUTAMINASE (QUALITATIVE),1897.5,4/17/24
+829,ANTI TISSUE TRANSGLUTAMINASE (QUANTITATIVE),ANTI TISSUE TRANSGLUTAMINASE (QUANTITATIVE),1897.5,4/17/24
+830,ANTI TREPONEMA PALLIDUM AB,ANTI TREPONEMA PALLIDUM AB,266.75,4/17/24
+831,ANTI TSH RECEPTOR AB,ANTI TSH RECEPTOR AB,2761,4/17/24
+832,ANTIDIURETIC HORMONE (ADH),ANTIDIURETIC HORMONE (ADH),2788.5,4/17/24
+833,ANTI-GAD,ANTI-GAD,2788.5,4/17/24
+834,ANTI-GLUTAMIC ACID DECARBOXYLASE ( GAD),ANTI-GLUTAMIC ACID DECARBOXYLASE ( GAD),3069,4/17/24
+835,ANTIPLATELET ANTIBODIES (DIRECT),ANTIPLATELET ANTIBODIES (DIRECT),616,4/17/24
+836,ANTI-SM/RNP,ANTI-SM/RNP,1056,4/17/24
+837,ANTITHROMBIN III LEVEL,ANTITHROMBIN III LEVEL,643.5,4/17/24
+838,APOLIPOPROTEIN-A1,APOLIPOPROTEIN-A1,495,4/17/24
+839,APOLIPOPROTEIN-B,APOLIPOPROTEIN-B,495,4/17/24
+840,AQUAPORIN 4,AQUAPORIN 4,2598.75,4/17/24
+841,ASCA,ASCA,1012,4/17/24
+842,ASCITIC FLUID C/S,ASCITIC FLUID C/S,495,4/17/24
+843,ASCITIC FLUID CHEMICAL EXAMINATION,ASCITIC FLUID CHEMICAL EXAMINATION,407,4/17/24
+844,ASPERGILLUS GALACTOMANNAN ANTIGEN,ASPERGILLUS GALACTOMANNAN ANTIGEN,1641.75,4/17/24
+845,AST(SGOT),AST(SGOT),200.75,4/17/24
+846,"B2 GLYCOPROTEIN ( IGG , IGM)","B2 GLYCOPROTEIN ( IGG , IGM)",1903,4/17/24
+847,B2-MICROGLOBULIN (BLOOD),B2-MICROGLOBULIN (BLOOD),464.75,4/17/24
+848,B2-MICROGLOBULIN (URINE),B2-MICROGLOBULIN (URINE),464.75,4/17/24
+849,BACTERIOLOGICAL ASSESSMENT OF WATER,BACTERIOLOGICAL ASSESSMENT OF WATER,775.5,4/17/24
+850,BARBITURATES IN URINE,BARBITURATES IN URINE,470.25,4/17/24
+851,BARTONELLA AB,BARTONELLA AB,266.75,4/17/24
+852,BENCE-JONES PROTEIN IN URINE,BENCE-JONES PROTEIN IN URINE,167.75,4/17/24
+853,BENZODIAZEPINES IN URINE,BENZODIAZEPINES IN URINE,470.25,4/17/24
+854,BETA GALACTOSIDASE IN SEMEN,BETA GALACTOSIDASE IN SEMEN,1424.5,4/17/24
+855,B-HCG QUALITATIVE IN SERUM,B-HCG QUALITATIVE IN SERUM,275,4/17/24
+856,B-HCG QUALITATIVE IN URINE,B-HCG QUALITATIVE IN URINE,143,4/17/24
+857,B-HCG QUANTITATIVE,B-HCG QUANTITATIVE,321.75,4/17/24
+858,B-HCG TUMOR MARKER,B-HCG TUMOR MARKER,305.25,4/17/24
+859,BILE SALTS IN SERUM,BILE SALTS IN SERUM,767.25,4/17/24
+860,BILIRUBIN (DIRECT),BILIRUBIN (DIRECT),110,4/17/24
+861,BILIRUBIN (TOTAL),BILIRUBIN (TOTAL),140.25,4/17/24
+862,BILIRUBIN T&D,BILIRUBIN T&D,203.5,4/17/24
+863,BIOPSY FOR  HELICOBACTER,BIOPSY FOR  HELICOBACTER,649,4/17/24
+864,BIOTIN (VITAMIN H),BIOTIN (VITAMIN H),2788.5,4/17/24
+865,BLEEDING TIME,BLEEDING TIME,140.25,4/17/24
+866,BLOOD CULTURE,BLOOD CULTURE,495,4/17/24
+867,BLOOD GROUP & RH,BLOOD GROUP & RH,220,4/17/24
+868,"BLOOD GROUP, ABO","BLOOD GROUP, ABO",140.25,4/17/24
+869,"BLOOD GROUP, RH","BLOOD GROUP, RH",220,4/17/24
+870,BLOOD KARYOTYPING,BLOOD KARYOTYPING,2788.5,4/17/24
+871,BLOOD UREA NITROGEN,BLOOD UREA NITROGEN,143,4/17/24
+872,BODY FLUID C/S,BODY FLUID C/S,495,4/17/24
+873,BODY FLUID CHEMISTRY,BODY FLUID CHEMISTRY,407,4/17/24
+874,BODY FLUID CYTOLOGY,BODY FLUID CYTOLOGY,495,4/17/24
+875,BODY FLUID EXAMINATION (PATHOLOGY),BODY FLUID EXAMINATION (PATHOLOGY),750.75,4/17/24
+876,BODY FLUID EXAMINATION (VIROLOGY),BODY FLUID EXAMINATION (VIROLOGY),2186.25,4/17/24
+877,BONE MARROW ASPIRATION,BONE MARROW ASPIRATION,1897.5,4/17/24
+878,BONE MARROW BIOPSY,BONE MARROW BIOPSY,3954.5,4/17/24
+879,BRAIN NATRIURETIC PEPTIDE (BNP),BRAIN NATRIURETIC PEPTIDE (BNP),2035,4/17/24
+880,BRCA I,BRCA I,2780.25,4/17/24
+881,BRCA II,BRCA II,2780.25,4/17/24
+882,BRUCELLA IGG,BRUCELLA IGG,244.75,4/17/24
+883,BRUCELLA IGM,BRUCELLA IGM,244.75,4/17/24
+884,BRUCELLA TEST,BRUCELLA TEST,244.75,4/17/24
+885,C- PEPTIDE (2HRS),C- PEPTIDE (2HRS),783.75,4/17/24
+886,C- PEPTIDE (FASTING),C- PEPTIDE (FASTING),827.75,4/17/24
+887,C1 EASTERASE ANTIGEN LEVEL,C1 EASTERASE ANTIGEN LEVEL,2211,4/17/24
+888,C1 ESTERASE ACTIVITY,C1 ESTERASE ACTIVITY,3399,4/17/24
+889,C1 ESTERASE INHIBITOR,C1 ESTERASE INHIBITOR,1652.75,4/17/24
+890,C1 ESTERASE INHIBITOR ACTIVITY,C1 ESTERASE INHIBITOR ACTIVITY,827.75,4/17/24
+891,C1 ESTERASE INHIBITOR LEVEL,C1 ESTERASE INHIBITOR LEVEL,2227.5,4/17/24
+892,C1 Q,C1 Q,1947,4/17/24
+893,C3 (COMPLEMENT),C3 (COMPLEMENT),294.25,4/17/24
+894,C4 (COMPLEMENT),C4 (COMPLEMENT),294.25,4/17/24
+895,CA 125,CA 125,555.5,4/17/24
+896,CA 15.3,CA 15.3,574.75,4/17/24
+897,CA 19.9,CA 19.9,574.75,4/17/24
+898,CALCITONIN,CALCITONIN,2818.75,4/17/24
+899,CALCIUM (TOTAL & IONIZED),CALCIUM (TOTAL & IONIZED),379.5,4/17/24
+900,"CALCIUM , URINE","CALCIUM , URINE",200.75,4/17/24
+901,CALCIUM / CREATININE RATIO,CALCIUM / CREATININE RATIO,211.75,4/17/24
+902,CALCIUM IONIZED(CA++),CALCIUM IONIZED(CA++),266.75,4/17/24
+903,CALCIUM TOTAL,CALCIUM TOTAL,192.5,4/17/24
+904,CALPROTECTIN IN STOOL,CALPROTECTIN IN STOOL,2458.5,4/17/24
+905,CANNABINOIDS,CANNABINOIDS,437.25,4/17/24
+906,CARBAMAZEPIN (TEGRETOL),CARBAMAZEPIN (TEGRETOL),437.25,4/17/24
+907,CARDIAC ENZYMES,CARDIAC ENZYMES,808.5,4/17/24
+908,CARDIAC TROPONIN I IN BLOOD,CARDIAC TROPONIN I IN BLOOD,330,4/17/24
+909,CATECHOAMINES URINE,CATECHOAMINES URINE,3118.5,4/17/24
+910,CATECHOLAMINES IN BLOOD,CATECHOLAMINES IN BLOOD,2491.5,4/17/24
+911,CBC (COMPLETE BLOOD PICTURE),CBC (COMPLETE BLOOD PICTURE),313.5,4/17/24
+912,CBC TOTAL,CBC TOTAL,275,4/17/24
+913,CEA (CARCINOEMBRYONIC ANTIGEN),CEA (CARCINOEMBRYONIC ANTIGEN),346.5,4/17/24
+914,CERULOPLASMIN LEVEL,CERULOPLASMIN LEVEL,305.25,4/17/24
+915,CERVICAL SMEAR EXAMINATION (EACH),CERVICAL SMEAR EXAMINATION (EACH),1207.25,4/17/24
+916,CHICKEN POX IGG,CHICKEN POX IGG,2081.75,4/17/24
+917,CHICKEN POX IGM,CHICKEN POX IGM,2081.75,4/17/24
+918,CHLAMYDIA AB,CHLAMYDIA AB,464.75,4/17/24
+919,CHLAMYDIA ANTIGEN,CHLAMYDIA ANTIGEN,396,4/17/24
+920,CHLORIDE IN CSF,CHLORIDE IN CSF,200.75,4/17/24
+921,CHLORIDE IN SERUM,CHLORIDE IN SERUM,203.5,4/17/24
+922,CHLORIDE IN URINE,CHLORIDE IN URINE,203.5,4/17/24
+923,CHOLESTROL IN SERUM,CHOLESTROL IN SERUM,244.75,4/17/24
+924,CHOLINESTERASE TEST,CHOLINESTERASE TEST,555.5,4/17/24
+925,CHROMOGRANIN A,CHROMOGRANIN A,2183.5,4/17/24
+926,CHROMOSOMAL STUDY,CHROMOSOMAL STUDY,2125.75,4/17/24
+927,CIC (CIRCULATING IMMUNE -COMPLEXES),CIC (CIRCULATING IMMUNE -COMPLEXES),363,4/17/24
+928,CITRATE IN 24 HR URINE,CITRATE IN 24 HR URINE,1641.75,4/17/24
+929,CK- TOTAL,CK- TOTAL,313.5,4/17/24
+930,CK-MB,CK-MB,330,4/17/24
+931,CK-MB MASS,CK-MB MASS,470.25,4/17/24
+932,CLOSTRIDIUM DIFFICILE AG,CLOSTRIDIUM DIFFICILE AG,4042.5,4/17/24
+933,CLOSTRIDIUM DIFFICILE TOXIN (A&B) IN STOOL,CLOSTRIDIUM DIFFICILE TOXIN (A&B) IN STOOL,2670.25,4/17/24
+934,CLOTTING TIME,CLOTTING TIME,148.5,4/17/24
+935,CMV (QUANTITATIVE) BY PCR IN BLOOD,CMV (QUANTITATIVE) BY PCR IN BLOOD,2585,4/17/24
+936,CMV IGG,CMV IGG,330,4/17/24
+937,CMV IGG IN CSF,CMV IGG IN CSF,352,4/17/24
+938,CMV IGM,CMV IGM,330,4/17/24
+939,CMV IGM IN CSF,CMV IGM IN CSF,352,4/17/24
+940,CMV IN CSF BY PCR,CMV IN CSF BY PCR,2956.25,4/17/24
+941,COAGULATION PROFILE (PT+PTT),COAGULATION PROFILE (PT+PTT),401.5,4/17/24
+942,COCAINE,COCAINE,437.25,4/17/24
+943,COLD AGGLUTININ,COLD AGGLUTININ,266.75,4/17/24
+944,COOMBS TEST DIRECT,COOMBS TEST DIRECT,200.75,4/17/24
+945,COOMBS TEST INDIRECT,COOMBS TEST INDIRECT,266.75,4/17/24
+946,COPPER,COPPER,470.25,4/17/24
+947,COPPER IN URINE,COPPER IN URINE,453.75,4/17/24
+948,CORTISOL 9 A.M IN SERUM,CORTISOL 9 A.M IN SERUM,453.75,4/17/24
+949,CORTISOL 9 P.M IN SERUM,CORTISOL 9 P.M IN SERUM,453.75,4/17/24
+950,CORTISOL IN URINE,CORTISOL IN URINE,495,4/17/24
+951,"CREATININE , URINE","CREATININE , URINE",192.5,4/17/24
+952,CREATININE CLEARANCE,CREATININE CLEARANCE,275,4/17/24
+953,CREATININE FROM DRAIN,CREATININE FROM DRAIN,143,4/17/24
+954,CREATININE FROM DRAIN,CREATININE FROM DRAIN,143,4/17/24
+955,CREATININE IN SERUM,CREATININE IN SERUM,200.75,4/17/24
+956,CREATININE -SODIUM RATIO,CREATININE -SODIUM RATIO,305.25,4/17/24
+957,CROSS MATCHING,CROSS MATCHING,352,4/17/24
+958,CRP QUANTITATIVE,CRP QUANTITATIVE,371.25,4/17/24
+959,CRYGLOBULINS IN SERUM,CRYGLOBULINS IN SERUM,305.25,4/17/24
+960,CSF C/S,CSF C/S,495,4/17/24
+961,"CSF EXAMINATION ( LDH, PROTEIN,SUGAR)","CSF EXAMINATION ( LDH, PROTEIN,SUGAR)",407,4/17/24
+962,"CULTURE, BLOOD AEROBIC","CULTURE, BLOOD AEROBIC",437.25,4/17/24
+963,"CULTURE, DRAIN","CULTURE, DRAIN",495,4/17/24
+964,CULTURE FOR FUNGI,CULTURE FOR FUNGI,574.75,4/17/24
+965,"CULTURE, BLOOD (BACTEC AEROBIC OR ANAEROBIC OR FUN","CULTURE, BLOOD (BACTEC AEROBIC OR ANAEROBIC OR FUN",693,4/17/24
+966,"CULTURE, BLOOD (BACTEC, FUNGAL)","CULTURE, BLOOD (BACTEC, FUNGAL)",783.75,4/17/24
+967,CULTURES & SENSITIVITY FOR ANAEROBES,CULTURES & SENSITIVITY FOR ANAEROBES,574.75,4/17/24
+968,CVP CULTURE,CVP CULTURE,294.25,4/17/24
+969,CYCLOSPORIN,CYCLOSPORIN,555.5,4/17/24
+970,CYCLOSPORIN IN BLOOD,CYCLOSPORIN IN BLOOD,574.75,4/17/24
+971,CYSTINE IN 24 HR URINE,CYSTINE IN 24 HR URINE,2717,4/17/24
+972,CYTOLOGY (PERICARDIAL FLUID),CYTOLOGY (PERICARDIAL FLUID),294.25,4/17/24
+973,CYTOLOGY (PERITONEAL FLUID),CYTOLOGY (PERITONEAL FLUID),294.25,4/17/24
+974,CYTOLOGY PATHOLOGICAL EXAMINATION (ASCITIC FLUID),CYTOLOGY PATHOLOGICAL EXAMINATION (ASCITIC FLUID),750.75,4/17/24
+975,CYTOLOGY PATHOLOGICAL EXAMINATION (CSF),CYTOLOGY PATHOLOGICAL EXAMINATION (CSF),750.75,4/17/24
+976,CYTOLOGY PATHOLOGICAL EXAMINATION (OTHERS),CYTOLOGY PATHOLOGICAL EXAMINATION (OTHERS),750.75,4/17/24
+977,CYTOLOGY PATHOLOGICAL EXAMINATION (URINE),CYTOLOGY PATHOLOGICAL EXAMINATION (URINE),750.75,4/17/24
+978,CYTOLOGY PATHOLOGICAL EXAMINATION(PLEURAL FLUID),CYTOLOGY PATHOLOGICAL EXAMINATION(PLEURAL FLUID),750.75,4/17/24
+979,D-DIMER,D-DIMER,1097.25,4/17/24
+980,DELTA 4,DELTA 4,1463,4/17/24
+981,DEOXY CORTISOL,DEOXY CORTISOL,407,4/17/24
+982,DEPAKNE (VALPORIC ACID),DEPAKNE (VALPORIC ACID),470.25,4/17/24
+983,DHEA –S,DHEA –S,363,4/17/24
+984,DIFFERENTIAL LEUCOCYTIC COUNT,DIFFERENTIAL LEUCOCYTIC COUNT,220,4/17/24
+985,DIGOXIN (LANOXIN),DIGOXIN (LANOXIN),464.75,4/17/24
+986,DIHYDROTESTOSTERONE (DHT),DIHYDROTESTOSTERONE (DHT),3069,4/17/24
+987,DISPUTED PATERNATY (BOTH PARTNERS),DISPUTED PATERNATY (BOTH PARTNERS),7507.5,4/17/24
+988,DOPAMINE IN URINE,DOPAMINE IN URINE,2169.75,4/17/24
+989,DOUBLE TEST,DOUBLE TEST,2340.25,4/17/24
+990,DRUG OF ABUSE,DRUG OF ABUSE,1548.25,4/17/24
+991,"E3 RESTADIOL, FREE","E3 RESTADIOL, FREE",1047.75,4/17/24
+992,EBNA- IGG,EBNA- IGG,495,4/17/24
+993,EBNA- IGM,EBNA- IGM,321.75,4/17/24
+994,EBV - VCA IGG,EBV - VCA IGG,407,4/17/24
+995,EBV - VCA IGG IN CSF,EBV - VCA IGG IN CSF,464.75,4/17/24
+996,EBV - VCA IGM,EBV - VCA IGM,407,4/17/24
+997,EBV - VCA IGM IN CSF,EBV - VCA IGM IN CSF,464.75,4/17/24
+998,EBV IN CSF BY PCR,EBV IN CSF BY PCR,3676.75,4/17/24
+999,EBV PCR,EBV PCR,2186.25,4/17/24
+1000,EBV-EA IGG,EBV-EA IGG,1652.75,4/17/24
+1001,EBV-EA IGM,EBV-EA IGM,1652.75,4/17/24
+1002,EMA TEST,EMA TEST,618.75,4/17/24
+1003,ENA (EXTRACTABLE NUCLEAR AG),ENA (EXTRACTABLE NUCLEAR AG),1652.75,4/17/24
+1004,ENATAMOEBIASIS ABS,ENATAMOEBIASIS ABS,627,4/17/24
+1005,ENDOSCOPIC BIOPSY (COLON),ENDOSCOPIC BIOPSY (COLON),1234.75,4/17/24
+1006,ENDOSCOPIC BIOPSY (GASTRIC),ENDOSCOPIC BIOPSY (GASTRIC),1355.75,4/17/24
+1007,EOSINOPHIL IN URINE,EOSINOPHIL IN URINE,2340.25,4/17/24
+1008,EPANUTIN (PHENYTOIN) PEAK,EPANUTIN (PHENYTOIN) PEAK,563.75,4/17/24
+1009,EPANUTIN (PHENYTOIN) TROUGH,EPANUTIN (PHENYTOIN) TROUGH,574.75,4/17/24
+1010,ESR,ESR,143,4/17/24
+1011,ESTIMATED GLOMERULAR FILTERATION RATE (EGFR),ESTIMATED GLOMERULAR FILTERATION RATE (EGFR),266.75,4/17/24
+1012,ESTRADIOL (E2),ESTRADIOL (E2),283.25,4/17/24
+1013,ESTRASE NON-SPECIFIC (CYTOCHEMISTRY),ESTRASE NON-SPECIFIC (CYTOCHEMISTRY),321.75,4/17/24
+1014,ESTRASE SPECIFIC (CYTOCHEMISTRY),ESTRASE SPECIFIC (CYTOCHEMISTRY),321.75,4/17/24
+1015,ESTROGEN RECEPTORS,ESTROGEN RECEPTORS,1270.5,4/17/24
+1016,FACTOR II,FACTOR II,2004.75,4/17/24
+1017,FACTOR IX,FACTOR IX,693,4/17/24
+1018,FACTOR V,FACTOR V,1487.75,4/17/24
+1019,FACTOR V,FACTOR V,1487.75,4/17/24
+1020,FACTOR V LEIDEN,FACTOR V LEIDEN,5596.25,4/17/24
+1021,FACTOR VII,FACTOR VII,2007.5,4/17/24
+1022,FACTOR VIII,FACTOR VIII,649,4/17/24
+1023,FACTOR VIII INHIBITOR,FACTOR VIII INHIBITOR,822.25,4/17/24
+1024,FACTOR X,FACTOR X,1575.75,4/17/24
+1025,FACTOR XIII,FACTOR XIII,775.5,4/17/24
+1026,FASCIOLA ABS,FASCIOLA ABS,690.25,4/17/24
+1027,FASTING BLOOD GLUCOSE,FASTING BLOOD GLUCOSE,140.25,4/17/24
+1028,FBS & 2 HR.PP,FBS & 2 HR.PP,200.75,4/17/24
+1029,FERRITIN IN SERUM,FERRITIN IN SERUM,448.25,4/17/24
+1030,FIBRINOGEN DEGRADATION PRODUCTS (FDPS),FIBRINOGEN DEGRADATION PRODUCTS (FDPS),525.25,4/17/24
+1031,FIBRINOGEN LEVEL,FIBRINOGEN LEVEL,305.25,4/17/24
+1032,FIBROTEST - ACTITEST,FIBROTEST - ACTITEST,3176.25,4/17/24
+1033,FILARIAL ANTIBODY,FILARIAL ANTIBODY,1353,4/17/24
+1034,FILARIAL FILM,FILARIAL FILM,266.75,4/17/24
+1035,FILM FOR ACID FAST BACILLI (AFB) (ONE SAMPLE),FILM FOR ACID FAST BACILLI (AFB) (ONE SAMPLE),244.75,4/17/24
+1036,FINE NEEDLE ASPIRATE CYTOLOGICAL EXAMINATION,FINE NEEDLE ASPIRATE CYTOLOGICAL EXAMINATION,2125.75,4/17/24
+1037,FLT3 -ITD FISH,FLT3 -ITD FISH,3509,4/17/24
+1038,FLT3 -ITD PCR,FLT3 -ITD PCR,3509,4/17/24
+1039,FMF GENE,FMF GENE,4666.75,4/17/24
+1040,FOLIC ACID,FOLIC ACID,1424.5,4/17/24
+1041,FOLLICLE STIMULATING HORMONES (FSH),FOLLICLE STIMULATING HORMONES (FSH),266.75,4/17/24
+1042,FRACTIONAL EXCRETION OF SODIUM,FRACTIONAL EXCRETION OF SODIUM,574.75,4/17/24
+1043,FREE T3,FREE T3,327.25,4/17/24
+1044,FREE T4,FREE T4,327.25,4/17/24
+1045,FREE TESTOSTERONE,FREE TESTOSTERONE,352,4/17/24
+1046,FRUCTOSAMINE IN SERUM,FRUCTOSAMINE IN SERUM,396,4/17/24
+1047,FRUCTOSE IN SEMEN,FRUCTOSE IN SEMEN,396,4/17/24
+1048,FULL TOXICOLOGY SCREEN IN URINE,FULL TOXICOLOGY SCREEN IN URINE,1531.75,4/17/24
+1049,FUNGI FILM,FUNGI FILM,176,4/17/24
+1050,G6PD ACTIVITY ( QUALITATVE ),G6PD ACTIVITY ( QUALITATVE ),352,4/17/24
+1051,G6PD ACTIVITY ( QUANTITATIVE ),G6PD ACTIVITY ( QUANTITATIVE ),508.75,4/17/24
+1052,GALACTOMANNAN,GALACTOMANNAN,827.75,4/17/24
+1053,GASTRIN,GASTRIN,1839.75,4/17/24
+1054,GGT (GAMMA GLUTAMYL TRANSFERASE),GGT (GAMMA GLUTAMYL TRANSFERASE),200.75,4/17/24
+1055,GLOBULIN IN SERUM,GLOBULIN IN SERUM,244.75,4/17/24
+1056,GLUCOSE IN ASCITIC FLUID,GLUCOSE IN ASCITIC FLUID,110,4/17/24
+1057,GLUCOSE IN CSF,GLUCOSE IN CSF,110,4/17/24
+1058,GLUCOSE IN PLEURAL FLUID,GLUCOSE IN PLEURAL FLUID,110,4/17/24
+1059,GLUCOSE IN URINE,GLUCOSE IN URINE,99,4/17/24
+1060,GLUCOSE POST PRANDIAL,GLUCOSE POST PRANDIAL,140.25,4/17/24
+1061,GLUCOSE TOLERANCE CURVE,GLUCOSE TOLERANCE CURVE,495,4/17/24
+1062,GLYCATED S.PROTEINS,GLYCATED S.PROTEINS,294.25,4/17/24
+1063,GLYCINE IN CSF,GLYCINE IN CSF,99,4/17/24
+1064,GROWTH HORMONE,GROWTH HORMONE,464.75,4/17/24
+1065,H.PYLORI LINE,H.PYLORI LINE,1474,4/17/24
+1066,H1N1 AB SCREENING TEST,H1N1 AB SCREENING TEST,827.75,4/17/24
+1067,H1N1 PCR,H1N1 PCR,2186.25,4/17/24
+1068,HAEMOGLOBIN ELECTROPHORESIS,HAEMOGLOBIN ELECTROPHORESIS,407,4/17/24
+1069,HAMS TEST,HAMS TEST,643.5,4/17/24
+1070,HAPTOGLOBIN,HAPTOGLOBIN,393.25,4/17/24
+1071,HAV AB IGG,HAV AB IGG,319,4/17/24
+1072,HAV ANTIBODY – IGG,HAV ANTIBODY – IGG,319,4/17/24
+1073,HAV ANTIBODY – IGM,HAV ANTIBODY – IGM,319,4/17/24
+1074,HBA1C (GLYCATED HAEMOGLOBIN),HBA1C (GLYCATED HAEMOGLOBIN),327.25,4/17/24
+1075,HBC ANTIBODY (TOTAL),HBC ANTIBODY (TOTAL),305.25,4/17/24
+1076,HBC ANTIBODYB IGM,HBC ANTIBODYB IGM,319,4/17/24
+1077,HBE AB,HBE AB,321.75,4/17/24
+1078,HBE AB,HBE AB,321.75,4/17/24
+1079,HBE ANTIGEN,HBE ANTIGEN,319,4/17/24
+1080,HBS ANTIBODY (HBS AB),HBS ANTIBODY (HBS AB),305.25,4/17/24
+1081,HBS ANTIGEN (HBS AG),HBS ANTIGEN (HBS AG),327.25,4/17/24
+1082,HBV DNA BY REAL TIME PCR (QUALITATIVE),HBV DNA BY REAL TIME PCR (QUALITATIVE),2233,4/17/24
+1083,HBV DNA BY REAL TIME PCR (QUANTITATIVE),HBV DNA BY REAL TIME PCR (QUANTITATIVE),2387,4/17/24
+1084,HCV AB IGG,HCV AB IGG,495,4/17/24
+1085,HCV AB IGM,HCV AB IGM,643.5,4/17/24
+1086,HCV ANTIBODY (HCV AB),HCV ANTIBODY (HCV AB),530.75,4/17/24
+1087,HCV GENOTYPE AND SUBGENOTYPE BY PCR,HCV GENOTYPE AND SUBGENOTYPE BY PCR,3561.25,4/17/24
+1088,HCV RNA BY REAL TIME PCR(  QUANTITATIVE),HCV RNA BY REAL TIME PCR(  QUANTITATIVE),2318.25,4/17/24
+1089,HCV RNA BY REAL TIME PCR( QUALITATIVE),HCV RNA BY REAL TIME PCR( QUALITATIVE),1636.25,4/17/24
+1090,HDL CHOLESTROL,HDL CHOLESTROL,250.25,4/17/24
+1091,HDV AB (DELTA VIRUS),HDV AB (DELTA VIRUS),1463,4/17/24
+1092,HELICOBACTER BIOPSY,HELICOBACTER BIOPSY,649,4/17/24
+1093,HELICOBACTER PYLORI ABS,HELICOBACTER PYLORI ABS,464.75,4/17/24
+1094,HELICOBACTER PYLORI ANITGEN IN STOOL,HELICOBACTER PYLORI ANITGEN IN STOOL,495,4/17/24
+1095,HELICOBATER PYLORI AB (QUALITATIVE SEROLOGY),HELICOBATER PYLORI AB (QUALITATIVE SEROLOGY),294.25,4/17/24
+1096,HELICOBATER PYLORI AB (QUANTITATIVE SEROLOGY),HELICOBATER PYLORI AB (QUANTITATIVE SEROLOGY),555.5,4/17/24
+1097,HEMOGLOBIN & HAEMATOCRIT,HEMOGLOBIN & HAEMATOCRIT,143,4/17/24
+1098,HEMOGLOBIN ELECTROPHORESIS,HEMOGLOBIN ELECTROPHORESIS,407,4/17/24
+1099,HEMOGLOBIN LEVEL,HEMOGLOBIN LEVEL,143,4/17/24
+1100,HEPCIDINE LEVEL,HEPCIDINE LEVEL,321.75,4/17/24
+1101,HERPES ZOSTER IGG,HERPES ZOSTER IGG,2301.75,4/17/24
+1102,HERPES ZOSTER IGM,HERPES ZOSTER IGM,2301.75,4/17/24
+1103,HEV IGG (CB),HEV IGG (CB),954.25,4/17/24
+1104,HEV IGM (CB),HEV IGM (CB),1523.5,4/17/24
+1105,HFE GENE BY PCR,HFE GENE BY PCR,464.75,4/17/24
+1106,HIGH SENSITIVE CRP,HIGH SENSITIVE CRP,676.5,4/17/24
+1107,HIV AB,HIV AB,363,4/17/24
+1108,HIV BY WESTERN BLOT,HIV BY WESTERN BLOT,2183.5,4/17/24
+1109,HIV-1(QUANTITATIVE) BY PCR,HIV-1(QUANTITATIVE) BY PCR,7840.25,4/17/24
+1110,HLA - B27,HLA - B27,1042.25,4/17/24
+1111,HLA - B5,HLA - B5,3660.25,4/17/24
+1112,HLA B -12,HLA B -12,940.5,4/17/24
+1113,HLA CLASS I A,HLA CLASS I A,2631.75,4/17/24
+1114,HLA CLASS I B,HLA CLASS I B,2818.75,4/17/24
+1115,HLA CLASS I BY PCR,HLA CLASS I BY PCR,3509,4/17/24
+1116,HLA CLASS II BY PCR,HLA CLASS II BY PCR,2711.5,4/17/24
+1117,HOMA IR (HOMA TEST),HOMA IR (HOMA TEST),495,4/17/24
+1118,HOMOCYSTINE IN BLOOD,HOMOCYSTINE IN BLOOD,682,4/17/24
+1119,HPLC,HPLC,827.75,4/17/24
+1120,HSV -2 IGG,HSV -2 IGG,346.5,4/17/24
+1121,HSV -2 IGG IN CSF,HSV -2 IGG IN CSF,352,4/17/24
+1122,HSV -2 IGM,HSV -2 IGM,346.5,4/17/24
+1123,HSV -2 IGM IN CSF,HSV -2 IGM IN CSF,352,4/17/24
+1124,HSV IN CSF BY PCR,HSV IN CSF BY PCR,5637.5,4/17/24
+1125,HSV-1 IGG,HSV-1 IGG,346.5,4/17/24
+1126,HSV-1 IGG IN CSF,HSV-1 IGG IN CSF,352,4/17/24
+1127,HSV-1 IGM,HSV-1 IGM,346.5,4/17/24
+1128,HSV-1 IGM IN CSF,HSV-1 IGM IN CSF,352,4/17/24
+1129,HUMAN PAPILLOMA VIRUS (HPV) IGG,HUMAN PAPILLOMA VIRUS (HPV) IGG,3456.75,4/17/24
+1130,HUMAN PAPILLOMA VIRUS DNA,HUMAN PAPILLOMA VIRUS DNA,3412.75,4/17/24
+1131,HYDATID AB  ( ANTI ECHINOCOCCUS AB),HYDATID AB  ( ANTI ECHINOCOCCUS AB),464.75,4/17/24
+1132,HYDROXYPROLINE IN URINE,HYDROXYPROLINE IN URINE,643.5,4/17/24
+1133,IGA - IMMUNOGLOBULINS,IGA - IMMUNOGLOBULINS,393.25,4/17/24
+1134,IGE (RAST) FOOD ALLERGEN,IGE (RAST) FOOD ALLERGEN,1133,4/17/24
+1135,IGE (RAST) INHALENT ALLERGEN,IGE (RAST) INHALENT ALLERGEN,1133,4/17/24
+1136,IGE TOTAL,IGE TOTAL,346.5,4/17/24
+1137,IGG – LEVEL,IGG – LEVEL,464.75,4/17/24
+1138,IGG INDEX – CSF,IGG INDEX – CSF,1017.5,4/17/24
+1139,IGG SUBCLASS 4,IGG SUBCLASS 4,2109.25,4/17/24
+1140,IGM - IMMUNOGLOBULINS,IGM - IMMUNOGLOBULINS,464.75,4/17/24
+1141,IL 28 GENOTYPE,IL 28 GENOTYPE,2186.25,4/17/24
+1142,IMMUNFIXATION ELECTROPHORESIS IN SERUM,IMMUNFIXATION ELECTROPHORESIS IN SERUM,2183.5,4/17/24
+1143,IMMUNOELECTROPHORESIS,IMMUNOELECTROPHORESIS,2169.75,4/17/24
+1144,"IMMUNOELECTROPHORESIS, URINE","IMMUNOELECTROPHORESIS, URINE",3030.5,4/17/24
+1145,IMMUNOFIXATION,IMMUNOFIXATION,2183.5,4/17/24
+1146,IMMUNOHISTOCHEMISTRY ( EACH,IMMUNOHISTOCHEMISTRY ( EACH,1012,4/17/24
+1147,IMMUNOHISTOCHEMISTRY CA125,IMMUNOHISTOCHEMISTRY CA125,2301.75,4/17/24
+1148,IMMUNOHISTOCHEMISTRY CD38,IMMUNOHISTOCHEMISTRY CD38,1903,4/17/24
+1149,IMMUNOHISTOCHEMISTRY INHIBIN,IMMUNOHISTOCHEMISTRY INHIBIN,2301.75,4/17/24
+1150,IMMUNOHISTOCHEMSTRY TUMOUR MARKERS PANNEL,IMMUNOHISTOCHEMSTRY TUMOUR MARKERS PANNEL,8461.75,4/17/24
+1151,IMMUNOPHENOTYPING :CD,IMMUNOPHENOTYPING :CD,649,4/17/24
+1152,IMMUNOPHENOTYPING :CD2,IMMUNOPHENOTYPING :CD2,525.25,4/17/24
+1153,IMMUNOPHENOTYPING :CD3,IMMUNOPHENOTYPING :CD3,525.25,4/17/24
+1154,IMMUNOPHENOTYPING :CD4,IMMUNOPHENOTYPING :CD4,525.25,4/17/24
+1155,IMMUNOPHENOTYPING :CD5,IMMUNOPHENOTYPING :CD5,525.25,4/17/24
+1156,IMMUNOPHENOTYPING :CD55,IMMUNOPHENOTYPING :CD55,734.25,4/17/24
+1157,IMMUNOPHENOTYPING :CD59,IMMUNOPHENOTYPING :CD59,734.25,4/17/24
+1158,IMMUNOPHENOTYPING :CD8,IMMUNOPHENOTYPING :CD8,525.25,4/17/24
+1159,INFECTOIUS MONONUCLEOSIS TEST (PAUL-BUNNEL),INFECTOIUS MONONUCLEOSIS TEST (PAUL-BUNNEL),321.75,4/17/24
+1160,INSULIN (2 HOURS),INSULIN (2 HOURS),319,4/17/24
+1161,INSULIN (FASTING),INSULIN (FASTING),330,4/17/24
+1162,INSULIN AUTO AB,INSULIN AUTO AB,2865.5,4/17/24
+1163,INSULIN -LIKE GROWTH FACTOR (IGF),INSULIN -LIKE GROWTH FACTOR (IGF),2458.5,4/17/24
+1164,INTRINSIC FACTOR ANTIBODY,INTRINSIC FACTOR ANTIBODY,1804,4/17/24
+1165,IRON IN SERUM,IRON IN SERUM,294.25,4/17/24
+1166,IRON STAIN (BM),IRON STAIN (BM),464.75,4/17/24
+1167,ISLET CELL CYTOPLASMIC AUTO AB,ISLET CELL CYTOPLASMIC AUTO AB,957,4/17/24
+1168,JAK2 MUTATION,JAK2 MUTATION,4086.5,4/17/24
+1169,JO-1 (JO),JO-1 (JO),555.5,4/17/24
+1170,KAPPA & LAMBDA LIGHT CHAIN,KAPPA & LAMBDA LIGHT CHAIN,4906,4/17/24
+1171,KAPPA & LAMBDA LIGHT CHAIN QUANTITATIVE (URINE),KAPPA & LAMBDA LIGHT CHAIN QUANTITATIVE (URINE),2645.5,4/17/24
+1172,KAPPA QUANTITATIVE ( SERUM),KAPPA QUANTITATIVE ( SERUM),2645.5,4/17/24
+1173,KARYOTYPING OF AMNIOTIC FLUID,KARYOTYPING OF AMNIOTIC FLUID,4666.75,4/17/24
+1174,KARYOTYPING( CONVENTIONAL BLOOD SAMPLE),KARYOTYPING( CONVENTIONAL BLOOD SAMPLE),2422.75,4/17/24
+1175,KETONE BODIES,KETONE BODIES,396,4/17/24
+1176,KETOSTEROIDS IN URINE,KETOSTEROIDS IN URINE,407,4/17/24
+1177,KIDNEY FUNCTION,KIDNEY FUNCTION,294.25,4/17/24
+1178,LA (SS-B),LA (SS-B),555.5,4/17/24
+1179,LACTATE DEHYDROGENASE (L.D.H),LACTATE DEHYDROGENASE (L.D.H),302.5,4/17/24
+1180,LACTATE IN BLOOD,LACTATE IN BLOOD,627,4/17/24
+1181,LARGE BIOPSY,LARGE BIOPSY,2125.75,4/17/24
+1182,LDL CHOLESTROL,LDL CHOLESTROL,211.75,4/17/24
+1183,LE CELLS,LE CELLS,244.75,4/17/24
+1184,LEAD,LEAD,1355.75,4/17/24
+1185,LEGIONELLA AG IN URINE,LEGIONELLA AG IN URINE,2285.25,4/17/24
+1186,LEUCOCYTE ALKALINE PHOSPHATASE ( LAP SCORE),LEUCOCYTE ALKALINE PHOSPHATASE ( LAP SCORE),896.5,4/17/24
+1187,LEUTINISING HORMONE (L.H),LEUTINISING HORMONE (L.H),266.75,4/17/24
+1188,LIPASE IN BLOOD,LIPASE IN BLOOD,319,4/17/24
+1189,LIPID PROFILE,LIPID PROFILE,591.25,4/17/24
+1190,LIPOPROTEIN,LIPOPROTEIN,396,4/17/24
+1191,LIPOPROTEIN (A),LIPOPROTEIN (A),1446.5,4/17/24
+1192,LIPOPROTIEN ELECTROPHORESIS,LIPOPROTIEN ELECTROPHORESIS,379.5,4/17/24
+1193,LITHIUM,LITHIUM,305.25,4/17/24
+1194,LIVER FUNCTION,LIVER FUNCTION,555.5,4/17/24
+1195,LUPUS ANTICOAGULANT,LUPUS ANTICOAGULANT,783.75,4/17/24
+1196,MAGNESIUM IN SERUM,MAGNESIUM IN SERUM,253,4/17/24
+1197,MAGNESIUM IN URINE,MAGNESIUM IN URINE,220,4/17/24
+1198,MALARIA AB,MALARIA AB,2301.75,4/17/24
+1199,MALARIA AB,MALARIA AB,2301.75,4/17/24
+1200,MEASLES IGG,MEASLES IGG,1754.5,4/17/24
+1201,MEASLES IGM,MEASLES IGM,1754.5,4/17/24
+1202,MEDIUM SIZED BOIPSY,MEDIUM SIZED BOIPSY,1548.25,4/17/24
+1203,MET HEMOGLOBIN,MET HEMOGLOBIN,1012,4/17/24
+1204,METABOLIC SCREEN TEST,METABOLIC SCREEN TEST,2114.75,4/17/24
+1205,METANEPHRINE & NORMETANEPHRINE IN BLOOD,METANEPHRINE & NORMETANEPHRINE IN BLOOD,2645.5,4/17/24
+1206,METANEPHRINE IN 24 HR. URINE,METANEPHRINE IN 24 HR. URINE,2645.5,4/17/24
+1207,METHOTREXATE,METHOTREXATE,1463,4/17/24
+1208,MICROALBUMINURIA,MICROALBUMINURIA,396,4/17/24
+1209,MIXED LYMPHOCYTE CULTURE (MLC),MIXED LYMPHOCYTE CULTURE (MLC),1446.5,4/17/24
+1210,MONOSPOT TEST,MONOSPOT TEST,220,4/17/24
+1211,MYOGLOBIN IN BLOOD,MYOGLOBIN IN BLOOD,2015.75,4/17/24
+1212,"MYOGLOBULIN , URINE","MYOGLOBULIN , URINE",2015.75,4/17/24
+1213,NATURAL KILLER CELLS (NK CELLS),NATURAL KILLER CELLS (NK CELLS),1652.75,4/17/24
+1214,NBT,NBT,437.25,4/17/24
+1215,NEURON SPECIFIC ENOLAS (NSE),NEURON SPECIFIC ENOLAS (NSE),3525.5,4/17/24
+1216,NEUTROPHIL FUNCTION CHEMOTAXSIS (NBT),NEUTROPHIL FUNCTION CHEMOTAXSIS (NBT),437.25,4/17/24
+1217,NICOTINE,NICOTINE,2004.75,4/17/24
+1218,NORADRENALINE LEVEL,NORADRENALINE LEVEL,2301.75,4/17/24
+1219,NOSE SWAB  C/S,NOSE SWAB  C/S,330,4/17/24
+1220,OCCULT BLOOD IN STOOL,OCCULT BLOOD IN STOOL,192.5,4/17/24
+1221,OLIGCLONAL BAND,OLIGCLONAL BAND,2645.5,4/17/24
+1222,OLIGOCLONAL BAND IN CSF,OLIGOCLONAL BAND IN CSF,2865.5,4/17/24
+1223,OPIATES (HEROIN) IN URINE,OPIATES (HEROIN) IN URINE,470.25,4/17/24
+1224,ORGANIC ACID IN URINE,ORGANIC ACID IN URINE,2114.75,4/17/24
+1225,OSMOLALITY IN SERUM,OSMOLALITY IN SERUM,321.75,4/17/24
+1226,OSMOLALITY IN URINE,OSMOLALITY IN URINE,305.25,4/17/24
+1227,OSMOTIC FRAGILITY,OSMOTIC FRAGILITY,294.25,4/17/24
+1228,OSTEOCALCIN,OSTEOCALCIN,1474,4/17/24
+1229,"OXALATE , URINE","OXALATE , URINE",800.25,4/17/24
+1230,OXALATE IN  24 HR URINE,OXALATE IN  24 HR URINE,1641.75,4/17/24
+1231,PARATHYROID HORMONE (PTH),PARATHYROID HORMONE (PTH),396,4/17/24
+1232,PARVOVIRUS B19 IGG,PARVOVIRUS B19 IGG,3184.5,4/17/24
+1233,PARVOVIRUS B19 IGM,PARVOVIRUS B19 IGM,3184.5,4/17/24
+1234,PATHOLOGY FROZEN SECTION,PATHOLOGY FROZEN SECTION,8461.75,4/17/24
+1235,PAUL BUNNEL TEST (HETEROPHILE ANTOBODIES),PAUL BUNNEL TEST (HETEROPHILE ANTOBODIES),321.75,4/17/24
+1236,PERIPHERAL BLOOD FILM FOR  HAEMOPARASITES,PERIPHERAL BLOOD FILM FOR  HAEMOPARASITES,220,4/17/24
+1237,PERIPHERAL BLOOD FILM FOR FRAGMENTED RBCS ( RED CE,PERIPHERAL BLOOD FILM FOR FRAGMENTED RBCS ( RED CE,220,4/17/24
+1238,PERIPHERAL BLOOD FILM FOR MALARIA,PERIPHERAL BLOOD FILM FOR MALARIA,220,4/17/24
+1239,PERIPHERAL BLOOD FILM FOR PLATELETS,PERIPHERAL BLOOD FILM FOR PLATELETS,220,4/17/24
+1240,PEROXIDASE CYTOCHEMISTRY,PEROXIDASE CYTOCHEMISTRY,393.25,4/17/24
+1241,PH,PH,101.75,4/17/24
+1242,PHENOBARBITAL,PHENOBARBITAL,574.75,4/17/24
+1243,PHENOBARBITAL,PHENOBARBITAL,574.75,4/17/24
+1244,PHILADELPHIA CHROMOSOME (FISH),PHILADELPHIA CHROMOSOME (FISH),3069,4/17/24
+1245,PHILADELPHIA CHROMOSOME BY PCR (BONE MARROW),PHILADELPHIA CHROMOSOME BY PCR (BONE MARROW),2670.25,4/17/24
+1246,PHILADELPHIA CHROMOSOME BY PCR (PERIPH. BLOOD),PHILADELPHIA CHROMOSOME BY PCR (PERIPH. BLOOD),2670.25,4/17/24
+1247,"PHOSPHORUS , URINE","PHOSPHORUS , URINE",192.5,4/17/24
+1248,PHOSPHORUS IN SERUM,PHOSPHORUS IN SERUM,192.5,4/17/24
+1249,PLASMA VISCOSITY,PLASMA VISCOSITY,330,4/17/24
+1250,PLASMINOGEN LEVEL,PLASMINOGEN LEVEL,1622.5,4/17/24
+1251,PLATELET AGGREGATION TO ADP,PLATELET AGGREGATION TO ADP,1012,4/17/24
+1252,PLATELET AGGREGATION TO COLLAGEN,PLATELET AGGREGATION TO COLLAGEN,1322.75,4/17/24
+1253,PLATELET AGGREGATION TO RISTOCETIN,PLATELET AGGREGATION TO RISTOCETIN,1012,4/17/24
+1254,PLATELET COUNT,PLATELET COUNT,192.5,4/17/24
+1255,PLATELET SEPARATION ,PLATELET SEPARATION ,808.5,4/17/24
+1256,PLEURAL FLUID C/S,PLEURAL FLUID C/S,495,4/17/24
+1257,"POTASSIUM ,URINE","POTASSIUM ,URINE",200.75,4/17/24
+1258,POTASSIUM IN SERUM,POTASSIUM IN SERUM,217.25,4/17/24
+1259,PREOPERATIVE PACKAGE,PREOPERATIVE PACKAGE,618.75,4/17/24
+1260,PROCALCITONIN,PROCALCITONIN,1608.75,4/17/24
+1261,PROCOLLAGEN III,PROCOLLAGEN III,2301.75,4/17/24
+1262,PROGESTRON RECEPTORS,PROGESTRON RECEPTORS,1372.25,4/17/24
+1263,PROGESTRONE,PROGESTRONE,266.75,4/17/24
+1264,PRO-INSULIN,PRO-INSULIN,3663,4/17/24
+1265,PROLACTIN,PROLACTIN,244.75,4/17/24
+1266,PROPHYRINS SCREEN,PROPHYRINS SCREEN,393.25,4/17/24
+1267,PROSTATIC DISCHARGE EXAMINATION,PROSTATIC DISCHARGE EXAMINATION,396,4/17/24
+1268,PROTEIN C ACTIVITY,PROTEIN C ACTIVITY,808.5,4/17/24
+1269,PROTEIN ELECTROPHORESIS,PROTEIN ELECTROPHORESIS,407,4/17/24
+1270,PROTEIN ELECTROPHORESIS,PROTEIN ELECTROPHORESIS,407,4/17/24
+1271,PROTEIN IN CSF,PROTEIN IN CSF,192.5,4/17/24
+1272,PROTEIN S ACTIVITY,PROTEIN S ACTIVITY,896.5,4/17/24
+1273,PROTHROMBIN MUTATION GENE,PROTHROMBIN MUTATION GENE,3118.5,4/17/24
+1274,PROTIEN IN 24 HRS URINE,PROTIEN IN 24 HRS URINE,220,4/17/24
+1275,PSA FREE,PSA FREE,437.25,4/17/24
+1276,PSA TOTAL,PSA TOTAL,407,4/17/24
+1277,PSA TOTAL & FREE,PSA TOTAL & FREE,720.5,4/17/24
+1278,PT,PT,217.25,4/17/24
+1279,PTT,PTT,253,4/17/24
+1280,PUS C/S,PUS C/S,266.75,4/17/24
+1281,PYRUVATE,PYRUVATE,1199,4/17/24
+1282,RAPID PLASMA REAGIN (RPR),RAPID PLASMA REAGIN (RPR),250.25,4/17/24
+1283,RARA - T ( 15;17) FISH,RARA - T ( 15;17) FISH,3509,4/17/24
+1284,RARA - T ( 15;17) PCR,RARA - T ( 15;17) PCR,3041.5,4/17/24
+1285,RBS (GLUCOSE RANDOM),RBS (GLUCOSE RANDOM),110,4/17/24
+1286,RED CELL MORPHOLOGY IN URINE,RED CELL MORPHOLOGY IN URINE,616,4/17/24
+1287,REDUCING SUBSTANCE IN URINE,REDUCING SUBSTANCE IN URINE,266.75,4/17/24
+1288,REDUCING SUGAR IN STOOL,REDUCING SUGAR IN STOOL,74.25,4/17/24
+1289,RENIN LEVEL ( PLASMA RENIN ACTIVITY),RENIN LEVEL ( PLASMA RENIN ACTIVITY),2598.75,4/17/24
+1290,RETICULOCYTE COUNT,RETICULOCYTE COUNT,143,4/17/24
+1291,RH GENOTYPING,RH GENOTYPING,319,4/17/24
+1292,RH GROUP,RH GROUP,132,4/17/24
+1293,RHEUMATOID FACTOR (QUANTITATIVE),RHEUMATOID FACTOR (QUANTITATIVE),330,4/17/24
+1294,RIBA FOR HCV,RIBA FOR HCV,2076.25,4/17/24
+1295,RISTOCETIN INDUCED PLATELET AGGREGATION (RIPA),RISTOCETIN INDUCED PLATELET AGGREGATION (RIPA),1592.25,4/17/24
+1296,RO(SS-A),RO(SS-A),437.25,4/17/24
+1297,ROSE WALLER TEST,ROSE WALLER TEST,294.25,4/17/24
+1298,ROTAVIRUS ANTIGEN,ROTAVIRUS ANTIGEN,407,4/17/24
+1299,RUBELLA (IGG),RUBELLA (IGG),495,4/17/24
+1300,RUBELLA (IGM),RUBELLA (IGM),495,4/17/24
+1301,SCD25 (SOLUBLE CD25),SCD25 (SOLUBLE CD25),3184.5,4/17/24
+1302,SCHEBO TEST (M2-PK FECAL TUMOR),SCHEBO TEST (M2-PK FECAL TUMOR),2321,4/17/24
+1303,SEMEN CULTURE & SENSITIVITY,SEMEN CULTURE & SENSITIVITY,330,4/17/24
+1304,SEMEN EXAMINATION,SEMEN EXAMINATION,220,4/17/24
+1305,SEMEN PEROXIDASE,SEMEN PEROXIDASE,393.25,4/17/24
+1306,SEMEN PROCESSING,SEMEN PROCESSING,616,4/17/24
+1307,"SERUM ,CATECHOLAMINES","SERUM ,CATECHOLAMINES",2340.25,4/17/24
+1308,SERUM ERYTHROPOITEN,SERUM ERYTHROPOITEN,2788.5,4/17/24
+1309,SEROTONIN 5HT,SEROTONIN 5HT,1581.25,4/17/24
+1310,SERUM URIC ACID,SERUM URIC ACID,200.75,4/17/24
+1311,SEX HORMONE BINDING GLOBULIN,SEX HORMONE BINDING GLOBULIN,1903,4/17/24
+1312,SIROLIMUS,SIROLIMUS,1523.5,4/17/24
+1313,SMALL BIOPSY,SMALL BIOPSY,1234.75,4/17/24
+1314,SMOOTH MUSCLE ANTIBODY (SMA) BY IF,SMOOTH MUSCLE ANTIBODY (SMA) BY IF,393.25,4/17/24
+1315,SMOOTH MUSCLE ANTIBODY (SMA) TITER,SMOOTH MUSCLE ANTIBODY (SMA) TITER,885.5,4/17/24
+1316,"SODIUM ,URINE","SODIUM ,URINE",200.75,4/17/24
+1317,SODIUM IN SERUM,SODIUM IN SERUM,217.25,4/17/24
+1318,SPUTUM C/S,SPUTUM C/S,330,4/17/24
+1319,SPUTUM FILM FOR AFB (3 SAMPLES),SPUTUM FILM FOR AFB (3 SAMPLES),616,4/17/24
+1320,SPUTUM FOR MACROPHAGE HAMOSIDERIN LEVEL,SPUTUM FOR MACROPHAGE HAMOSIDERIN LEVEL,649,4/17/24
+1321,STONE ANALYSIS,STONE ANALYSIS,305.25,4/17/24
+1322,STOOL & C/S,STOOL & C/S,330,4/17/24
+1323,STOOL EXAMINATION,STOOL EXAMINATION,140.25,4/17/24
+1324,STOOL FOR VERMICULARIS,STOOL FOR VERMICULARIS,140.25,4/17/24
+1325,SWAB CULTURE,SWAB CULTURE,330,4/17/24
+1326,T CD4/CD8,T CD4/CD8,1636.25,4/17/24
+1327,T3 TOTAL,T3 TOTAL,244.75,4/17/24
+1328,T3 UPTAKE,T3 UPTAKE,321.75,4/17/24
+1329,T4TOTAL,T4TOTAL,244.75,4/17/24
+1330,"TACROLIMUS (FK506,PROGRAF)","TACROLIMUS (FK506,PROGRAF)",1430,4/17/24
+1331,TB - DNA BY PCR ( SPUTUM 3 SAMPLES),TB - DNA BY PCR ( SPUTUM 3 SAMPLES),1930.5,4/17/24
+1332,TB BY PCR,TB BY PCR,1897.5,4/17/24
+1333,TB BY QUANTIFERON,TB BY QUANTIFERON,2890.25,4/17/24
+1334,TB CULTURE (BACTEC),TB CULTURE (BACTEC),1064.25,4/17/24
+1335,TB CULTURE (BIOLOGICAL FLUIDS),TB CULTURE (BIOLOGICAL FLUIDS),563.75,4/17/24
+1336,TESTOSTERONE TOTAL,TESTOSTERONE TOTAL,294.25,4/17/24
+1337,THROAT SWAB C/S,THROAT SWAB C/S,330,4/17/24
+1338,THROMBIN TIME,THROMBIN TIME,319,4/17/24
+1339,THROMBOPHILIA MUTATION GENE,THROMBOPHILIA MUTATION GENE,3693.25,4/17/24
+1340,THYROGLOBULIN,THYROGLOBULIN,1388.75,4/17/24
+1341,THYROGLOBULIN IN SERUM,THYROGLOBULIN IN SERUM,1311.75,4/17/24
+1342,THYROID AUTOANTIBODIES,THYROID AUTOANTIBODIES,547.25,4/17/24
+1343,THYROID BINDING GLOBULIN (TBG),THYROID BINDING GLOBULIN (TBG),2321,4/17/24
+1344,"THYROID HORMONES(FT3,FT4,TSH)","THYROID HORMONES(FT3,FT4,TSH)",616,4/17/24
+1345,TIBC,TIBC,266.75,4/17/24
+1346,TLC,TLC,143,4/17/24
+1347,TORCH IGG,TORCH IGG,2021.25,4/17/24
+1348,TORCH IGM,TORCH IGM,2021.25,4/17/24
+1349,TOTAL PROTREINS IN SERUM,TOTAL PROTREINS IN SERUM,192.5,4/17/24
+1350,TOXOPLASMA IGG,TOXOPLASMA IGG,352,4/17/24
+1351,TOXOPLASMA IGG IN CSF,TOXOPLASMA IGG IN CSF,330,4/17/24
+1352,TOXOPLASMA IGM,TOXOPLASMA IGM,352,4/17/24
+1353,TOXOPLASMA IGM IN CSF,TOXOPLASMA IGM IN CSF,330,4/17/24
+1354,TPHA,TPHA,266.75,4/17/24
+1355,TPHA (TREPONEMA PALLIDUM ABS),TPHA (TREPONEMA PALLIDUM ABS),266.75,4/17/24
+1356,TRAMADOL IN URINE,TRAMADOL IN URINE,470.25,4/17/24
+1357,TRANSFERRIN,TRANSFERRIN,396,4/17/24
+1358,TRANSFERRIN SATURATION,TRANSFERRIN SATURATION,396,4/17/24
+1359,TRIGLYCERIDES IN SERUM,TRIGLYCERIDES IN SERUM,200.75,4/17/24
+1360,"TRIPLE TEST(E3, B-HCG, AFP)","TRIPLE TEST(E3, B-HCG, AFP)",1897.5,4/17/24
+1361,TROPONIN I (QUANTITATIVE),TROPONIN I (QUANTITATIVE),550,4/17/24
+1362,TSH,TSH,338.25,4/17/24
+1363,TUBERCULIN TEST,TUBERCULIN TEST,294.25,4/17/24
+1364,UREA BREATH TEST (UBT),UREA BREATH TEST (UBT),1430,4/17/24
+1365,UREA IN SERUM,UREA IN SERUM,200.75,4/17/24
+1366,URIC ACID IN 24 HR URINE,URIC ACID IN 24 HR URINE,200.75,4/17/24
+1367,URINE 24 HRS CALCIUM,URINE 24 HRS CALCIUM,244.75,4/17/24
+1368,URINE C/S,URINE C/S,330,4/17/24
+1369,URINE EXAMINATION,URINE EXAMINATION,184.25,4/17/24
+1370,URINE FOR GLUCOSE & ACETONE,URINE FOR GLUCOSE & ACETONE,101.75,4/17/24
+1371,URINE POTASSIUM /24 HOURS,URINE POTASSIUM /24 HOURS,200.75,4/17/24
+1372,URINE SODIUM /24 HOURS,URINE SODIUM /24 HOURS,200.75,4/17/24
+1373,URINE SPECIFIC GRAVITY,URINE SPECIFIC GRAVITY,99,4/17/24
+1374,UROBILINOGEN,UROBILINOGEN,101.75,4/17/24
+1375,VAGINAL SWAB C/S,VAGINAL SWAB C/S,330,4/17/24
+1376,VANILLYL MANDELIC ACID IN UINE (VMA),VANILLYL MANDELIC ACID IN UINE (VMA),453.75,4/17/24
+1377,VDRL,VDRL,266.75,4/17/24
+1378,VERY LONG CHAIN FATTY ACIDS,VERY LONG CHAIN FATTY ACIDS,3058,4/17/24
+1379,VITAMIN B12 (CYANOCOBALAMIN),VITAMIN B12 (CYANOCOBALAMIN),913,4/17/24
+1380,VITAMIN B2,VITAMIN B2,3382.5,4/17/24
+1381,VITAMIN B6 (PYRIDOXAL PHOSPATE),VITAMIN B6 (PYRIDOXAL PHOSPATE),2964.5,4/17/24
+1382,VITAMIN C (ASCORBIC ACID),VITAMIN C (ASCORBIC ACID),2585,4/17/24
+1383,VITAMINE A (RETINOL),VITAMINE A (RETINOL),2964.5,4/17/24
+1384,VITAMINE E,VITAMINE E,1930.5,4/17/24
+1385,VLDL,VLDL,266.75,4/17/24
+1386,VON WILLBRAND ACTIVITY,VON WILLBRAND ACTIVITY,1991,4/17/24
+1387,VON WILLEBRAND FACTOR,VON WILLEBRAND FACTOR,2975.5,4/17/24
+1388,WATER BIOLOGICAL C/S,WATER BIOLOGICAL C/S,775.5,4/17/24
+1389,WBCS COUNT:TOTAL & DIFFERENTIAL,WBCS COUNT:TOTAL & DIFFERENTIAL,319,4/17/24
+1390,WHOLE ORGAN,WHOLE ORGAN,2788.5,4/17/24
+1391,WIDAL TEST,WIDAL TEST,294.25,4/17/24
+1392,WOUND SWAB C/S,WOUND SWAB C/S,330,4/17/24
+1393,ZINC IN SERUM,ZINC IN SERUM,508.75,4/17/24
+1394,ZINC IN URINE,ZINC IN URINE,470.25,4/17/24
+1395, HYPEREOSINOPHILIC SYNDROME (PDGFRB / ETV6 T(5;12)) FISH, HYPEREOSINOPHILIC SYNDROME (PDGFRB / ETV6 T(5;12)) FISH,8519.5,4/17/24
+1396,ADAMTS 13 ,ADAMTS 13 ,3663,4/17/24
+1397,ALCOHOL IN SALIVA,ALCOHOL IN SALIVA,115.5,4/17/24
+1398,ALDOLASE,ALDOLASE,676.5,4/17/24
+1399,ALMOND-FOODS ALLERGEN,ALMOND-FOODS ALLERGEN,682,4/17/24
+1400,ALPHA -1 MICROGLOBULIN,ALPHA -1 MICROGLOBULIN,555.5,4/17/24
+1401,ALTERNARIA TENUIS MOLD ALLERGEN,ALTERNARIA TENUIS MOLD ALLERGEN,682,4/17/24
+1402,AMYLASE IN URINE,AMYLASE IN URINE,261.25,4/17/24
+1403,ANIMAL ALLERGEN,ANIMAL ALLERGEN,1650,4/17/24
+1404,ANION GAP,ANION GAP,643.5,4/17/24
+1405,ANTI CHOLINEESTRASE RECEPTOR ANTIBODIES,ANTI CHOLINEESTRASE RECEPTOR ANTIBODIES,5285.5,4/17/24
+1406,ANTI FACTOR XA  ASSAY,ANTI FACTOR XA  ASSAY,2224.75,4/17/24
+1407,ANTI HISTONES AB,ANTI HISTONES AB,660,4/17/24
+1408,ANTI NEURONAL AB,ANTI NEURONAL AB,2271.5,4/17/24
+1409,ANTI NMDA RECEPTOR,ANTI NMDA RECEPTOR,6176.5,4/17/24
+1410,ANTI RETICULIN AB,ANTI RETICULIN AB,1328.25,4/17/24
+1411,ANTI RH AB TITER,ANTI RH AB TITER,261.25,4/17/24
+1412,Anti-Desmoglein 1 IgG,Anti-Desmoglein 1 IgG,1581.25,4/17/24
+1413,Anti-Desmoglein 3 IgG,Anti-Desmoglein 3 IgG,1581.25,4/17/24
+1414,APPLE - FRUITS ALLERGEN,APPLE - FRUITS ALLERGEN,682,4/17/24
+1415,APRICOT - FRUITS ALLERGEN,APRICOT - FRUITS ALLERGEN,682,4/17/24
+1416,ASCA (ANTI-SACCHAROMYCES CEREVISIAE ANTIBODIES) – IGG,ASCA (ANTI-SACCHAROMYCES CEREVISIAE ANTIBODIES) – IGG,728.75,4/17/24
+1417,ASPERGILLUS FUMIGATUS MOLD ALLERGEN,ASPERGILLUS FUMIGATUS MOLD ALLERGEN,682,4/17/24
+1418,BANANA - FRUITS ALLERGEN,BANANA - FRUITS ALLERGEN,682,4/17/24
+1419,BARLEY - FOODS ALLERGEN,BARLEY - FOODS ALLERGEN,682,4/17/24
+1420,BCL6 (B-CELL LYMPHOMA 6 PROTEIN),BCL6 (B-CELL LYMPHOMA 6 PROTEIN),1441,4/17/24
+1421,BCR – ABL,BCR – ABL,2436.5,4/17/24
+1422,BETA - GLUCAN -(1-3)- B-D-GLUCAN,BETA - GLUCAN -(1-3)- B-D-GLUCAN,1889.25,4/17/24
+1423,Beta Catininine,Beta Catininine,1031.25,4/17/24
+1424,Beta Catininine investigation,Beta Catininine investigation,1135.75,4/17/24
+1425,BICARBONATE IN SERUM,BICARBONATE IN SERUM,407,4/17/24
+1426,BILE ACIDS IN SERUM TEST,BILE ACIDS IN SERUM TEST,448.25,4/17/24
+1427,BILHARZIAL ANTIGEN IN URINE,BILHARZIAL ANTIGEN IN URINE,393.25,4/17/24
+1428,BILIRUBIN IN URINE,BILIRUBIN IN URINE,99,4/17/24
+1429,BLUE MUSSEL-SEA FOODS ALLERGEN,BLUE MUSSEL-SEA FOODS ALLERGEN,682,4/17/24
+1430,BONE ALKALINE PHOSPHATASE,BONE ALKALINE PHOSPHATASE,508.75,4/17/24
+1431,BORRELIA ANTIBODIES  IGM FOR SCREENING,BORRELIA ANTIBODIES  IGM FOR SCREENING,1047.75,4/17/24
+1432,BORRELIA ANTIBODIES IGG FOR SCREENING,BORRELIA ANTIBODIES IGG FOR SCREENING,1047.75,4/17/24
+1433,BRAZILNUT - FOODS ALLERGEN,BRAZILNUT - FOODS ALLERGEN,682,4/17/24
+1434,BRONCHOALVEOLAR LAVAGE  C& S,BRONCHOALVEOLAR LAVAGE  C& S,354.75,4/17/24
+1435,C - KIT (CD117),C - KIT (CD117),1795.75,4/17/24
+1436,CA 242  (CANCER ANTIGEN),CA 242  (CANCER ANTIGEN),572,4/17/24
+1437,CA 72.4 (CANCER ANTIGEN),CA 72.4 (CANCER ANTIGEN),453.75,4/17/24
+1438,CABBAGE VEGETABLE ALLERGEN,CABBAGE VEGETABLE ALLERGEN,682,4/17/24
+1439,CACAO FOODS ALLERGEN,CACAO FOODS ALLERGEN,682,4/17/24
+1440,CANARY FEATHERS ANIMAL ALLERGEN,CANARY FEATHERS ANIMAL ALLERGEN,682,4/17/24
+1441,CANDIDA ALBICAUS MOLD ALLERGEN,CANDIDA ALBICAUS MOLD ALLERGEN,682,4/17/24
+1442,CARROT VEGETABLE ALLERGEN,CARROT VEGETABLE ALLERGEN,682,4/17/24
+1443,CASA (COMPUTARIZED ASSISTED SEMEN ANALYSIS),CASA (COMPUTARIZED ASSISTED SEMEN ANALYSIS),643.5,4/17/24
+1444,CASEIN - FOODS ALLERGEN,CASEIN - FOODS ALLERGEN,682,4/17/24
+1445,CASONI TEST,CASONI TEST,354.75,4/17/24
+1446,CAT DANER EPITHELIUM ANIMAL ALLERGEN,CAT DANER EPITHELIUM ANIMAL ALLERGEN,682,4/17/24
+1447,CD 10,CD 10,844.25,4/17/24
+1448,CD 16,CD 16,420.75,4/17/24
+1449,CD 19,CD 19,420.75,4/17/24
+1450,CD 20,CD 20,420.75,4/17/24
+1451,CD 25,CD 25,354.75,4/17/24
+1452,CD 33,CD 33,354.75,4/17/24
+1453,CD 34,CD 34,717.75,4/17/24
+1454,CD 41,CD 41,354.75,4/17/24
+1455,CD 45,CD 45,354.75,4/17/24
+1456,CD 56,CD 56,354.75,4/17/24
+1457,CD 61,CD 61,354.75,4/17/24
+1458,CD 7,CD 7,354.75,4/17/24
+1459,CERVICAL SWAB C&S (CULTURE&SENSITIVITY),CERVICAL SWAB C&S (CULTURE&SENSITIVITY),401.5,4/17/24
+1460,CHEESE CHEDDAR - FOODS ALLERGEN,CHEESE CHEDDAR - FOODS ALLERGEN,682,4/17/24
+1461,CHERRY - FRUITS ALLERGEN,CHERRY - FRUITS ALLERGEN,682,4/17/24
+1462,CHICKEN FEATHERS ANIMAL ALLERGEN,CHICKEN FEATHERS ANIMAL ALLERGEN,682,4/17/24
+1463,CHICKEN MEAT - FOODS ALLERGEN,CHICKEN MEAT - FOODS ALLERGEN,682,4/17/24
+1464,CHLAMYDIA IGG,CHLAMYDIA IGG,453.75,4/17/24
+1465,CHLAMYDIA IGM,CHLAMYDIA IGM,453.75,4/17/24
+1466,CHOCOLATE FOODS ALLERGEN,CHOCOLATE FOODS ALLERGEN,682,4/17/24
+1467,CLADOSPORIUM HERBARUM MOLD ALLERGEN,CLADOSPORIUM HERBARUM MOLD ALLERGEN,682,4/17/24
+1468,"CLARITININ ,P63","CLARITININ ,P63",682,4/17/24
+1469,COAGULATION FACTOR ASSAY,COAGULATION FACTOR ASSAY,643.5,4/17/24
+1470,COCKROACH INSECTS ALLERGEN,COCKROACH INSECTS ALLERGEN,682,4/17/24
+1471,COCONUT - FOODS ALLERGEN,COCONUT - FOODS ALLERGEN,682,4/17/24
+1472,COD FISH - SEA FOODS ALLERGEN,COD FISH - SEA FOODS ALLERGEN,682,4/17/24
+1473,COFFEE FOODS ALLERGEN,COFFEE FOODS ALLERGEN,682,4/17/24
+1474,CONJUCTIVAL SWAB,CONJUCTIVAL SWAB,261.25,4/17/24
+1475,CORONA VIRUS SWAB,CORONA VIRUS SWAB,4034.25,4/17/24
+1476,COTTON SEED OCCUPATIONAL ALLERGEN,COTTON SEED OCCUPATIONAL ALLERGEN,682,4/17/24
+1477,COW DANDER ANIMAL ALLERGEN,COW DANDER ANIMAL ALLERGEN,682,4/17/24
+1478,CRAB - SEA FOODS ALLERGEN,CRAB - SEA FOODS ALLERGEN,682,4/17/24
+1479,CRYPTOCOCCUS ( LATEX FOR FUNGI ),CRYPTOCOCCUS ( LATEX FOR FUNGI ),363,4/17/24
+1480,CYCLIN D1,CYCLIN D1,583,4/17/24
+1481,CYSTATIN C,CYSTATIN C,1328.25,4/17/24
+1482,CYSTIC FIBROSIS GENE MUTATION,CYSTIC FIBROSIS GENE MUTATION,7477.25,4/17/24
+1483,CYTOGENETIC IN BONE MARROW,CYTOGENETIC IN BONE MARROW,470.25,4/17/24
+1484,DERMATOPHAGOIDS DUST ALLERGEN,DERMATOPHAGOIDS DUST ALLERGEN,682,4/17/24
+1485,DERMATOPHAGOIDS FARINAE DUST ALLERGEN,DERMATOPHAGOIDS FARINAE DUST ALLERGEN,682,4/17/24
+1486,DHEA (DEHYDROEPIANDROSTERONE SULFATE),DHEA (DEHYDROEPIANDROSTERONE SULFATE),448.25,4/17/24
+1487,DOG DANDER ANIMAL ALLERGEN,DOG DANDER ANIMAL ALLERGEN,682,4/17/24
+1488,Dopamine in serum,Dopamine in serum,913,4/17/24
+1489,DRUG LEVEL,DRUG LEVEL,555.5,4/17/24
+1490,DRUGS IN URINE,DRUGS IN URINE,924,4/17/24
+1491,EAR DISCHARGE,EAR DISCHARGE,354.75,4/17/24
+1492,EBV  AB IGM,EBV  AB IGM,453.75,4/17/24
+1493,EBV AB IGG,EBV AB IGG,453.75,4/17/24
+1494,EBV AB IGM,EBV AB IGM,429,4/17/24
+1495,EBV PANEL BY IMMUNOFLURESCENCE,EBV PANEL BY IMMUNOFLURESCENCE,869,4/17/24
+1496,EGG - FOODS ALLERGEN,EGG - FOODS ALLERGEN,682,4/17/24
+1497,ENDOMYSIAL  ANTIBODY (EMA),ENDOMYSIAL  ANTIBODY (EMA),1160.5,4/17/24
+1498,ENTAMOEBA HISTOLYTICA AB,ENTAMOEBA HISTOLYTICA AB,448.25,4/17/24
+1499,ENTAMOEBA HISTOLYTICA AG IN STOOL,ENTAMOEBA HISTOLYTICA AG IN STOOL,605,4/17/24
+1500,EXTENDED C&S FOR BORRELIA,EXTENDED C&S FOR BORRELIA,330,4/17/24
+1501,FACTOR V ACTIVITY  ASSAY,FACTOR V ACTIVITY  ASSAY,734.25,4/17/24
+1502,Fecal Elastase ,Fecal Elastase ,1441,4/17/24
+1503,FEMALE INFERTILITY,FEMALE INFERTILITY,591.25,4/17/24
+1504,FISH FOR HER2 NEO,FISH FOR HER2 NEO,3583.25,4/17/24
+1505,FLIM FOR CHLAMDIA,FLIM FOR CHLAMDIA,220,4/17/24
+1506,FLUID ASPIRATES,FLUID ASPIRATES,338.25,4/17/24
+1507,FREE CORTISOL IN 24 HOURS URINE,FREE CORTISOL IN 24 HOURS URINE,338.25,4/17/24
+1508,FREE LAMDA LIGHT CHAIN (SERUM),FREE LAMDA LIGHT CHAIN (SERUM),1685.75,4/17/24
+1509,GARDIA ANTIGEN IN STOOL,GARDIA ANTIGEN IN STOOL,393.25,4/17/24
+1510,GARLIC VEGETABLE ALLERGEN,GARLIC VEGETABLE ALLERGEN,682,4/17/24
+1511,GLUCAGON IN BLOOD,GLUCAGON IN BLOOD,2244,4/17/24
+1512,GLUCOSE TOLERENCE CURVE,GLUCOSE TOLERENCE CURVE,453.75,4/17/24
+1513,GLUTEN FOODS ALLERGEN,GLUTEN FOODS ALLERGEN,682,4/17/24
+1514,GOOSE FEATHERS ANIMAL ALLERGEN,GOOSE FEATHERS ANIMAL ALLERGEN,682,4/17/24
+1515,GRAPE FRUIT FRUITS ALLERGEN,GRAPE FRUIT FRUITS ALLERGEN,682,4/17/24
+1516,GUINEA PIG EPITHELIUM ANIMAL ALLERGEN,GUINEA PIG EPITHELIUM ANIMAL ALLERGEN,682,4/17/24
+1517,H1N1 THROAT SWAB,H1N1 THROAT SWAB,1573,4/17/24
+1518,HAV - AB TOTAL,HAV - AB TOTAL,508.75,4/17/24
+1519,HAZELNUT - FOODS ALLERGEN,HAZELNUT - FOODS ALLERGEN,682,4/17/24
+1520,HB IN URINE,HB IN URINE,115.5,4/17/24
+1521,HBC ANTIBODY IGG,HBC ANTIBODY IGG,453.75,4/17/24
+1522,HBME,HBME,1207.25,4/17/24
+1523,HCV AB QUANTITATIVE,HCV AB QUANTITATIVE,437.25,4/17/24
+1524,HCV RNA PCR IN MONONUCLEAR CELLS,HCV RNA PCR IN MONONUCLEAR CELLS,1966.25,4/17/24
+1525,HCV RNA PCR TMA,HCV RNA PCR TMA,1685.75,4/17/24
+1526,HDL & LDL – CHOLESTEROL,HDL & LDL – CHOLESTEROL,338.25,4/17/24
+1527,HEPATITIS E IGG,HEPATITIS E IGG,643.5,4/17/24
+1528,HEPATITIS E IGM,HEPATITIS E IGM,610.5,4/17/24
+1529,HER 2 NEU,HER 2 NEU,1328.25,4/17/24
+1530,HERPES IGG,HERPES IGG,453.75,4/17/24
+1531,HERPES IGM,HERPES IGM,453.75,4/17/24
+1532,HLA ABC,HLA ABC,1839.75,4/17/24
+1533,HLA B 51,HLA B 51,1353,4/17/24
+1534,HLA DR,HLA DR,2340.25,4/17/24
+1535,HONEY BEE VENOM INSECTS ALLERGEN,HONEY BEE VENOM INSECTS ALLERGEN,682,4/17/24
+1536,HORSE DANDER ANIMAL ALLERGEN,HORSE DANDER ANIMAL ALLERGEN,682,4/17/24
+1537,HOUSE DUST ALLERGOPHARMA DUST ALLERGEN,HOUSE DUST ALLERGOPHARMA DUST ALLERGEN,682,4/17/24
+1538,HOUSE DUST BENCARD DUST ALLERGEN,HOUSE DUST BENCARD DUST ALLERGEN,682,4/17/24
+1539,HOUSE DUST GREER DUST ALLERGEN,HOUSE DUST GREER DUST ALLERGEN,682,4/17/24
+1540,HOUSE DUST HOLLISTER STIER DUST ALLERGEN,HOUSE DUST HOLLISTER STIER DUST ALLERGEN,682,4/17/24
+1541,"HTLV I,II ANTIBODIES","HTLV I,II ANTIBODIES",2285.25,4/17/24
+1542,"HYPEREOSINOPHILIC SYNDROME (FIP1L1/PDGFRA, DEL Q12) FISH ","HYPEREOSINOPHILIC SYNDROME (FIP1L1/PDGFRA, DEL Q12) FISH ",8519.5,4/17/24
+1543,IGG IMMUNOGLOBULIN,IGG IMMUNOGLOBULIN,2065.25,4/17/24
+1544,IGG SUBCLASSES (IGG1),IGG SUBCLASSES (IGG1),2065.25,4/17/24
+1545,IGG SUBCLASSES (IGG2),IGG SUBCLASSES (IGG2),2065.25,4/17/24
+1546,IGG SUBCLASSES (IGG3),IGG SUBCLASSES (IGG3),2065.25,4/17/24
+1547,IMMUNOHISTOCHEMISTRY CD 15,IMMUNOHISTOCHEMISTRY CD 15,1116.5,4/17/24
+1548,IMMUNOHISTOCHEMISTRY CD 1A,IMMUNOHISTOCHEMISTRY CD 1A,1116.5,4/17/24
+1549,IMMUNOHISTOCHEMISTRY CD 20,IMMUNOHISTOCHEMISTRY CD 20,1116.5,4/17/24
+1550,IMMUNOHISTOCHEMISTRY CD 3,IMMUNOHISTOCHEMISTRY CD 3,1116.5,4/17/24
+1551,IMMUNOHISTOCHEMISTRY CD 30,IMMUNOHISTOCHEMISTRY CD 30,1116.5,4/17/24
+1552,IMMUNOHISTOCHEMISTRY CD 68,IMMUNOHISTOCHEMISTRY CD 68,717.75,4/17/24
+1553,IMMUNOHISTOCHEMISTRY CD 7,IMMUNOHISTOCHEMISTRY CD 7,1116.5,4/17/24
+1554,IMMUNOHISTOCHEMISTRY CK,IMMUNOHISTOCHEMISTRY CK,1207.25,4/17/24
+1555,IMMUNOHISTOCHEMISTRY DESMIN AND FACTOR VII,IMMUNOHISTOCHEMISTRY DESMIN AND FACTOR VII,1207.25,4/17/24
+1556,IMMUNOHISTOCHEMISTRY FOR LCA,IMMUNOHISTOCHEMISTRY FOR LCA,583,4/17/24
+1557,IMMUNOHISTOCHEMISTRY NSE,IMMUNOHISTOCHEMISTRY NSE,583,4/17/24
+1558,IMMUNOHISTOCHEMISTRY S100,IMMUNOHISTOCHEMISTRY S100,1207.25,4/17/24
+1559,IMMUNOHISTOCHEMISTRY VINEMTIN,IMMUNOHISTOCHEMISTRY VINEMTIN,1207.25,4/17/24
+1560,IMMUNOPHENOTYPING,IMMUNOPHENOTYPING,2024,4/17/24
+1561,IMMUNOPHENOTYPING CD 138,IMMUNOPHENOTYPING CD 138,508.75,4/17/24
+1562,IMMUNOPHENOTYPING CD 38,IMMUNOPHENOTYPING CD 38,734.25,4/17/24
+1563,Immunophenotyping for Acute panel,Immunophenotyping for Acute panel,1760,4/17/24
+1564,Immunophenotyping for myloma panel,Immunophenotyping for myloma panel,1581.25,4/17/24
+1565,Immunophenotyping for myloma panel ,Immunophenotyping for myloma panel ,1441,4/17/24
+1566,IMMUNOSTAINING LCA,IMMUNOSTAINING LCA,1160.5,4/17/24
+1567,IMMUNOSTAINING PANCK,IMMUNOSTAINING PANCK,1160.5,4/17/24
+1568,IMPORTED FIRE ANT INSECTS ALLERGEN,IMPORTED FIRE ANT INSECTS ALLERGEN,682,4/17/24
+1569,KARYOTYPING OF AMNIOTC FLUID BY FISH,KARYOTYPING OF AMNIOTC FLUID BY FISH,6110.5,4/17/24
+1570,KI 67,KI 67,2065.25,4/17/24
+1571,KOH FOR FUNGUS EXAM,KOH FOR FUNGUS EXAM,220,4/17/24
+1572,LACTATE / PYRUVATE RATIO,LACTATE / PYRUVATE RATIO,1581.25,4/17/24
+1573,LACTATE IN CSF,LACTATE IN CSF,508.75,4/17/24
+1574,LACTOFERRIN IN STOOL,LACTOFERRIN IN STOOL,1328.25,4/17/24
+1575,Lactose intolerance ,Lactose intolerance ,429,4/17/24
+1576,LEISHMANA Ab,LEISHMANA Ab,508.75,4/17/24
+1577,LEMON-FRUITS ALLERGEN,LEMON-FRUITS ALLERGEN,682,4/17/24
+1578,Leptin test,Leptin test,583,4/17/24
+1579,leptospira,leptospira,2040.5,4/17/24
+1580,LETTUCE VEGETABLE ALLERGEN,LETTUCE VEGETABLE ALLERGEN,682,4/17/24
+1581,LYMPHOCYTE PHENOTYPING (PERIPHRAL BLOOD),LYMPHOCYTE PHENOTYPING (PERIPHRAL BLOOD),1388.75,4/17/24
+1582,MALARIAL AG,MALARIAL AG,228.25,4/17/24
+1583,MANGO-FRUITS ALLERGEN,MANGO-FRUITS ALLERGEN,682,4/17/24
+1584,MANNAN AG FOR CANDIDA,MANNAN AG FOR CANDIDA,717.75,4/17/24
+1585,MICROSCOPIC EXAM,MICROSCOPIC EXAM,261.25,4/17/24
+1586,MILK FOODS ALLERGEN,MILK FOODS ALLERGEN,682,4/17/24
+1587,MLL rearrangement by FISH ,MLL rearrangement by FISH ,2857.25,4/17/24
+1588,MONOCLONAL BANDS IN CSF,MONOCLONAL BANDS IN CSF,1870,4/17/24
+1589,MOSQUITO INSECTS ALLERGEN,MOSQUITO INSECTS ALLERGEN,682,4/17/24
+1590,MOTH INSECTS ALLERGEN,MOTH INSECTS ALLERGEN,682,4/17/24
+1591,MOUSE ANIMAL ALLERGEN,MOUSE ANIMAL ALLERGEN,682,4/17/24
+1592,MRSA FROM AXILLARY SWAB,MRSA FROM AXILLARY SWAB,354.75,4/17/24
+1593,MRSA FROM GROIN SWAB,MRSA FROM GROIN SWAB,354.75,4/17/24
+1594,MRSA FROM NASAL SWAB,MRSA FROM NASAL SWAB,354.75,4/17/24
+1595,MUM 1 (MULTIPLE MYELOMA ONCOGENE 1),MUM 1 (MULTIPLE MYELOMA ONCOGENE 1),1441,4/17/24
+1596,MUMPS IGG,MUMPS IGG,448.25,4/17/24
+1597,MUMPS IGM,MUMPS IGM,448.25,4/17/24
+1598,MUSCLE SPECIFIC KINASE (MUSK) ANTIBODY,MUSCLE SPECIFIC KINASE (MUSK) ANTIBODY,4031.5,4/17/24
+1599,MUSTARD FOODS ALLERGEN,MUSTARD FOODS ALLERGEN,682,4/17/24
+1600,MYCOPLASMA CULTURE,MYCOPLASMA CULTURE,682,4/17/24
+1601,MYELIN BASIC PROTEIN,MYELIN BASIC PROTEIN,2609.75,4/17/24
+1602,NASH TEST,NASH TEST,3236.75,4/17/24
+1603,OCTOPUS - SEA FOODS ALLERGEN,OCTOPUS - SEA FOODS ALLERGEN,682,4/17/24
+1604,OGGT (FOR GESTATIONAL DIABETES AFTER 100 GM. GLUCOSE),OGGT (FOR GESTATIONAL DIABETES AFTER 100 GM. GLUCOSE),401.5,4/17/24
+1605,OGGT (FOR GESTATIONAL DIABETES AFTER 75 GM. GLUCOSE),OGGT (FOR GESTATIONAL DIABETES AFTER 75 GM. GLUCOSE),401.5,4/17/24
+1606,ONION VEGETABLE ALLERGEN,ONION VEGETABLE ALLERGEN,682,4/17/24
+1607,ORANGE - FRUITS ALLERGEN,ORANGE - FRUITS ALLERGEN,682,4/17/24
+1608,OSULLIVAN TEST IN PREGNANCY,OSULLIVAN TEST IN PREGNANCY,401.5,4/17/24
+1609,P - ANCA (PERINUCLEAR ANTI -NEUTROPHIL CYTOPLASMIC ANTIBODIES),P - ANCA (PERINUCLEAR ANTI -NEUTROPHIL CYTOPLASMIC ANTIBODIES),618.75,4/17/24
+1610,PAN CK (PANCYTOKERATIN),PAN CK (PANCYTOKERATIN),869,4/17/24
+1611,PANCREATIC ELASTASE,PANCREATIC ELASTASE,682,4/17/24
+1612,PANEL FOR COLLAGENIC DISEASE,PANEL FOR COLLAGENIC DISEASE,2150.5,4/17/24
+1613,PARROT FEATHERS ANIMAL ALLERGEN 9,PARROT FEATHERS ANIMAL ALLERGEN 9,682,4/17/24
+1614,PCR FOR BORRELIA,PCR FOR BORRELIA,5786,4/17/24
+1615,PCR FOR CMV (QUALITATIVE),PCR FOR CMV (QUALITATIVE),2065.25,4/17/24
+1616,PCR FOR HERPES SIMPLEX IN CSF,PCR FOR HERPES SIMPLEX IN CSF,6110.5,4/17/24
+1617,PCR FOR HIV,PCR FOR HIV,3278,4/17/24
+1618,pcr for hla d q,pcr for hla d q,1941.5,4/17/24
+1619,PCR FOR HSV,PCR FOR HSV,1135.75,4/17/24
+1620,PCR for Lactase and Aldolase B gene mutation ,PCR for Lactase and Aldolase B gene mutation ,2906.75,4/17/24
+1621,PCR FOR MENINGITIS (VIRUS & BACTERIAL PANEL),PCR FOR MENINGITIS (VIRUS & BACTERIAL PANEL),2821.5,4/17/24
+1622,PCR FOR MTHFR MUTATION,PCR FOR MTHFR MUTATION,2004.75,4/17/24
+1623,PCR for TB by GeneXpert including Rifampicin sensitivity test,PCR for TB by GeneXpert including Rifampicin sensitivity test,1685.75,4/17/24
+1624,PCR FOR THALASSEMIA,PCR FOR THALASSEMIA,1685.75,4/17/24
+1625,PEACH - FRUITS ALLERGEN,PEACH - FRUITS ALLERGEN,682,4/17/24
+1626,PEANUT - FOODS ALLERGEN,PEANUT - FOODS ALLERGEN,682,4/17/24
+1627,PENICILLIUM NOTATUM MOLD ALLERGEN,PENICILLIUM NOTATUM MOLD ALLERGEN,682,4/17/24
+1628,PHENCYCLIDINE IN URINE,PHENCYCLIDINE IN URINE,302.5,4/17/24
+1629,PHENYL ALANINE,PHENYL ALANINE,1727,4/17/24
+1630,PIGEON DROPPING ANIMAL ALLERGEN,PIGEON DROPPING ANIMAL ALLERGEN,682,4/17/24
+1631,PINEAPPLE - FRUITS ALLERGEN,PINEAPPLE - FRUITS ALLERGEN,682,4/17/24
+1632,PIVKA (PROTEIN INDUCED BY VITAMIN K ABSENCE),PIVKA (PROTEIN INDUCED BY VITAMIN K ABSENCE),1839.75,4/17/24
+1633,PLATELET RICH PLASMA (PRP),PLATELET RICH PLASMA (PRP),261.25,4/17/24
+1634,PLATELETES AGGREGATION PROFILE,PLATELETES AGGREGATION PROFILE,1608.75,4/17/24
+1635,PLATELETS FUNCTION TESTS,PLATELETS FUNCTION TESTS,1487.75,4/17/24
+1636,PLEURAL FLUID ANALYSIS,PLEURAL FLUID ANALYSIS,508.75,4/17/24
+1637,POTATO VEGETABLE ALLERGEN,POTATO VEGETABLE ALLERGEN,682,4/17/24
+1638,PRE – ALBUMIN,PRE – ALBUMIN,962.5,4/17/24
+1639,Pregnancy test in serum,Pregnancy test in serum,338.25,4/17/24
+1640,Pregnancy test in urine,Pregnancy test in urine,189.75,4/17/24
+1641,PRO BNP,PRO BNP,2081.75,4/17/24
+1642,PROSTSTIC DISCHARGE C&S,PROSTSTIC DISCHARGE C&S,354.75,4/17/24
+1643,PROTEIN / CREATININE RATIO,PROTEIN / CREATININE RATIO,354.75,4/17/24
+1644,Protophyrin in urine,Protophyrin in urine,1839.75,4/17/24
+1645,Protoporphyrin in urine,Protoporphyrin in urine,2024,4/17/24
+1646,PTERONYSSINUS DUST ALLERGEN,PTERONYSSINUS DUST ALLERGEN,682,4/17/24
+1647,PTH RELATED PEPTIDE,PTH RELATED PEPTIDE,2557.5,4/17/24
+1648,PUS/WOUND SWAB (C/S) (CULTURE/SENSITIVITY),PUS/WOUND SWAB (C/S) (CULTURE/SENSITIVITY),354.75,4/17/24
+1649,QUALITATIVE PCR FOR HIV,QUALITATIVE PCR FOR HIV,1317.25,4/17/24
+1650,QUALITATIVE PCR FOR TB,QUALITATIVE PCR FOR TB,1441,4/17/24
+1651,RABBIT EPITHELIUM ANIMAL ALLERGEN,RABBIT EPITHELIUM ANIMAL ALLERGEN,682,4/17/24
+1652,"RAPAMYCIN (SIROLIMUS, RAPAMUNE)","RAPAMYCIN (SIROLIMUS, RAPAMUNE)",1966.25,4/17/24
+1653,RAT ANIMAL ALLERGEN,RAT ANIMAL ALLERGEN,682,4/17/24
+1654,RBCS COUNT,RBCS COUNT,110,4/17/24
+1655,RICE-FOODS ALLERGEN,RICE-FOODS ALLERGEN,682,4/17/24
+1656,ROTA VIRUS AG IN STOOL,ROTA VIRUS AG IN STOOL,420.75,4/17/24
+1657,SALIVA FREE CORTISOL,SALIVA FREE CORTISOL,228.25,4/17/24
+1658,SALMON - SEA FOODS ALLERGEN,SALMON - SEA FOODS ALLERGEN,682,4/17/24
+1659,SARDINE - SEA FOODS ALLERGEN,SARDINE - SEA FOODS ALLERGEN,682,4/17/24
+1660,SCREENING FOR GESTATIONAL DIABETES,SCREENING FOR GESTATIONAL DIABETES,101.75,4/17/24
+1661,SEMINAL FLUID C&S,SEMINAL FLUID C&S,275,4/17/24
+1662,SERUM CADMIUM,SERUM CADMIUM,583,4/17/24
+1663,SERUM IG D,SERUM IG D,1080.75,4/17/24
+1664,SERUM IG G,SERUM IG G,508.75,4/17/24
+1665,SERUM IG M,SERUM IG M,453.75,4/17/24
+1666,SERUM MERCURY,SERUM MERCURY,1669.25,4/17/24
+1667,SERUM SELENIUM,SERUM SELENIUM,2059.75,4/17/24
+1668,Serum Specific IGG for food,Serum Specific IGG for food,1463,4/17/24
+1669,SERUM TRYPTASE,SERUM TRYPTASE,2821.5,4/17/24
+1670,SESAME SEED - FOODS ALLERGEN,SESAME SEED - FOODS ALLERGEN,682,4/17/24
+1671,SHEEP EPITHELIUM ANIMAL ALLERGEN,SHEEP EPITHELIUM ANIMAL ALLERGEN,682,4/17/24
+1672,SHIGELLA AB,SHIGELLA AB,228.25,4/17/24
+1673,SHISTOSOMAL AG IN URINE,SHISTOSOMAL AG IN URINE,156.75,4/17/24
+1674,SHRIMP - SEA FOODS ALLERGEN,SHRIMP - SEA FOODS ALLERGEN,682,4/17/24
+1675,SICKLING TEST,SICKLING TEST,261.25,4/17/24
+1676,SILK OCCUPATIONAL ALLERGEN,SILK OCCUPATIONAL ALLERGEN,682,4/17/24
+1677,SKIN SENSITIVITY,SKIN SENSITIVITY,338.25,4/17/24
+1678,SLA AB (SOLUBLE LIVER AG AUTOAB),SLA AB (SOLUBLE LIVER AG AUTOAB),676.5,4/17/24
+1679,SMA Pathology investigation,SMA Pathology investigation,1135.75,4/17/24
+1680,SOLUBLE TRANSFERRIN RECEPTOR,SOLUBLE TRANSFERRIN RECEPTOR,2431,4/17/24
+1681,SPECIFIC IGE TEST FOR MILK,SPECIFIC IGE TEST FOR MILK,159.5,4/17/24
+1682,SPINACH VEGETABLE ALLERGEN,SPINACH VEGETABLE ALLERGEN,682,4/17/24
+1683,SPUTUM C&S (CULTURE&SENSITIVITY) FOR T.B,SPUTUM C&S (CULTURE&SENSITIVITY) FOR T.B,869,4/17/24
+1684,STAMEY`S TEST,STAMEY`S TEST,734.25,4/17/24
+1685,STOOL OSMOLAL GAP,STOOL OSMOLAL GAP,508.75,4/17/24
+1686,STRAWBERRY - FRUITS ALLERGEN,STRAWBERRY - FRUITS ALLERGEN,682,4/17/24
+1687,SUGAR IN URINE,SUGAR IN URINE,99,4/17/24
+1688,SUNFLOWER SEED - OCCUPATIONAL ALLERGEN,SUNFLOWER SEED - OCCUPATIONAL ALLERGEN,682,4/17/24
+1689,SYNOVIAL FLUID ANALYSIS,SYNOVIAL FLUID ANALYSIS,401.5,4/17/24
+1690,SYNOVIAL FLUID C&S,SYNOVIAL FLUID C&S,354.75,4/17/24
+1691,TB AB IN SERUM,TB AB IN SERUM,393.25,4/17/24
+1692,TB GENE EXPERT,TB GENE EXPERT,2334.75,4/17/24
+1693,TEA FOODS ALLERGEN,TEA FOODS ALLERGEN,682,4/17/24
+1694,THEOPHYLLINE LEVEL,THEOPHYLLINE LEVEL,1031.25,4/17/24
+1695,TISSUE CROSS MATCHING,TISSUE CROSS MATCHING,1322.75,4/17/24
+1696,TISSUE TRANSGLUTAMINASE IGA,TISSUE TRANSGLUTAMINASE IGA,401.5,4/17/24
+1697,TISSUE TRANSGLUTAMINASE IGG,TISSUE TRANSGLUTAMINASE IGG,401.5,4/17/24
+1698,TOMATO VEGETABLE ALLERGEN,TOMATO VEGETABLE ALLERGEN,682,4/17/24
+1699,TOTAL LIPIDS,TOTAL LIPIDS,233.75,4/17/24
+1700,TOTAL PROTEIN,TOTAL PROTEIN,220,4/17/24
+1701,TOXOPLASMOSIS AVIDITY TEST,TOXOPLASMOSIS AVIDITY TEST,508.75,4/17/24
+1702,TRAMADOL IN SERUM,TRAMADOL IN SERUM,4251.5,4/17/24
+1703,Tricyclic anti-depressant in urine,Tricyclic anti-depressant in urine,203.5,4/17/24
+1704,TRILEPTAL (OXCARBATEPINE) DRUG LEVEL,TRILEPTAL (OXCARBATEPINE) DRUG LEVEL,3000.25,4/17/24
+1705,TSH RECEPTOR ANTIBODIES (TRAB),TSH RECEPTOR ANTIBODIES (TRAB),1581.25,4/17/24
+1706,TTF1,TTF1,682,4/17/24
+1707,TUNA - SEA FOODS ALLERGEN,TUNA - SEA FOODS ALLERGEN,682,4/17/24
+1708,TURKEY FEATHERS ANIMAL ALLERGEN,TURKEY FEATHERS ANIMAL ALLERGEN,682,4/17/24
+1709,UREA CLEARANCE,UREA CLEARANCE,354.75,4/17/24
+1710,UREAPLASMA CULTURE,UREAPLASMA CULTURE,393.25,4/17/24
+1711,URETHERAL SWAB C&S,URETHERAL SWAB C&S,354.75,4/17/24
+1712,URETHRAL DICHARGE EX BY GRAM STAIN,URETHRAL DICHARGE EX BY GRAM STAIN,228.25,4/17/24
+1713,URETHRAL DISCHARGE FOR GONOCOCCI,URETHRAL DISCHARGE FOR GONOCOCCI,159.5,4/17/24
+1714,URINARY UREA NITROGEN (UUN),URINARY UREA NITROGEN (UUN),220,4/17/24
+1715,URINE HOMOCYCTEINE,URINE HOMOCYCTEINE,2552,4/17/24
+1716,VANCOMYCIN,VANCOMYCIN,1210,4/17/24
+1717,VEGETABLE ALLERGEN,VEGETABLE ALLERGEN,852.5,4/17/24
+1718,VIROLOGY MARKERS FOR LNG STAFF,VIROLOGY MARKERS FOR LNG STAFF,115.5,4/17/24
+1719,WBCS TOTAL COUNT,WBCS TOTAL COUNT,110,4/17/24
+1720,WHEAT- FOODS ALLERGEN,WHEAT- FOODS ALLERGEN,682,4/17/24
+1721,WOOL OCCUPATIONAL ALLERGEN,WOOL OCCUPATIONAL ALLERGEN,682,4/17/24
+1722,Z.N STAIN,Z.N STAIN,203.5,4/17/24
+1723,SERUM METANEPHERINE,SERUM METANEPHERINE,987.25,4/17/24
+1724,STOOL PH,STOOL PH,55,4/17/24
+1725,STOOL TEST FOR CRYPTOSPONIDIUM,STOOL TEST FOR CRYPTOSPONIDIUM,189.75,4/17/24
+1726,FAT GLOBULE IN STOOL,FAT GLOBULE IN STOOL,38.5,4/17/24
+1727,Oxalate/Creatinine Ratio,Oxalate/Creatinine Ratio,643.5,4/17/24
+1728,COXSACKIE VIRUS IGG,COXSACKIE VIRUS IGG,437.25,4/17/24
+1729,COXSACKIE VIRUS IGM,COXSACKIE VIRUS IGM,437.25,4/17/24
+1730,BONE MARROW ASPIRATE AND EXAMINATION,BONE MARROW ASPIRATE AND EXAMINATION,1199,4/17/24
+1731,clostridium,clostridium,203.5,4/17/24
+1732,B2 TRANSFERRIN,B2 TRANSFERRIN,530.75,4/17/24
+1733,CHROMIUM (SERUM),CHROMIUM (SERUM),2202.75,4/17/24
+1734,COBALT (SERUM),COBALT (SERUM),4567.75,4/17/24
+1735,LEPTOSPIRA IGM,LEPTOSPIRA IGM,302.5,4/17/24
+1736,LEPTOSPIRA IGG,LEPTOSPIRA IGG,302.5,4/17/24
+1737,SERUM CHROMOGRANIN,SERUM CHROMOGRANIN,618.75,4/17/24
+1738,ANTI - SSA (RO) AB,ANTI - SSA (RO) AB,618.75,4/17/24
+1739,ANTI - SSB ( LA ) AB,ANTI - SSB ( LA ) AB,618.75,4/17/24
+1740,ANTI GASTRIC PARIETAL AB,ANTI GASTRIC PARIETAL AB,618.75,4/17/24
+1741,interleukin 6,interleukin 6,3041.5,4/17/24
+1742,BANANA-FRUITS ALLERGEN,BANANA-FRUITS ALLERGEN,618.75,4/17/24
+1743,BARLEY-FOODS ALLERGEN,BARLEY-FOODS ALLERGEN,618.75,4/17/24
+1744,CASEIN-FOODS ALLERGEN,CASEIN-FOODS ALLERGEN,618.75,4/17/24
+1745,EGG- FOODS ALLERGEN,EGG- FOODS ALLERGEN,618.75,4/17/24
+1746,BM EXAMINATION,BM EXAMINATION,660,4/17/24
+1747,FOLATE IN RBCS,FOLATE IN RBCS,717.75,4/17/24
+1748,RAPID COVID TEST ,RAPID COVID TEST ,1463,4/17/24
+1749,SWAP PCR (COVID19),SWAP PCR (COVID19),2923.25,4/17/24
+1750,Biofire multiplex PCR- pneumonia panel,Biofire multiplex PCR- pneumonia panel,6512,4/17/24
+1751,PRP PROCESSING,PRP PROCESSING,649,4/17/24
+1752,3D ABDOMINAL U/S,موجات صوتية ثلاثية الأبعاد للبطن,1193.5,4/17/24
+1753,3D FOR ANY CT,3D لأي أشعة مقطعية,585.75,4/17/24
+1754,3D OBESTETRIC U/S,موجات صوتية ثلاثية الأبعاد للحمل كامل,1174.25,4/17/24
+1755,3D U/S OF SMALL PARTS,موجات صوتية ثلاثية الأبعاد لجزء صغير,1342,4/17/24
+1756,ABDOMEN { SUPINE&ERECT},البطن نائم و واقف,712.25,4/17/24
+1757,ABDOMEN {ERECT},البطن واقفا,519.75,4/17/24
+1758,ABDOMEN AP &LAT,أشعة على البطن (أمامي - خلفي - جانبي),726,4/17/24
+1759,ABDOMEN DECUBITUS,أشعة على البطن وضع واحد,456.5,4/17/24
+1760,ABDOMEN KUB /GB,أشعة المسالك البولية,508.75,4/17/24
+1761,ABDOMEN&PELVIS {SUPINE},البطن و الحوض نائما,585.75,4/17/24
+1762,ACROMIOCLAVICULAR JOINT BOTH SIDES WITH WEIGHT,المفصل الأخرموي الترقوي جانيين بالأوزان,679.25,4/17/24
+1763,ACROMIOCLAVICULAR JOINT ONE SIDE WITH WEIGHT,المفصل الأخرموي الترقوي جهة واحدة بالأوزان,544.5,4/17/24
+1764,ACROMIOCLAVICULAR JOINTS,أشعة على عظمة الترقوة (أمامي - خلفي),374,4/17/24
+1765,ADDED FEES FOR ANY PORTABLE IMAGING,رسم إضافي لاى إجراء أشعة محمولة,478.5,4/17/24
+1766,ANKLE JOINT BOTH SIDES (AP& LAT& MORTICE),أشعة على الكاحلين الأيمن والأيسر,613.25,4/17/24
+1767,ANKLE JOINT ONE SIDE (( AP& LAT& MORTICE,أشعة على الكاحل 3 أوضاع,605,4/17/24
+1768,ANKLE JOINT ONE SIDE (( AP& LAT& OBLIQ ),الكاحل اخ ج مائل,624.25,4/17/24
+1769,ANKLE JOINT ONE SIDE (AP& LAT),أشعة على عظام الكاحل (أمامي - خلفي - جانبي),478.5,4/17/24
+1770,ANKLE JOINTS BOTH SIDES (AP & LAT),الكاحل الأيمن والأيسر وضعي الناحيتين,726,4/17/24
+1771,ARM ONE SIDE (AP&LAT),أشعة على عظام العضد (أمامي - خلفي - مائل),726,4/17/24
+1772,ARMS BOTH SIDES (AP& LAT),العضد الأيمن والأيسر (أمامي - خلفي - جانبي),778.25,4/17/24
+1773,ASCENDING CYSTOURETHROGRAM,أشعة بالصبغة الصاعدة على الكلى عن طريق القسطرة,1410.75,4/17/24
+1774,ASCENDING PYELOGRAPHY + DR FEE,أشعة بالصبغة الصاعدة على المسالك البولية + أتعاب الطبيب,2326.5,4/17/24
+1775,BARIUM ENEMA,أشعة على القولون بالباريوم,937.75,4/17/24
+1776,BARIUM MEAL,المعدة و الاثنى عشر بالباريوم,833.25,4/17/24
+1777,BARIUM MEAL FOLLOW THROUGH,الأمعاء الدقيقة بالباريوم,863.5,4/17/24
+1778,BARIUM SWALLOW,المريء بالباريوم,756.25,4/17/24
+1779,BOTH FEET LATERAL FLAT FOOT,أشعة على القدمين جانبي واقف,374,4/17/24
+1780,C.T ENTERO-COLONOGRAPHY,أشعة مقطعية على القولون بالمنظار التخيلي,1969,4/17/24
+1781,C.T. GUIDED DRAINAGE,سحب سوائل من الجسم عن طريق الأشعة المقطعية,4312,4/17/24
+1782,CD FOR CT,CD لأي أشعة مقطعية,173.25,4/17/24
+1783,CERVICAL OPEN MOUTH,أشعة على الفقرات العنقية وضع واحد,602.25,4/17/24
+1784,CERVICAL SPINE ( AP& LAT),أشعة على الفقرات العنقية (أمامي-خلفي-جانبي),613.25,4/17/24
+1785,CERVICAL SPINES (AP& LAT& OBLIQUE),أشعة على الفقرات العنقية (أمامي-خلفي-مائلين),836,4/17/24
+1786,CERVICAL SPINES (AP& LAT& SWIM),أوضاع الفقرة العنقية السابعة,880,4/17/24
+1787,CERVICAL SPINES (AP&LLAT& FLEXION&EXTENION)DYNAMIC,أشعة على الفقرات العنقية أربعة أوضاع,1221,4/17/24
+1788,CHEST LATERAL DECUBITUS,الصدر نائم جانبي,544.5,4/17/24
+1789,CHEST LORDITIC VIEW,أشعة على الصدر الوضع المائل للخلف,726,4/17/24
+1790,CHEST& HEART PA,أشعة على الصدر (خلفي-أمامي),429,4/17/24
+1791,CHEST&HEART PA&LAT,أشعة على الصدر (خلفي-أمامي-جانبي) وضعين,613.25,4/17/24
+1792,CHEST&HEART PA&LAT&OBLIIUQE,الصدر أمامي خلفي /جانبي /مائل,833.25,4/17/24
+1793,CLAVICLE,أشعة على الترقوة,467.5,4/17/24
+1794,CLAVICLE AP &CEPHALIC,أشعة على الترقوة (وضعين),726,4/17/24
+1795,CT ABDOMEN & PELVIS W. CONTRAST  WITH IV CONTRAST,أشعة مقطعية على البطن والحوض بالصبغة,2527.25,4/17/24
+1796,CT ABDOMEN + GUIDED BIOPSY,مقطعية  على البطن + أخذ عينة,2172.5,4/17/24
+1797,CT ABDOMEN AND PELVIS,مقطعية على البطن و الحوض,2285.25,4/17/24
+1798,CT ABDOMEN WITH CONTRAST,أشعة مقطعية على البطن بالصبغة,1795.75,4/17/24
+1799,CT ABDOMEN WITHOUT CONTRAST,أشعة مقطعية على البطن بدون صبغة,1405.25,4/17/24
+1800,CT ABDOMINAL AORTA CT ANGIO,أشعة مقطعية على الشريان الأورطي البطني,2893,4/17/24
+1801,CT ANKLE,أشعة مقطعية على الكاحل وضعين,1394.25,4/17/24
+1802,CT BOTH ANKLES(RT+LT),أشعة مقطعية على مفصل الكاحل  (جانبين),2106.5,4/17/24
+1803,CT BOTH FEET (RT+LT),أشعة مقطعية على القدمين  (جانبين),2208.25,4/17/24
+1804,CT BOTH HIPS,مقطعية على مفصلي الحوض,1237.5,4/17/24
+1805,CT BOTH KNEES (RT+LT),أشعة مقطعية على الركبتين (جانبين),2208.25,4/17/24
+1806,CT BRAIN,أشعة مقطعية على المخ,1295.25,4/17/24
+1807,CT BRAIN W. CONTRAST,مقطعية على المخ بالصبغة,1595,4/17/24
+1808,CT BRAIN W.& WITHOUTCONTRAST &BONE WINDOW,مقطعية على المخ بالصبغة وبدون الصبغة,1622.5,4/17/24
+1809,CT BRAIN WITHOUT CONTRAST + BONE WINDOW,أشعة مقطعية على عظام الجمجمة,1380.5,4/17/24
+1810,CT CAROTID ARTERIES,أشعة مقطعية على شرايين الرقبة,2010.25,4/17/24
+1811,CT CERVICAL SPINE C1:C7,مقطعية  على الفقرات العنقية من فقرة 1 ل 7,1394.25,4/17/24
+1812,CT CERVICAL SPINE C3:C7,أشعة مقطعية على الفقرات العنقية فقرة 3 : فقرة 7,1237.5,4/17/24
+1813,CT CERVICAL SPINES,أشعة مقطعية على الفقرات العنقية,1487.75,4/17/24
+1814,CT CHEST,مقطعية على الصدر,1641.75,4/17/24
+1815,CT CHEST SCOUT ONLY,استكشاف فقط على الصدر,726,4/17/24
+1816,CT CHEST W. CONTRAST,مقطعية على الصدر  بالصبغة,2084.5,4/17/24
+1817,CT DORSAL SPINE,مقطعية على الفقرات الصدرية كاملة,1520.75,4/17/24
+1818,CT EAR (PETROUS BONE)  W. CONTRAST,مقطعية على  الأذن  بالصبغة,1553.75,4/17/24
+1819,CT ELBOW (RT+LT),أشعة مقطعية على مفصل الكوع (جانبين),1969,4/17/24
+1820,CT ELBOW JOINT,أشعة مقطعية على مفصل الكوع,1097.25,4/17/24
+1821,CT FACIAL BONE,أشعة مقطعية على عظام الوجه,1405.25,4/17/24
+1822,CT FACIAL BONE AXIAL,أشعة مقطعية على عظام الوجه,1394.25,4/17/24
+1823,CT FEMUR WITH CONTRAST(RT+LT),أشعة مقطعية على عظمة الفخذ (جانبين),1969,4/17/24
+1824,CT FOOT,أشعة مقطعية على القدم,1394.25,4/17/24
+1825,CT GUIDED BIOPSY ( INCLUDING NEEDLE ),أخذ عينة بأستخدام الأشعة المطقعية (شامل الإبرة),2959,4/17/24
+1826,CT GUIDED MYELOID & SOFT TISSUE BIOPSY,أخذ عينة من العظام والأنسجة عن طريق الأشعة المقطعية,3825.25,4/17/24
+1827,CT GUIDED MYELOID TISSUE BIOPSY,أخذ عينة من العظام عن طريق الأشعة المقطعية,3253.25,4/17/24
+1828,CT GUIDED SOFT TISSUE BIOPSY,أخذ عينة من الأنسجة عن طريق الأشعة المقطعية,2959,4/17/24
+1829,CT HAND,أشعة مقطعية على اليد,1097.25,4/17/24
+1830,CT KNEE JOINTS,مقطعية على مفصل الركبتين,1394.25,4/17/24
+1831,CT LARYNX WITH CONTRAST,أشعة مقطعية على الحنجرة بالصبغة,2092.75,4/17/24
+1832,CT LOWER LIMB ANGIOGRAPHY,أشعة مقطعية على شرايين الأطراف السفلية,2257.75,4/17/24
+1833,CT LUMBO-SACRAL SPINE L1:S1 WITH CONTRAST,أشعة مقطعية على القطنية كاملة بالصبغة,1641.75,4/17/24
+1834,CT LUMBO-SACRAL SPINE L3:S1,مقطعية على الفقرات القطنية  L3:S1,1353,4/17/24
+1835,CT LUMBOSACRAL SPINES,أشعة مقطعية على الفقرات القطنية والعجزية بالصبغة,1353,4/17/24
+1836,CT LUMBOSACRAL WITH CONTRAST,أشعة مقطعية على الفقرات القطنية والعجزية بالصبغة,1872.75,4/17/24
+1837,CT MANDIBLE,أشعة مقطعية على الفك السفلي,2213.75,4/17/24
+1838,CT MASTOID WITHOUT CONTRAST,مقطعية على الأذن بدون صبغة,2150.5,4/17/24
+1839,CT MASTOIDS WITH CONTRAST,مقطعية على الأذن بالصبغة,2392.5,4/17/24
+1840,CT MESENTERIC ANGIOGRAPHY,أشعة مقطعية (أنجيو) على الأوعية الدموية المعوية,2021.25,4/17/24
+1841,CT NASOPHARYNX,مقطعية على البلعوم الأنفية,1463,4/17/24
+1842,CT NASOPHARYNX  W. CONTRAST,مقطعية على البلعوم الأنفى بالصبغة,2092.75,4/17/24
+1843,CT NECK  WITH CONTARST,مقطعية على الرقبة  بالصبغة,1655.5,4/17/24
+1844,CT NECK WITHOUT CONTRAST,مقطعية على  الرقبة بدون صبغة,1375,4/17/24
+1845,CT ONE KNEE,مقطعية على ركبة واحدة,1245.75,4/17/24
+1846,CT ORBIT,مقطعية على الحجاجين وضعين,1509.75,4/17/24
+1847,CT ORBIT W. CONTRAST,مقطعية على الحجاج و العين بالصبغة,2191.75,4/17/24
+1848,CT PELVIS BONE WINDOW,أشعة مقطعية على الحوض,1424.5,4/17/24
+1849,CT PELVIS WITH CONTRAST,أشعة مقطعية على الحوض بالصبغة,1795.75,4/17/24
+1850,CT PITUITARY,مقطعية على الغدة النخامية,1518,4/17/24
+1851,CT PITUITARY WITH CONTRAST,مقطعية على الغدة النخامية بالصبغة,2021.25,4/17/24
+1852,CT PULMONARY ARTERIES,أشعة مقطعية على الشرايين الرنوية,1971.75,4/17/24
+1853,CT RENAL ARTERIES,أشعة مقطعية على الشرايين الكلوية,1971.75,4/17/24
+1854,CT SCANOGRAM,أشعة رقمية لقياس طول عظام الطرفيين السفليين,1075.25,4/17/24
+1855,CT SCANOGRAM (LOWER LIMB),مقطعية لعظام الأطراف,1518,4/17/24
+1856,CT SHOULDER,مقطعية على الكتف,1284.25,4/17/24
+1857,CT SINUSES  ( CORONAL & AXIAL ) W. CONTRAST,مقطعية على الجيوب الأنفية بالصبغة,2084.5,4/17/24
+1858,CT SINUSES ( CORONAL ONLY,أشعة مقطعية الجيوب الأنفية,959.75,4/17/24
+1859,CT SINUSES ( CORONAL&AXIAL ),مقطعية على الجيوب الأنفية (مقطعين),1718.75,4/17/24
+1860,CT SPINES SCOUT ONLY,استكشاف للفقرات,847,4/17/24
+1861,CT TEMPORAL BONE WITH CONTRAST,أشعة مقطعية  على عظام الصدغ بالصبغة,1872.75,4/17/24
+1862,CT THORACIC AORTA CT ANGIO,أشعة مقطعية على الشريان الأورطي الصدري,2670.25,4/17/24
+1863,CT TMJ CORONAL & AXIAL,أشعة مقطعية على مفصلي الفك (أفقية ورأسية),1757.25,4/17/24
+1864,CT TRIPHASIC ( SPIRAL ) FOR ABDOMEN,أشعة مقطعية على الكبد (الفحص الثلاثى) بالصبغة,2194.5,4/17/24
+1865,CT UPPER LIMBS CT ANGIO,أشعة مقطعية على شرايين الأطراف العلوية,2021.25,4/17/24
+1866,CT URINARY SYSTEM UT,مقطعية  على المسالك البولية,1633.5,4/17/24
+1867,CT URINARY SYSTEM WITH CONTRAST,أشعة مقطعية على الجهاز البولى بالصبغة,1925,4/17/24
+1868,CT VIRTUAL BRONCHOSCOPY,منظار تخيلي للقصبه الهوائية,1757.25,4/17/24
+1869,CT WRIST,أشعة مقطعية على مفصل الرسغ,1097.25,4/17/24
+1870,CT WRIST (RT+LT),أشعة مقطعية على مفصل الرسغ  (جانبين),1872.75,4/17/24
+1871,CT(DENTAL SCANNING),أشعة مقطعية على الأسنان,1757.25,4/17/24
+1872,CTCEREBRAL ANGIOGRAPHY,أشعة مقطعية على شرايين المخ,2112,4/17/24
+1873,CYSTOGRAPHY/ URETHROGRAPHY,أشعة بالصبغة الصاعدة على مجرى البول,987.25,4/17/24
+1874,DOPPLER / ABD AORTA,دوبلر على الأورطي وفروعه,1518,4/17/24
+1875,DOPPLER / INFERIOR VENA CAVA,دوبلر على الوريد الاجوف السفلي,1102.75,4/17/24
+1876,DOPPLER / MESENTRIC ARTERIES,دوبلر على الشرايين المعوية (جانب واحد),1237.5,4/17/24
+1877,DOPPLER / PORTAL VENOUS,دوبلر على الوريد البابي,1287,4/17/24
+1878,DOPPLER / RENAL ARTERIES 2 SIDE,دوبلر على شرايين الكلى (جانبين),1518,4/17/24
+1879,DOPPLER CAROTID BOTH SIDES,دوبلر على الشرايين السباتية,1394.25,4/17/24
+1880,DOPPLER L.L. (LEG)  ARTERIES BOTH SIDES,دوبلر شرايين الساق ناحيتين,2213.75,4/17/24
+1881,DOPPLER L.L. (LEG) ARTERIES ONE SIDE,دوبلر شرايين الساق ناحية واحدة,1496,4/17/24
+1882,DOPPLER L.L. (LEG) VEINS BOTH SIDES,دوبلر أوردة الساق ناحيتين,1881,4/17/24
+1883,DOPPLER L.L. (LEG) VEINS ONE SIDE,دوبلر أوردة الساق ناحية واحدة,1168.75,4/17/24
+1884,DOPPLER PELVIC ARTERIES,شرايين الحوض,1394.25,4/17/24
+1885,DOPPLER PENILE,دوبلر على أوعية دموية القضيب,1518,4/17/24
+1886,DOPPLER PREGNANCY,دوبلر الحمل,610.5,4/17/24
+1887,DOPPLER U.L. (ARM) ARTERIES BOTH SIDES,دوبلر شرايين الذراع جانبين,1826,4/17/24
+1888,DOPPLER U.L. (ARM) ARTERIES ONE SIDE,دوبلر شرايين الذراع ناحية واحدة,1496,4/17/24
+1889,DOPPLER U.L. (ARM) VEINS BOTH SIDES,دوبلر أوردة الذراع ناحيتين,1826,4/17/24
+1890,DOPPLER U.L. (ARM) VEINS ONE SIDE,دوبلر أوردة الذراع ناحية واحدة,1124.75,4/17/24
+1891,DORSAL SPINES (AP&LAT ),أشعة الفقرات الصدرية (أمامي-خلفي-جانبي),808.5,4/17/24
+1892,DORSOLUMBER,أشعة على الفقرات الصدرية (وضع واحد),456.5,4/17/24
+1893,ELBOW JOINT ( AP& LAT ) ONE SIDE,أشعة على مفصل الكوع (أمامي-خلفي-مائل),566.5,4/17/24
+1894,ELBOW JOINTS (AP& LAT) BOTH SIDES,مفصل الكوع الناحيتين,585.75,4/17/24
+1895,EXTRA FILM FOR RADIOLOGICAL INVESTIAGATION,فيلم إضافي لأي أشعة,173.25,4/17/24
+1896,FEET AP&LAT &OBLIQUE BOTH SIDES,أشعة على عظام القدمين (أمامي خلفي-مائل- جانبي),679.25,4/17/24
+1897,FEET BOTH SIDES(AP& LAT),الكعبين,533.5,4/17/24
+1898,FEMUR ONE SIDE(AP &LAT),أشعة على  الفخذ (أمامي خلفي وجانبي),475.75,4/17/24
+1899,FEMURS (AP& LAT&OBLIQUE),أشعة على عظام الفخذ (أمامي خلفي جانبي ومائل),651.75,4/17/24
+1900,FISTULOGRAPHY,أشعة بالصبغة على الناصور,1410.75,4/17/24
+1901,FLUOROSCOPY (E.R.C.P ),الفلوروسكوبي (خاص بمنظار القنوات المرارية),679.25,4/17/24
+1902,FOOT ONE SIDE (AP&LAT&OBLIQUE),أشعة على عظام القدم (جانبي وأمامي-خلفي ومائل),583,4/17/24
+1903,FOOT ONE SIDE (AP&LAT),أشعة على القدم وضعين,478.5,4/17/24
+1904,FOREARM BOTH SIDES (AP& LAT),أشعة عادية على الساعدين الأيمن والأيسر,726,4/17/24
+1905,FOREARM ONE SIDE (AP & LAT),أشعة على عظام الساعد (أمامي-خلفي-مائل),572,4/17/24
+1906,FOREFOOT AP&LAT,أشعة على مقدمة القدم الأمامية (أمامي خلفي جانبي),544.5,4/17/24
+1907,GASTROGRAPHINE ENEMSA,أشعة بالصبغة القولون,1410.75,4/17/24
+1908,GASTROGRAPHINE MEAL,أشعة بالصبغة على المعدة,1245.75,4/17/24
+1909,GASTROGRAPHINE MEAL AND FOLLOW THROUGH,GASTROGRAPHINE MEAL AND FOLLOW THROUGH,1240.25,4/17/24
+1910,GASTROGRAPHINE SWALLOW,أشعة بالصبغة  على المريء,1240.25,4/17/24
+1911,H.S.C,أشعة بالصبغة على الرحم والأنابيب (بواسطة طبيب النساء),1410.75,4/17/24
+1912,HAND AP& LAT&OBLIQUE ONE SIDE,أشعة على عظام اليد (أمامي خلفي-مائل) جهة واحدة,519.75,4/17/24
+1913,HAND BOTH SIDES (AP &LAT&OBLIQUE),اليد جانبين أمامي خلفي وجانبي ومائل,726,4/17/24
+1914,HAND ONE SIDE (AP &LA),أشعة على عظام اليد (أمامي-خلفي),478.5,4/17/24
+1915,HAND ONE SIDE (AP &LAT),أشعة على اليد وضعين,467.5,4/17/24
+1916,HANDS BOTH SIDES ( AP& LAT),أشعة على اليدين وضعين (أمامي خلفي &جانبي),726,4/17/24
+1917,HIP JOINT BOTH SIDES ( AP& LAT ),مفصلى الفخذين الناحيتين,783.75,4/17/24
+1918,HIP JOINT ONE SIDE (AP& LAT ),أشعة على مفصل الفخذ (أمامي-خلفي-مائل),572,4/17/24
+1919,HYSTEROSALPINGOGRAPHY,أشعة بالصبغة على الرحم و الانابيب (بدون أتعاب طبيب),1463,4/17/24
+1920,I V U/ I V P,أشعة بالصبغة على المسالك البولية,1702.25,4/17/24
+1921,INFUSION UROGRAPHY,المسالك البولية بالتنقيط,1237.5,4/17/24
+1922,INSERATION OF PIGTAIL MICROVASIVE CATHTER U/S,تركيب قسطرة  عن طريق الموجات الفوق صوتية ,6022.5,4/17/24
+1923,KNEE JOINT AP&LAT&TUNNEL ONSIDE,أشعة على عظام الركبة (أمامي-خلفي-جانبي-محورى),679.25,4/17/24
+1924,KNEE JOINT ONE SIDE (AP &LAT),أشعة على عظام الركبة (أمامي-خلفي-جانبي),478.5,4/17/24
+1925,KNEE JOINT SKYLINE/SIDE,الركبة (سكاى لاين),544.5,4/17/24
+1926,KNEE JOINTS BOTH SIDES (AP& LAT&SKY LINE),أشعة على مفصلي الركبة اليمنى واليسرى وضعين,726,4/17/24
+1927,KNEE JOINTS BOTH SIDES (AP& LAT&TUNNEL),أشعة على مفصلي الركبة اليمنى واليسرى ثلاث أوضاع,778.25,4/17/24
+1928,KNEE JOINTS BOTH SIDES (AP& LAT),الركبتين,803,4/17/24
+1929,KNEE JOINTS STANDING,الركبة واقفا,679.25,4/17/24
+1930,LARYNX PLAIN AP+LAT,أشعة على الحنجرة (أمامي خلفي وجانبي),385,4/17/24
+1931,LEG AP&LAT BOTH SIDES,أشعة على عظام الساق (أمامي خلفي / جانبي) جانبين,778.25,4/17/24
+1932,LEG AP&LAT ONE SIDE,أشعة على عظام الساق (أمامي-خلفي-جانبي),544.5,4/17/24
+1933,LOWER LIMB CHILDERN AP ONLY,أشعة عادية على الطرف السفلي للأطفال,544.5,4/17/24
+1934,LUMBAR SPINES (AP& LAT&OBLIQUE),أشعة على الفقرات القطنية (أمامي خلفي-جانبي-مائلين),808.5,4/17/24
+1935,LUMBAR SPINES (AP&LAT),أشعة على الفقرات القطنية (أمامي-خافى-جانبي),662.75,4/17/24
+1936,LUMBAR SPINES (AP&LLAT& FLEXION&EXTENION)DYNAMIC,أشعة على الفقرات القطنية (أمامي-جانبي-مائلين-دينامك),1221,4/17/24
+1937,LUMBER SPINES AP,أشعة على الفقرات القطنية وضع واحد,783.75,4/17/24
+1938,LUMBER SPINES LAT,أشعة على الفقرات القطنية وضع واحد,610.5,4/17/24
+1939,"LUMBOSACRAL SPINE AP,LAT,FLEX,EXT, DYNAMIC",الفقرات القطنية العجزية أوضاع ديناميكية,1221,4/17/24
+1940,MAMMOGRAPHY ( BILATERAL ),الماموجرام جهتين,1410.75,4/17/24
+1941,MAMMOGRAPHY( UNILATERAL ),الماموجرام جهة واحدة,959.75,4/17/24
+1942,MANDIBLE PA &OBLIQUE BOTH SIDES,الفك السفلى أمامي خلفي ومائل للجهتين,679.25,4/17/24
+1943,MANDIBLE PA VIEW,أشعة على الفك,448.25,4/17/24
+1944,MANDIBLE PA&OBLIQUE ON SIDE,أشعة على عظام الفك السفلى (وضعين),552.75,4/17/24
+1945,MASTOID ONE SIDE,أشعة على عظام الماستويد جانب واحد,448.25,4/17/24
+1946,MASTOIDS( BOTH),أشعة على عظمة الماستويد (جانبين),544.5,4/17/24
+1947,MRA,رنين مغناطيسي على شرايين المخ,2290.75,4/17/24
+1948,MRI (MRA MRV) BRAIN ARTERIES AND VEINS,رنين مغناطيسي على شرايين وأوردة المخ ,3789.5,4/17/24
+1949,MRI ABDOMEN,رنين مغناطيسي على البطن,2285.25,4/17/24
+1950,MRI ABDOMINAL WALL,رنين مغناطيسي على جدار البطن ,2502.5,4/17/24
+1951,MRI ANKLE,رنين مغناطيسي على مفصل الكاحل,2285.25,4/17/24
+1952,MRI BRAIN,رنين مغناطيسي على المخ,2348.5,4/17/24
+1953,MRI BRAIN + DIFFUSION,رنين مغناطيسي على المخ بالانتشار,2502.5,4/17/24
+1954,MRI BRAIN + DIFFUSION + MRA,رنين مغناطيسي على شرايين المخ بالانتشار,3547.5,4/17/24
+1955,MRI CALF MUSCLE ,رنين مغناطيسي على عضلة السمانة,2502.5,4/17/24
+1956,MRI CERVICAL SPINE,رنين مغناطيسي على الفقرات العنقية,2348.5,4/17/24
+1957,MRI CHEST ,رنين مغناطيسي على الصدر ,2285.25,4/17/24
+1958,MRI CHEST WALL,رنين مغناطيسي على جدار الصدر,2502.5,4/17/24
+1959,MRI CLAVICLE,رنين مغناطيسي على الترقوه ,2502.5,4/17/24
+1960,MRI COCCYX,رنين مغناطيسي على الفقرات العصعصية,2502.5,4/17/24
+1961,MRI DORSAL SPINE,رنين مغناطيسي على الفقرات الصدرية,2285.25,4/17/24
+1962,MRI ELBOW,رنين مغناطيسي على الكوع,2285.25,4/17/24
+1963,MRI FACE ,رنين مغناطيسي على الوجه ,2502.5,4/17/24
+1964,MRI FEMUR,رنين على الفخذ,2502.5,4/17/24
+1965,MRI FISTULA,رنين مغناطيسي على الناسور,2502.5,4/17/24
+1966,MRI FOOT,رنين مغناطيسي على القدم,2285.25,4/17/24
+1967,MRI HAND ,رنين على اليد ,2285.25,4/17/24
+1968,MRI HIP JOINT ,رنين على مفصل الفخذ ,2285.25,4/17/24
+1969,MRI KNEE,رنين مغناطيسي على مفصل الركبة,2348.5,4/17/24
+1970,MRI LIVER,رنين مغناطيسي على الكبد,2285.25,4/17/24
+1971,MRI LOWER LIMB ONE SIDE,رنين مغناطيسي على الطرف السفلي,2285.25,4/17/24
+1972,MRI LUMBER SPINE,رنين مغناطيسي على الفقرات القطنية,2348.5,4/17/24
+1973,MRI M.R.C.P.,رنين مغناطيسي على القنوات المرارية,2285.25,4/17/24
+1974,MRI MRA IN ONE SESSION,رنين مغناطيسي على الأوعية الدموية,2502.5,4/17/24
+1975,MRI NECK,رنين مغناطيسي على الرقبة,2285.25,4/17/24
+1976,MRI ORBIT,رنين مغناطيسي على الحجاج والعين,2285.25,4/17/24
+1977,MRI PELVIS,رنين مغناطيسي على الحوض,2285.25,4/17/24
+1978,MRI PITUITARY,رنين مغناطيسي على الغدة النخامية,2285.25,4/17/24
+1979,MRI SHOULDER,رنين مغناطيسي على الكتف,2348.5,4/17/24
+1980,MRI SHOULDER ARTHROGRAPHY,رنين مغناطيسي على الكتف مع حقن المفصل,4386.25,4/17/24
+1981,MRI SINUS & PHARYNX,رنين مغناطيسي على الجيوب الأنفية والبلعوم,2285.25,4/17/24
+1982,MRI TMJ,رنين مغناطيسي على مفصل الفك,2502.5,4/17/24
+1983,MRI UPPER LIMB ONE SIDE,رنين مغناطيسي على الطرف العلوي,2285.25,4/17/24
+1984,MRI URINARY TRACT,رنين مغناطيسي على المسالك,2285.25,4/17/24
+1985,MRI VESSELS,رنين مغناطيسي على الأوعية الدموية,2502.5,4/17/24
+1986,MRI WRIST,رنين مغناطيسي على الرسغ,2285.25,4/17/24
+1987,MRV,رنين مغناطيسي على أوردة المخ,2290.75,4/17/24
+1988,MYELOGRAPHY,الفقرات بالصبغة,1075.25,4/17/24
+1989,NASAL BONES,أشعة على عظام الأنف,327.25,4/17/24
+1990,NASOPHARYNX  LAT,أشعة على البلعوم الأنفي (جانبي),385,4/17/24
+1991,NECK SOFT TISSUE,أشعة على الرقبة,475.75,4/17/24
+1992,NECK U/S,موجات صوتية للغدة والرقبة,748,4/17/24
+1993,ORBIT PA,أشعة عادية على الحجاج,316.25,4/17/24
+1994,ORBIT PA &LAT,أشعة على الحجاجين وضعين,514.25,4/17/24
+1995,ORBIT PA &LAT BOTH SIDES,أشعة على عظام العين (الحجاج) أمامي خلفي,679.25,4/17/24
+1996,OSCALCIS  LAT &AXIAL BOTH SIDES,أشعة على عظام الكعب (جانبي - محورى),624.25,4/17/24
+1997,OSCALCIS  LAT &AXIAL ONE SIDE,أشعة على عظام الكعب (جانبي-محورى),544.5,4/17/24
+1998,OSCALCIS LAT&AXIAL BOTH SIDES,أشعة عادية على الكعبين,533.5,4/17/24
+1999,OSCALCIS LATERAL VIEW BOTH SIDES,الكعبين في الوضع الجانبي,456.5,4/17/24
+2000,P N S (SINUSES),أشعة على الجيوب الأنفية,552.75,4/17/24
+2001,PELVIS &W SOUND,الحوض بالمجس اللولب,880,4/17/24
+2002,PELVIS AP,أشعة على عظام الحوض (أمامي- خلفي),519.75,4/17/24
+2003,PELVIS AP&LAT,أشعة على عظام الحوض (أمامي-خلفي - جانبي),726,4/17/24
+2004,REPORT FOR EXTERNAL RADIOLOGICAL INVESTIAGTION,كتابة تقرير لفحص أشعة تم خارج المستشفى,544.5,4/17/24
+2005,REPORT FOR EXTERNAL RADIOLOGICAL INVESTIAGTION,كتابة تقرير لفحص أشعة تم خارج المستشفى,544.5,4/17/24
+2006,RIB ONE SIDE,أشعة على القفص الصدرى والضلوع,475.75,4/17/24
+2007,RIBS AP &OBLIQUE ONE SIDE,أشعة على الضلوع (أمامي خلفي مائل) جهة واحدة,726,4/17/24
+2008,RIBS BILATERAL,الضلوع  جانبين,456.5,4/17/24
+2009,SACROILIAC (AP& BOTH OBLIQUE),المفصلين العجزيين الحرقفيين,698.5,4/17/24
+2010,SACROILIAC JOINT (AP ),أشعة على المفصلين الحرقفيين أمامي خلفي,475.75,4/17/24
+2011,SACROILIAC JOINT (AP&  OBLIQUE),أشعة على المفصل الحرقفي (أمامي-خلفي-ومائل),624.25,4/17/24
+2012,SACRUM & COCCYX (AP&LAT),الفقرات العجزية الحرقفية أمامي خلفي جانبي,456.5,4/17/24
+2013,SALIVARY GLAND ONE SIDE,أشعة على الغدد اللعابية جانب واحد,514.25,4/17/24
+2014,SALIVARY GLAND PA &OBLIQUE,أشعة على الغدد اللعابية (وضعين),514.25,4/17/24
+2015,SCAPULA AP,أشعة على عظمة اللوح (أمامي-خلفي),374,4/17/24
+2016,SCAPULA AP &LAT,أشعة على عظمة اللوح (أمامي-خلفي-جانبي),544.5,4/17/24
+2017,SCROTAL DUPLEX,دوبلر على دوالي الخصية,1133,4/17/24
+2018,SHOULDER BOTH SIDES AP WITH WIGHT,الكتف للجهتين بالأوزان,544.5,4/17/24
+2019,SHOULDER JOINT (AP& LAT ),أشعة على مفصل الكتف (أمامي-خلفي-جانبي),673.75,4/17/24
+2020,SHOULDER JOINT AP,أشعة على مفصل الكتف (أمامي-خلفي),467.5,4/17/24
+2021,SHOULDER JOINT AP &AXIAL,أشعة على مفصل الكتف (أمامي-خلفي-محوري),778.25,4/17/24
+2022,SHOULDER JOINT AXIAL,الكتف محوري,544.5,4/17/24
+2023,SHOULDER JOINTS BOTH SIDES (AP ),الكتف الأيمن والأيسر الناحيتين,778.25,4/17/24
+2024,SIALOGRAPHY,الغده اللعابية بالصبغة,750.75,4/17/24
+2025,SINUES OM &LAT,أشعة على الجيوب الأنفية (خلفي أمامي-جانبي),514.25,4/17/24
+2026,SKULL AP,أشعة على عظام الجمجمة أمامي خلفي,467.5,4/17/24
+2027,SKULL AP &LAT,أشعة على عظام الجمجمة (أمامي - خلفي- جانبي),750.75,4/17/24
+2028,SKULL AP& LAT&BASE,الجمجمة و قاع الجمجمة,836,4/17/24
+2029,SKULL BASE,أشعة على الجمجمة,398.75,4/17/24
+2030,SKULL PA &LAT & TOWNS,أشعة عادية على الجمجمة أمامي خلفي وجانبي وتاونز,836,4/17/24
+2031,SKULL TOWNS,أشعة على عظام الجمجمة,398.75,4/17/24
+2032,SPINE (CERVICAL + DORSAL + LUMBER) AP & LAT,أشعة على العمود الفقري كاملا - أمامي خلفي وجانبي,1518,4/17/24
+2033,STENVERS-ORBIT,أشعة على عظام العين (الحجاج) أمامي خلفي جانبي,514.25,4/17/24
+2034,STERNOCLAVICULAR JOINT BOTH SIDES,المفصل القصي الترقوي جانبين,448.25,4/17/24
+2035,STERNUM/VIEW,أشعة عادية على عظمة القص,316.25,4/17/24
+2036,T -TUBE CHOLANGIOGRAPHY,القناة المرارية بالصبغة,1509.75,4/17/24
+2037,TEMPEROMANDILUAR JOINT  TOWNS,الفك الصدغي تاونز,385,4/17/24
+2038,TEMPEROMANDILUAR JOINT BOTH SIDE OPEN & CLOSE,الفك الصدغي للجهتين مغلق ومفتوح - الفم,783.75,4/17/24
+2039,TEMPEROMANDILUAR JOINT ONE SIDE OPEN & CLOSE,مفصل الفك الصدغي جهة واحدة مغلق ومفتوح - الفم,709.5,4/17/24
+2040,TEMPEROMANDILUAR JOINT ONE SIDE OPEN & CLOSE&TOWNS,الفك الصدغي جهة واجدة مغلق ومفتوح للفم وتاونز,880,4/17/24
+2041,TEMPEROMANDILUAR JOINTS BOTH SIDES,مفصل الفك الجانبين,572,4/17/24
+2042,THORACIC INLET,مدخل الصدر,726,4/17/24
+2043,U/S CHEST,موجات صوتية على الصدر,654.5,4/17/24
+2044,U/S GUIDED ASPIRATION OF PLEURAL  TAPPING,بذل من الغشاء البللوري بالموجات الصوتية,1969,4/17/24
+2045,U/S GUIDED BIOBSY OR ASPIRATION OF BODY FLUIDS,أخذ عينة بالموجات الفوق صوتية أو بذل من سوائل الجسم,3789.5,4/17/24
+2046,U/S GUIDED BIOPSY,أخذ عينة عن طريق الموجات الصوتية,2068,4/17/24
+2047,U/S GUIDED JOINT INJECTION,حقن المفاصل تحت الموجات فوق الصوتية ,1553.75,4/17/24
+2048,U/S JOINT ONE SIDE,موجات صوتية على المفصل,880,4/17/24
+2049,U/S PELVIS,موجات فوق صوتية على الحوض,613.25,4/17/24
+2050,U/S PROSTATE,موجات صوتية على البروستاتا,726,4/17/24
+2051,U/S SOFT TISSUE & MUSCLE,موجات صوتية على العضلات والعظام,1394.25,4/17/24
+2052,U/S TRANS RECTAL,الفحص الشرجي بالموجات الصوتية,880,4/17/24
+2053,U/S TRANS-VAGINAL,الفحص المهبلي بالموجات الصوتية,679.25,4/17/24
+2054,ULTRA SOUND BREAST 2 SIDES,موجات فوق صوتية على الثدي جانبين,712.25,4/17/24
+2055,ULTRASONOG.OF ABDOMEN + PEVIS,موجات فوق صوتية على البطن و الحوض,987.25,4/17/24
+2056,ULTRASONOGRAPHY OF ABDOMEN,موجات فوق صوتية على البطن,698.5,4/17/24
+2057,ULTRASONOGRAPHY OF THE PERGENANCY,سونار حمل,712.25,4/17/24
+2058,ULTRASONOGRAPHY OF THE PREGENANCY AND ABDOMEN,سونار حمل وبطن,836,4/17/24
+2059,ULTRASOUND BRAIN FOR NEWBORN,موجات صوتية على المخ للأطفال المبتسرين,1306.25,4/17/24
+2060,ULTRASOUND BREAST ONE SIDE,موجات فوق صوتية على الثدي جانب واحد,643.5,4/17/24
+2061,ULTRASOUND FOLLICULAR SCAN U-S 3SETTINGS,متابعه التبويض,880,4/17/24
+2062,ULTRASOUND KIDNEY,موجات فوق صوتية على الكلى,726,4/17/24
+2063,ULTRASOUND LIVER,موجات فوق صوتية على الكبد,726,4/17/24
+2064,ULTRASOUND NECK THYROID,موجات فوق صوتية على الغدة الدرقية,748,4/17/24
+2065,ULTRASOUND SCROTUM (TESTIS),موجات فوق صوتية على الخصيتين,1133,4/17/24
+2066,USAGE OF US AT OR \ 1ST  HOUR ,استخدام جهاز الموجات فوق الصوتية بالعمليات \ الساعة,651.75,4/17/24
+2067,USAGE OF US AT OR \ HALF HOUR AFTER THE FIRST HR.,استخدام جهاز الموجات فوق الصوتية بالعمليات \ نصف ساعة,371.25,4/17/24
+2068,VIRTUAL BRONCHOSCOPY,منظار تخيلي على القصبة الهوائية,1842.5,4/17/24
+2069,WRIST JOINT (AP & LAT & OBLIQ),أشعة على مفصل الرسغ (أمامي-خلفي-مائل),726,4/17/24
+2070,WRIST JOINT (AP & LAT ),أشعة على الرسغ وضعين,566.5,4/17/24
+2071,"WRIST JOINTS BOTH SIDES (AP,LAT)",أشعة على الرسغ الأيمن والأيسر وضعين,808.5,4/17/24
+2072,CT ABDOMEN & PELVIS WITHOUT CONTRAST,أشعة مقطعية على البطن و الحوض بدون صبغة,1969,4/17/24
+2073,CT ANGIOGRAPHY ALL AORTA,تصوير الشريان الأبهر كاملا بالأشعة المقطعية,3195.5,4/17/24
+2074,CT ANGIOGRAPHY UPPER LIMB (R) OR (L),تصوير الطرف العلوي بالأشعة المقطعية,2136.75,4/17/24
+2075,CT ANKEL JOINT  WITH CONTRAST,أشعة مقطعية على مفصل الكاحل بالصبغة,1641.75,4/17/24
+2076,CT BOTH ANKELS WITH CONTRAST,أشعة مقطعية على الكاحلين بالصبغة,1925,4/17/24
+2077,CT BOTH ANKEL JOINTS WITHOUT CONTRAST,أشعة مقطعية على الكاحلين بدون صبغة,1757.25,4/17/24
+2078,CT BOTH  FEET WITH CONTRAST,أشعة مقطعية على القدمين بالصبغة,2246.75,4/17/24
+2079,CT BOTH HIPS WITH CONTRAST,أشعة مقطعية على مفصلي الحوض بالصبغة,1746.25,4/17/24
+2080,CT BOTH KNEES WITH CONTRAST,أشعة مقطعية على الركبتين بالصبغة,2942.5,4/17/24
+2081,CT Carotid and Cerebral angiography,أشعة مقطعية على الشريان السباتي و شرايين المخ,4251.5,4/17/24
+2082,CT CAROTID ANGIOGRAPHY,تصوير الشريان السباتي بالأشعة المقطعية,2664.75,4/17/24
+2083,CT EAR,أشعة مقطعية على الأذن,1969,4/17/24
+2084,CT Elbow (One Side) With contrast,أشعة مقطعية على مفصل الكوع (جانب واحد) بالصبغة,1641.75,4/17/24
+2085,CT ELBOW (ONE SIDE) WITHOUT CONTRAST,أشعة مقطعية على مفصل الكوع (جانب واحد) بدون صبغة,1328.25,4/17/24
+2086,CT ENTEROGRAPHY WITH CONTRAST,أشعة مقطعية على القولون,1553.75,4/17/24
+2087,CT FEMUR (ONE SIDE),أشعة مقطعية على عظمة الفخذ (جانب واحد),1432.75,4/17/24
+2088,CT FEMUR WITH CONTRAST (BOTH SIDES) ,أشعة مقطعية على عظمة الفخذ بالصبغة (جانبين),1699.5,4/17/24
+2089,CT FEMUR WITH CONTRAST (ONE SIDE),أشعة مقطعية على عظمة الفخذ بالصبغة (جانب واحد),1432.75,4/17/24
+2090,CT FOOT WITH CONTRAST (ONE SIDE),أشعة مقطعية على القدم بالصبغة (جانب واحد),1663.75,4/17/24
+2091,CT FOR A LIMB (UPPER OR LOWER),أشعة مقطعية لعظام الأطراف,1578.5,4/17/24
+2092,CT KNEE WITH CONTRAST (ONE SIDE),أشعة مقطعية على الركبة بالصبغة (جانب واحد),1713.25,4/17/24
+2093,CT ORBITS WITHOUT CONTRAST,أشعة مقطعية على الحجاج والعين بدون صبغة,2194.5,4/17/24
+2094,CT PARANASAL SINUSES (CORONAL&AXIAL),أشعة مقطعية على الجيوب الأنفية (مقطعين),1842.5,4/17/24
+2095,CT PARANASAL SINUSES (CORONAL&AXIAL) WITH CONTRAST,أشعة مقطعية على الجيوب الأنفية (مقطعين) بالصبغة,2260.5,4/17/24
+2096,CT PARANASALSINUSES (CORONAL ONLY),أشعة مقطعية على الجيوب الأنفية (مقطع واحد),1086.25,4/17/24
+2097,CT pelvis and both hips with contrast,أشعة مقطعية على عظام ومفاصل الحوض بالصبغة,1713.25,4/17/24
+2098,CT pelvis and both hips without contrast,أشعة مقطعية على عظام ومفاصل الحوض بدون صبغة,1306.25,4/17/24
+2099,CT PELVIS WITHOUT CONTRAST,أشعة مقطعية على عظام الحوض بدون صبغة,1699.5,4/17/24
+2100,CT POST NASAL SPACE WITH CONTRAST,أشعة مقطعية على الجيوب الأنفية الخلفية بالصبغة,1872.75,4/17/24
+2101,CT SHOULDERS (BOTH SIDES),أشعة مقطعية على الكتف (جانبين),2414.5,4/17/24
+2102,CT TRIPHASIC ABDOMEN&PELVIS,أشعة مقطعية على البطن والحوض (الفحص الثلاثي),2541,4/17/24
+2103,CT WRIST WITH CONTRAST (BOTH SIDES),أشعة مقطعية على الرسغ بالصبغة للجانبين بالصبغة,1641.75,4/17/24
+2104,CT WRIST WITH CONTRAST (ONE SIDE),أشعة مقطعية على الرسغ بالصبغة (جانب واحد) بالصبغة,1490.5,4/17/24
+2105,CT virtual Bronchoscopy with contrast,أشعة مقطعية على الرسغ بالصبغة على القصبة الهوائية,2904,4/17/24
+2106,CT TEMPORAL BONE WITHOUT CONTRAST,اشعة مقطعية لعظام الصدغ بدون صبغة,2010.25,4/17/24
+2107,CT ABDOMEN & PELVIS W. CONTRAST AND WITHOUT IV CONTRAST,اشعه مقطعية للبطن و الحوض بالصبغة,2213.75,4/17/24
+2108,C.T ANGIOGRAPHY UPPER LIMB BOTH SIDES,اشعة مقطعية للاويعة الدموية العلوية جانبين,3627.25,4/17/24
+2109,C.T SCAN SCOUT & PRINT (ONE FILM),أشعة مقطعية استكشاف للفقرات مع طباعة فيلم,750.75,4/17/24
+2110,CT ABDOMEN & PELVIS W. CONTRAST AND WITHOUT IV CONTRAST,اشعه مقطعية للبطن و الحوض بالصبغة,2213.75,4/17/24
+2111,CT OVER WEIGHT,اتعاب خاصة للاوزان الزائدة,429,4/17/24
+2112,ANESTHESIA  FOR C.T EXAM,تخدير للاشعة المقطعية,539,4/17/24
+2113,DOPPLER FOR ARTERIO VENOUS SHUNT,أشعة دوبلر على الوصلة الوريدية لمرضي الغسيل الكلوي,836,4/17/24
+2114,DOPPLER RENAL ARTERIES (BOTH SIDES),دوبلر على شرايين الكلى (جانبين),1086.25,4/17/24
+2115,DOPPLER UPPER LIMB FOR AV SHUNT ASSESSMENT,دوبلر على الوصله الوعائيه لمرضى الغسيل الكلوي ,585.75,4/17/24
+2116,contrast medium(gadolinum),صبغه رنين مغناطيسي  ,731.5,4/17/24
+2117,foot scan , أشعة مسح على القدم ,481.25,4/17/24
+2118,KNEE JOINT STRESS FILM ,أشعة علي الركبة متحركة تحت ضغط,335.5,4/17/24
+2119,PRINTING ADDITIONAL FILM,طباعة فيلم إضافي,209,4/17/24
+2120,PTC (PERCUTANEOUS TRANSHEPATIC CHOLANGIOGRAPGY),تصوير القنوات المرارية,932.25,4/17/24
+2121,U/S ASPIRATION OF PLEURAL TAPPING,بذل من الغشاء البللوري بالموجات الفوق الصوتية,2065.25,4/17/24
+2122,U/S JOINT BOTH SIDES,موجات فوق صوتية على مفصلين,1375,4/17/24
+2123,ULTRASOUND OF ABDOMEN (PORTABLE),موجات فوق صوتية على البطن (محمولة),610.5,4/17/24
+2124,ULTRASOUND OF PELVIS (PORTABLE),موجات فوق صوتية على الحوض (محمولة),720.5,4/17/24
+2125,U/S GUIDED ASPIRATION OF ABDOMEN FLUID,سحب سوائل من تجويف البطن بالموجات الصوتيه ,4009.5,4/17/24
+2126,DIAGNOSTIC CHEST ULTRASOUND ,اشعة مقطعية على الصدر تشخيصية,764.5,4/17/24
+2127,X - RAY ABDOMEN AP (PORTABLE) ,أشعة على البطن (أمامي خلفي) محمولة,610.5,4/17/24
+2128,X - RAY ANKLE JOINT BOTH SIDES (PORTABLE),أشعة على عظام الكاحل جانبين (محمولة),720.5,4/17/24
+2129,X - RAY ANKLE JOINT ONE SIDE (PORTABLE),أشعة على عظام الكاحل جانب واحد (محمولة),572,4/17/24
+2130,X - RAY ARM ONE SIDE (AP&LAT) PORTABLE,أشعة على عظام الذراعين جانب واحد (أمامي خلفي و جانبي) محمولة,624.25,4/17/24
+2131,X - RAY ARMS BOTH SIDES (PORTABLE),أشعة على عظام الذراعين جانبين (محمولة),797.5,4/17/24
+2132,X - RAY CHEST (PORTABLE) ,أشعة على الصدر (محمولة),610.5,4/17/24
+2133,X - RAY CHEST WITH CONTRAST FOR HIATAL HERNIA,أشعة على الصدر بالصبغة للفتق الحجابي,775.5,4/17/24
+2134,X - RAY DORSAL SPINES (AP&LAT),أشعة على الفقرات الظهرية (أمامي - خلفي - جانبي),558.25,4/17/24
+2135,X - RAY ELBOW ONE SIDE (PORTABLE),أشعة على مفصل الكوع جانب واحد (محمولة),572,4/17/24
+2136,X - RAY FEMORA BOTH SIDES (PORTABLE),أشعة على الفخذين جانبين (محمولة),918.5,4/17/24
+2137,X - RAY FEMUR ONE SIDE (PORTABLE),أشعة على الفخذ جانب واحد (محمولة),720.5,4/17/24
+2138,X - RAY FOOT (PORTABLE),أشعة على القدم (محمولة),610.5,4/17/24
+2139,X - RAY FOREARM ONE SIDE (PORTABLE),أشعة على عظام الساعد جانب واحد (محمولة),610.5,4/17/24
+2140,X - RAY FOREARMS BOTH SIDES (PORTABLE),أشعة على عظام الساعد جانبين (محمولة),720.5,4/17/24
+2141,X - RAY HEEL BOTH SIDES (LAT&AXIAL) ,أشعة على عظام الكعب جانبين (جانبي-محوري),558.25,4/17/24
+2142,X - RAY HEEL BOTH SIDES (LATERAL VIEW),أشعة على عظام الكعب جانبين (جانبي),429,4/17/24
+2143,X - RAY HEEL ONE SIDE (LAT&AXIAL),أشعة على عظام الكعب (جانبي-محوري) جانب واحد,489.5,4/17/24
+2144,X - RAY HIP ONE SIDE (PORTABLE) ,أشعة على مفصل الفخذ (محمولة),610.5,4/17/24
+2145,X - RAY KNEE JOINT (PORTABLE),أشعة على الركبة جانب واحد (محمولة),610.5,4/17/24
+2146,X - RAY LEG ONE SIDE (AP&LAT) PORTABLE,أشعة على عظام الساق (أمامي - خلفي - جانبي) محمولة,720.5,4/17/24
+2147,X - RAY LEGS BOTH SIDES (PORTABLE),أشعة على عظام الساقين (أمامي - خلفي - جانبي) محمولة,918.5,4/17/24
+2148,X - RAY PELVIS (PORTABLE) ,أشعة على عظام الحوض (محمولة),654.5,4/17/24
+2149,X - RAY SHOULDER JOINT (AP&CAUDAL),أشعة على الكتف (أمامي - خلفي - سفلي),558.25,4/17/24
+2150,X - RAY SHOULDER JOINT (PORTABLE),أشعة على الكتف (محمولة),610.5,4/17/24
+2151,X - RAY SHOULDER JOINT (PORTABLE) ONE FILM ,أشعة على الكتف (محمولة) فيلم واحد,610.5,4/17/24
+2152,X - RAY STERNOCLAVICULAR JOINT (AP),أشعة على المفصل القصي الترقوي (أمامي خلفي),335.5,4/17/24
+2153,X - RAY TEMPEROMANDILUAR JOINT ONE SIDE,أشعة على الفك الصدغي جانب واحد,385,4/17/24

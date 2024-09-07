@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="favicon.ico">
+
+    <title>Starter Template for Bootstrap</title>
+
+
+
+  </head>
+
+  <body>
+
+    <!--scan -->
+    <!--refresh -->
+    <!--confirmation-->
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://med.medlite.app:8095/socket.io/socket.io.js"></script>
+    <script>
+        var socket = io('https://med.medlite.app:8095');
+        socket.on('connect', function(data) {
+            console.log(data);
+            //customer application
+            // socket.emit('SAVE_DATA',{"type_id":"{provider_id}","type":"provider"});
+            //provider application
+            // socket.emit('SAVE_DATA',{"type_id":"{customer_id}","type":"customer"});
+            socket.emit('SAVE_DATA',{"type_id":"1","type":"customer"});
+        });
+        //
+        socket.emit('REFRESH_SCAN_USERS_WITH_TYPE',{"type_id":"1","type":"customer"});
+        socket.on('REFRESH_SCAN_PAGE',()=>{
+            console.log('REFRESH_SCAN_PAGE')
+        })
+    </script>
+  </body>
+</html>
