@@ -1,0 +1,668 @@
+{
+	"info": {
+		"_postman_id": "eb56bb6b-c9fe-4cad-bd47-c1d6789b4073",
+		"name": "Wellness",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "14522071"
+	},
+	"item": [
+		{
+			"name": "auth",
+			"item": [
+				{
+					"name": "login",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Accept",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "phone",
+									"value": "",
+									"type": "text"
+								},
+								{
+									"key": "password",
+									"value": "",
+									"type": "text"
+								},
+								{
+									"key": "device_name",
+									"value": "",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "{{wellness}}/api/auth/login",
+							"host": [
+								"{{wellness}}"
+							],
+							"path": [
+								"api",
+								"auth",
+								"login"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "register",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Accept",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "first_name",
+									"value": "amgad",
+									"type": "text"
+								},
+								{
+									"key": "last_name",
+									"value": "anwar",
+									"type": "text"
+								},
+								{
+									"key": "email",
+									"value": "amgad@gmail.com",
+									"type": "text"
+								},
+								{
+									"key": "password",
+									"value": "123456789",
+									"type": "text"
+								},
+								{
+									"key": "password_confirmation",
+									"value": "123456789",
+									"type": "text"
+								},
+								{
+									"key": "phone",
+									"value": "01277112438",
+									"type": "text"
+								},
+								{
+									"key": "delivery_address_type",
+									"value": "home",
+									"type": "text"
+								},
+								{
+									"key": "handle_delivery_type",
+									"value": "drop_at_door",
+									"type": "text"
+								},
+								{
+									"key": "street",
+									"value": "9 street",
+									"type": "text"
+								},
+								{
+									"key": "avenue",
+									"value": "15",
+									"type": "text"
+								},
+								{
+									"key": "block",
+									"value": "8",
+									"type": "text"
+								},
+								{
+									"key": "home_number",
+									"value": "19",
+									"type": "text"
+								},
+								{
+									"key": "building_number",
+									"value": "19",
+									"type": "text"
+								},
+								{
+									"key": "floor",
+									"value": "4",
+									"type": "text"
+								},
+								{
+									"key": "office_number",
+									"value": "45112",
+									"type": "text"
+								},
+								{
+									"key": "apartment_number",
+									"value": "18",
+									"type": "text"
+								},
+								{
+									"key": "state_id",
+									"value": "1",
+									"type": "text"
+								},
+								{
+									"key": "city_id",
+									"value": "1",
+									"type": "text"
+								},
+								{
+									"key": "otp_code",
+									"value": "0000",
+									"type": "text"
+								},
+								{
+									"key": "device_name",
+									"value": "test_device_name",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "{{wellness}}/api/auth/register",
+							"host": [
+								"{{wellness}}"
+							],
+							"path": [
+								"api",
+								"auth",
+								"register"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "register_check",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Accept",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "first_name",
+									"value": "",
+									"type": "text"
+								},
+								{
+									"key": "last_name",
+									"value": "",
+									"type": "text"
+								},
+								{
+									"key": "email",
+									"value": "",
+									"type": "text"
+								},
+								{
+									"key": "password",
+									"value": "",
+									"type": "text"
+								},
+								{
+									"key": "password_confirmation",
+									"value": "",
+									"type": "text"
+								},
+								{
+									"key": "phone",
+									"value": "",
+									"type": "text"
+								},
+								{
+									"key": "delivery_address_type",
+									"value": "",
+									"type": "text"
+								},
+								{
+									"key": "handle_delivery_type",
+									"value": "",
+									"type": "text"
+								},
+								{
+									"key": "street",
+									"value": "",
+									"type": "text"
+								},
+								{
+									"key": "avenue",
+									"value": "",
+									"type": "text"
+								},
+								{
+									"key": "block",
+									"value": "",
+									"type": "text"
+								},
+								{
+									"key": "home_number",
+									"value": "",
+									"type": "text"
+								},
+								{
+									"key": "building_number",
+									"value": "",
+									"type": "text"
+								},
+								{
+									"key": "floor",
+									"value": "",
+									"type": "text"
+								},
+								{
+									"key": "office_number",
+									"value": "",
+									"type": "text"
+								},
+								{
+									"key": "apartment_number",
+									"value": "",
+									"type": "text"
+								},
+								{
+									"key": "state_id",
+									"value": "",
+									"type": "text"
+								},
+								{
+									"key": "city_id",
+									"value": "",
+									"type": "text"
+								},
+								{
+									"key": "otp_code",
+									"value": "",
+									"type": "text",
+									"disabled": true
+								},
+								{
+									"key": "device_name",
+									"value": "",
+									"type": "text",
+									"disabled": true
+								}
+							]
+						},
+						"url": {
+							"raw": "{{wellness}}/api/auth/register_check",
+							"host": [
+								"{{wellness}}"
+							],
+							"path": [
+								"api",
+								"auth",
+								"register_check"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "logout",
+					"request": {
+						"auth": {
+							"type": "bearer",
+							"bearer": [
+								{
+									"key": "token",
+									"value": "dddd",
+									"type": "string"
+								}
+							]
+						},
+						"method": "POST",
+						"header": [
+							{
+								"key": "Accept",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "",
+									"value": "",
+									"type": "text",
+									"disabled": true
+								},
+								{
+									"key": "",
+									"value": "",
+									"type": "text",
+									"disabled": true
+								},
+								{
+									"key": "",
+									"value": "",
+									"type": "text",
+									"disabled": true
+								}
+							]
+						},
+						"url": {
+							"raw": "{{wellness}}/api/auth/logout",
+							"host": [
+								"{{wellness}}"
+							],
+							"path": [
+								"api",
+								"auth",
+								"logout"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "customer",
+			"item": [
+				{
+					"name": "edit_profile",
+					"request": {
+						"auth": {
+							"type": "bearer",
+							"bearer": [
+								{
+									"key": "token",
+									"value": "1|wj4MTac6500f04VXemWXmdtv5I31pSk0jlzYoHTOf080b1e7",
+									"type": "string"
+								}
+							]
+						},
+						"method": "POST",
+						"header": [
+							{
+								"key": "Accept",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "first_name",
+									"value": "amgad 2",
+									"description": "all inputs like register",
+									"type": "text"
+								},
+								{
+									"key": "",
+									"value": "",
+									"type": "text",
+									"disabled": true
+								},
+								{
+									"key": "",
+									"value": "",
+									"type": "text",
+									"disabled": true
+								}
+							]
+						},
+						"url": {
+							"raw": "{{wellness}}/api/customer/edit_profile",
+							"host": [
+								"{{wellness}}"
+							],
+							"path": [
+								"api",
+								"customer",
+								"edit_profile"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "change_phone_number",
+					"request": {
+						"auth": {
+							"type": "bearer",
+							"bearer": [
+								{
+									"key": "token",
+									"value": "dddd",
+									"type": "string"
+								}
+							]
+						},
+						"method": "POST",
+						"header": [
+							{
+								"key": "Accept",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "phone",
+									"value": "",
+									"type": "text"
+								},
+								{
+									"key": "otp_code",
+									"value": "",
+									"type": "text"
+								},
+								{
+									"key": "",
+									"value": "",
+									"type": "text",
+									"disabled": true
+								}
+							]
+						},
+						"url": {
+							"raw": "{{wellness}}/api/customer/change_phone",
+							"host": [
+								"{{wellness}}"
+							],
+							"path": [
+								"api",
+								"customer",
+								"change_phone"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "otp",
+			"item": [
+				{
+					"name": "send_otp_for_register_&_forger_password",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Accept",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "phone",
+									"value": "01277112438",
+									"type": "text"
+								},
+								{
+									"key": "",
+									"value": "",
+									"type": "text",
+									"disabled": true
+								},
+								{
+									"key": "",
+									"value": "",
+									"type": "text",
+									"disabled": true
+								}
+							]
+						},
+						"url": {
+							"raw": "{{wellness}}/api/auth/send_otp",
+							"host": [
+								"{{wellness}}"
+							],
+							"path": [
+								"api",
+								"auth",
+								"send_otp"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "check_otp_for_all",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Accept",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "phone",
+									"value": "01277112438",
+									"type": "text"
+								},
+								{
+									"key": "otp_code",
+									"value": "0000",
+									"type": "text"
+								},
+								{
+									"key": "",
+									"value": "",
+									"type": "text",
+									"disabled": true
+								}
+							]
+						},
+						"url": {
+							"raw": "{{wellness}}/api/auth/check_otp",
+							"host": [
+								"{{wellness}}"
+							],
+							"path": [
+								"api",
+								"auth",
+								"check_otp"
+							],
+							"query": [
+								{
+									"key": "phone",
+									"value": "01277112438",
+									"disabled": true
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "send_otp_for_change_phone_number",
+					"request": {
+						"auth": {
+							"type": "bearer",
+							"bearer": [
+								{
+									"key": "token",
+									"value": "dddd",
+									"type": "string"
+								}
+							]
+						},
+						"method": "POST",
+						"header": [
+							{
+								"key": "Accept",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "phone",
+									"value": "",
+									"type": "text"
+								},
+								{
+									"key": "otp_code",
+									"value": "",
+									"type": "text"
+								},
+								{
+									"key": "",
+									"value": "",
+									"type": "text",
+									"disabled": true
+								}
+							]
+						},
+						"url": {
+							"raw": "{{wellness}}/api/customer/send_otp_to_change_phone",
+							"host": [
+								"{{wellness}}"
+							],
+							"path": [
+								"api",
+								"customer",
+								"send_otp_to_change_phone"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "test request",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
