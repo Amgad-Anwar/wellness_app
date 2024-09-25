@@ -197,6 +197,20 @@ Route::group(['middleware' => 'HttpsProtocol'], function () {
             });
             /*end states routes*/
 
+            Route::group(['prefix' => 'meals'], function () {
+                Route::delete('/delete-multi', [\App\Http\Controllers\Dashboard\MealsController::class, 'deleteMulti'])->name('meals.multi_destroy');
+                Route::post('/export', [\App\Http\Controllers\Dashboard\MealsController::class, 'export'])->name('meals.export');
+                Route::resource('/', \App\Http\Controllers\Dashboard\MealsController::class)->names([
+                    'index' => 'meals.index',
+                    'create' => 'meals.create',
+                    'store' => 'meals.store',
+                    'update' => 'meals.update',
+                    'edit' => 'meals.edit',
+                    'destroy' => 'meals.destroy',
+                    'show' => 'meals.show',
+                ])->parameter('', 'meal');
+            });
+
 
 
  
