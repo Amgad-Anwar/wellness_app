@@ -155,25 +155,25 @@ class AuthenticationController extends Controller
     {
      
         $fields = $request->validate([
-            'first_name' => 'required|string|max:255',
-            'last_name' => 'required|string|max:255',
+            'first_name' => 'nullable|string|max:255',
+            'last_name' => 'nullable|string|max:255',
             'email' => [
-                'required',
+                'nullable',
                 'email',
               //  Rule::unique('discountcard_customer_lists', 'email')->whereNull('deleted_at')
             ],
-            'password' => 'required|string|min:8|confirmed',
+            'password' => 'nullable|string|min:8|confirmed',
             'phone' => [
-                'required',
+                'nullable',
                 'string',
                 Rule::unique('customers', 'phone')->whereNull('deleted_at')
             ],
-            'delivery_address_type' => 'required|in:home,office,building',
-            'handle_delivery_type' => 'required|in:drop_at_door,ring_the_bell,call_you',
+            'delivery_address_type' => 'nullable|in:home,office,building',
+            'handle_delivery_type' => 'nullable|in:drop_at_door,ring_the_bell,call_you',
 
-            'state_id' => ['required', Rule::exists(State::class, 'id')],
-            'city_id' => ['required', Rule::exists(City::class, 'id')],
-            'device_name' => 'required',
+            'state_id' => ['nullable', Rule::exists(State::class, 'id')],
+            'city_id' => ['nullable', Rule::exists(City::class, 'id')],
+            'device_name' => 'nullable',
             //'otp_code' => 'required',
             //'birth_date' => 'nullable|date',
            // 'customer_package_id' => ['nullable', 'sometimes', Rule::exists(CustomerPackage::class, 'id')],

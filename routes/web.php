@@ -211,6 +211,34 @@ Route::group(['middleware' => 'HttpsProtocol'], function () {
                 ])->parameter('', 'meal');
             });
 
+            Route::group(['prefix' => 'packages'], function () {
+                Route::delete('/delete-multi', [\App\Http\Controllers\Dashboard\PackagesController::class, 'deleteMulti'])->name('packages.multi_destroy');
+                Route::post('/export', [\App\Http\Controllers\Dashboard\PackagesController::class, 'export'])->name('packages.export');
+                Route::resource('/', \App\Http\Controllers\Dashboard\PackagesController::class)->names([
+                    'index' => 'packages.index',
+                    'create' => 'packages.create',
+                    'store' => 'packages.store',
+                    'update' => 'packages.update',
+                    'edit' => 'packages.edit',
+                    'destroy' => 'packages.destroy',
+                    'show' => 'packages.show',
+                ])->parameter('', 'package');
+            });
+
+            Route::group(['prefix' => 'package_prices'], function () {
+                Route::delete('/delete-multi', [\App\Http\Controllers\Dashboard\PackagePricesController::class, 'deleteMulti'])->name('package_prices.multi_destroy');
+                Route::post('/export', [\App\Http\Controllers\Dashboard\PackagePricesController::class, 'export'])->name('package_prices.export');
+                Route::resource('/', \App\Http\Controllers\Dashboard\PackagePricesController::class)->names([
+                    'index' => 'package_prices.index',
+                    'create' => 'package_prices.create',
+                    'store' => 'package_prices.store',
+                    'update' => 'package_prices.update',
+                    'edit' => 'package_prices.edit',
+                    'destroy' => 'package_prices.destroy',
+                    'show' => 'package_prices.show',
+                ])->parameter('', 'package_price');
+            });
+
 
 
  

@@ -170,6 +170,43 @@
 
     <hr />
 
+    @if (PerUser('meals.index'))
+    <li @if (request()->segment(2) == 'meals') class="mm-active" @endif>
+        <a href="{{ route('meals.index') }}">
+            <div class="parent-icon icon-color-3">
+                <i class="bx bx-globe"></i>
+            </div>
+            <div class="menu-title">{{ __('Meals') }}</div>
+        </a>
+    </li>
+    @endif
+
+
+    @if (PerUser('packages.index'))
+    <li @if (request()->segment(2) == 'packages') class="mm-active" @endif>
+        <a href="{{ route('packages.index') }}">
+            <div class="parent-icon icon-color-3">
+                <i class="bx bx-globe"></i>
+            </div>
+            <div class="menu-title">{{ __('Packages') }}</div>
+        </a>
+    </li>
+    @endif
+
+
+    @if (PerUser('package_prices.index'))
+    <li @if (request()->segment(2) == 'package_prices') class="mm-active" @endif>
+        <a href="{{ route('package_prices.index') }}">
+            <div class="parent-icon icon-color-3">
+                <i class="bx bx-globe"></i>
+            </div>
+            <div class="menu-title">{{ __('Package Prices') }}</div>
+        </a>
+    </li>
+    @endif
+
+
+
 
     <li>
         @if (true)
