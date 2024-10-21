@@ -43,6 +43,7 @@ Route::group([
         Route::post('/send_otp_to_change_phone', [CustomerController::class, 'sendOtpForChangePhone']);  
         Route::post('/change_phone', [CustomerController::class, 'changePhone']);  
 
+        Route::post('/packages', [CustomerController::class, 'getPackages']);  
 
 
 

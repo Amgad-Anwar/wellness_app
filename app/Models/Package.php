@@ -12,5 +12,8 @@ class Package extends Model
     protected $table='packages';
     protected $guarded=['id'];
 
+    public function package_prices(){
+        return $this->hasMany(PackagePrice::class,'package_id');
+    }
 
 }
