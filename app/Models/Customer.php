@@ -44,10 +44,10 @@ class Customer extends User
         'remember_token',
     ];
 
-    public function setPasswordAttribute($value)
-    {
-        $this->attributes['password'] = Hash::make($value);
-    }
+    // public function setPasswordAttribute($value)
+    // {
+    //     $this->attributes['password'] = Hash::make($value);
+    // }
 
     public function routeNotificationForFcm($notification)
     {
