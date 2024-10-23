@@ -45,7 +45,7 @@ class CustomerController extends Controller
 
             return response()->json([
                 'success' => false,
-                'msg' => "can't update phone",
+                'message' =>  "can't update phone",
             ], 200);
 
         }
@@ -57,7 +57,7 @@ class CustomerController extends Controller
 
             return response()->json([
                 'success' => true,
-                'msg' => 'updated successfully',
+                'message' =>  'updated successfully',
                 'customer' => new CustomerResource($customer),
             ], 200);
 
@@ -87,12 +87,12 @@ class CustomerController extends Controller
         if($response){
             return response()->json([
                 'success' => true,
-                'msg' => 'success'
+                'message' =>  'success'
             ], 200);
         }
         return response()->json([
             'success' => false,
-            'msg' => 'error'
+            'message' =>  'error'
         ], 200);
 
     }
@@ -124,14 +124,14 @@ class CustomerController extends Controller
 
             return response()->json([
                 'success' => true,
-                'msg' => 'updated successfully',
+                'message' =>  'updated successfully',
                 'customer' => new CustomerResource($customer),
             ], 200);
         }
 
         return response()->json([
             'success' => false,
-            'msg' => 'invalid otp',
+            'message' =>  'invalid otp',
         ], 200);
 
 

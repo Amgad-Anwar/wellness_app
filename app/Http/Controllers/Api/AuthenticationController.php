@@ -126,7 +126,7 @@ class AuthenticationController extends Controller
         if (!$customer) {
             return response()->json([
                 'success' => false,
-                'msg' => 'User Not found'
+                'message' =>  'User Not found'
             ], 200);
         }
   
@@ -138,14 +138,14 @@ class AuthenticationController extends Controller
             $token = $customer->createToken($device_name)->plainTextToken;
             return response()->json([
                 'success' => true,
-                'msg' => 'User Found',
+                'message' =>  'User Found',
                 'token' => $token,
                 'customer' => new CustomerResource($customer),
             ], 200);
         } else {
             return response()->json([
                 'success' => false,
-                'msg' => 'invalid Phone Or Password',
+                'message' =>  'invalid Phone Or Password',
             ], 200);
         }
     }
@@ -181,7 +181,7 @@ class AuthenticationController extends Controller
 
         return response()->json([
             'success' => true,
-            'msg' => 'data Validated',
+            'message' =>  'data Validated',
         ], 200);
        
     }
@@ -207,12 +207,12 @@ class AuthenticationController extends Controller
         if($response){
             return response()->json([
                 'success' => true,
-                'msg' => 'success'
+                'message' =>  'success'
             ], 200);
         }
         return response()->json([
             'success' => false,
-            'msg' => 'error'
+            'message' =>  'error'
         ], 200);
 
     }
@@ -241,7 +241,7 @@ class AuthenticationController extends Controller
 
             return response()->json([
                 'success' => true,
-                'msg' => 'success'
+                'message' =>  'success'
             ], 200);
           }
           
@@ -249,7 +249,7 @@ class AuthenticationController extends Controller
 
         return response()->json([
             'success' => false,
-            'msg' => 'invalid otp'
+            'message' =>  'invalid otp'
         ], 200);
 
     }
@@ -271,13 +271,13 @@ class AuthenticationController extends Controller
         if ( $OtpCheck  ) { 
             return response()->json([
                 'success' => true,
-                'msg' => 'success'
+                'message' =>  'success'
             ], 200);
         }
 
         return response()->json([
             'success' => false,
-            'msg' => 'invalid otp'
+            'message' =>  'invalid otp'
         ], 200);
 
     }
